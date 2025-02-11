@@ -1,23 +1,23 @@
 {
     "ClassPlanSource": {
-        "Value": "https://raw.githubusercontent.com/FrankWant/classisland-mgmt-cfg/master/ClassPlans.json",
-        "Version": 9
+        "Value": "https://raw.githubusercontent.com/FrankWant/classisland-mgmt-cfg/master/classplans.json",
+        "Version": 10
     },
     "TimeLayoutSource": {
-        "Value": "https://raw.githubusercontent.com/FrankWant/classisland-mgmt-cfg/master/TimeLayouts.json",
-        "Version": 9
+        "Value": "https://raw.githubusercontent.com/FrankWant/classisland-mgmt-cfg/master/timelayouts.json",
+        "Version": 10
     },
     "SubjectsSource": {
-        "Value": "https://raw.githubusercontent.com/FrankWant/classisland-mgmt-cfg/master/Subjects.json",
-        "Version": 9
+        "Value": "https://raw.githubusercontent.com/FrankWant/classisland-mgmt-cfg/master/subjects.json",
+        "Version": 10
     },
     "DefaultSettingsSource": {
-        "Value": "https://raw.githubusercontent.com/FrankWant/classisland-mgmt-cfg/master/Settings.json",
-        "Version": 9
+        "Value": "https://raw.githubusercontent.com/FrankWant/classisland-mgmt-cfg/master/settings.json",
+        "Version": 10
     },
     "PolicySource": {
         "Value": "https://raw.githubusercontent.com/FrankWant/classisland-mgmt-cfg/master/policy.json",
-        "Version": 9
+        "Version": 10
     },
     "ServerKind": 0,
     "OrganizationName": "DFLS"
