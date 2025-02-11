@@ -1,15 +1,15 @@
 {
     "ClassPlanSource": {
-       "Value": "https://raw.githubusercontent.com/FrankWant/classisland-mgmt-cfg/master/{id}/classplans.json",
-        "Version": 13
+       "Value": "https://raw.githubusercontent.com/FrankWant/classisland-mgmt-cfg/master/{id}/ClassPlans.json",
+        "Version": 16
     },
     "TimeLayoutSource": {
-        "Value": "https://raw.githubusercontent.com/FrankWant/classisland-mgmt-cfg/master/timelayouts.json",
-        "Version": 13
+        "Value": "https://raw.githubusercontent.com/FrankWant/classisland-mgmt-cfg/master/TimeLayouts.json",
+        "Version": 16
     },
     "SubjectsSource": {
-        "Value": "https://raw.githubusercontent.com/FrankWant/classisland-mgmt-cfg/master/subjects.json",
-        "Version": 14
+        "Value": "https://raw.githubusercontent.com/FrankWant/classisland-mgmt-cfg/master/Subjects.json",
+        "Version": 16
     },
     "DefaultSettingsSource": {
         "Value": "https://raw.githubusercontent.com/FrankWant/classisland-mgmt-cfg/master/settings.json",
