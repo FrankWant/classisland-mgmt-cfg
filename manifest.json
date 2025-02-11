@@ -1,6 +1,6 @@
 {
     "ClassPlanSource": {
-        "Value": "https://raw.githubusercontent.com/FrankWant/classisland-mgmt-cfg/master/classplans.json",
+        "Value": "https://raw.githubusercontent.com/FrankWant/classisland-mgmt-cfg/master/{id}/classplans.json",
         "Version": 10
     },
     "TimeLayoutSource": {
