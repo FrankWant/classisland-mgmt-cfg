@@ -9,7 +9,7 @@
     },
     "SubjectsSource": {
         "Value": "https://raw.githubusercontent.com/FrankWant/classisland-mgmt-cfg/master/subjects.json",
-        "Version": 13
+        "Version": 14
     },
     "DefaultSettingsSource": {
         "Value": "https://raw.githubusercontent.com/FrankWant/classisland-mgmt-cfg/master/settings.json",
