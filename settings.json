@@ -2,9 +2,6 @@
   "SelectedProfile": "Default.json",
   "IsMainWindowVisible": true,
   "IsWelcomeWindowShowed": true,
-  "SettingsOverlay": {
-
-  },
   "SingleWeekStartTime": "2025-02-17T00:00:00",
   "MultiWeekRotationOffset": [-1, -1, 0, 0, 0],
   "ClassPrepareNotifySeconds": 60,
@@ -53,7 +50,6 @@
   "ExtraInfo4ShowSecondsSeconds": 300,
   "ScheduleSpacing": 1,
   "ShowCurrentLessonOnlyOnClass": false,
-  "IsNonExactCountdownEnabled": false,
   "DefaultOnClassTimePointMinutes": 40,
   "DefaultBreakingTimePointMinutes": 10,
   "IsSplashEnabled": true,
@@ -64,7 +60,7 @@
   "TimeOffsetSeconds": 0,
   "IsTimeAutoAdjustEnabled": false,
   "TimeAutoAdjustSeconds": 0,
-  "LastTimeAdjustDateTime": "2025-02-11T00:00:00+08:00",
+  "LastTimeAdjustDateTime": "2025-02-12T00:00:00+08:00",
   "IsTransientDisabled": false,
   "IsWaitForTransientDisabled": false,
   "IsCriticalSafeMode": true,
@@ -96,57 +92,57 @@
     {
       "ColorContext": null,
       "A": 255,
-      "R": 164,
-      "G": 94,
-      "B": 46,
+      "R": 177,
+      "G": 101,
+      "B": 33,
       "ScA": 1,
-      "ScR": 0.3712377,
-      "ScG": 0.111932434,
-      "ScB": 0.027320893
+      "ScR": 0.4396572,
+      "ScG": 0.13013647,
+      "ScB": 0.015208516
     },
     {
       "ColorContext": null,
       "A": 255,
-      "R": 204,
-      "G": 116,
-      "B": 47,
+      "R": 196,
+      "G": 121,
+      "B": 52,
       "ScA": 1,
-      "ScR": 0.60382736,
-      "ScG": 0.1746474,
-      "ScB": 0.02842604
-    },
-    {
-      "ColorContext": null,
-      "A": 255,
-      "R": 235,
-      "G": 147,
-      "B": 51,
-      "ScA": 1,
-      "ScR": 0.8307699,
-      "ScG": 0.29177067,
-      "ScB": 0.033104766
-    },
-    {
-      "ColorContext": null,
-      "A": 255,
-      "R": 226,
-      "G": 150,
-      "B": 84,
-      "ScA": 1,
-      "ScR": 0.7605245,
-      "ScG": 0.30498734,
-      "ScB": 0.08865559
+      "ScR": 0.55201143,
+      "ScG": 0.19120169,
+      "ScB": 0.034339808
     },
     {
       "ColorContext": null,
       "A": 255,
       "R": 202,
-      "G": 120,
-      "B": 77,
+      "G": 147,
+      "B": 93,
       "ScA": 1,
       "ScR": 0.59061885,
-      "ScG": 0.18782078,
-      "ScB": 0.07421357
+      "ScG": 0.29177067,
+      "ScB": 0.10946172
+    },
+    {
+      "ColorContext": null,
+      "A": 255,
+      "R": 136,
+      "G": 58,
+      "B": 3,
+      "ScA": 1,
+      "ScR": 0.24620135,
+      "ScG": 0.04231141,
+      "ScB": 0.000910581
+    },
+    {
+      "ColorContext": null,
+      "A": 255,
+      "R": 196,
+      "G": 125,
+      "B": 66,
+      "ScA": 1,
+      "ScR": 0.55201143,
+      "ScG": 0.20507874,
+      "ScB": 0.05448028
     }
   ],
   "SelectedPlatteIndex": 0,
@@ -189,7 +185,6 @@
     "ScG": 0.2788943,
     "ScB": 1
   },
-  "MainWindowLineVerticalMargin": 5,
   "CurrentComponentConfig": "Default",
   "IsNotificationEnabled": true,
   "NotificationProvidersEnableStates": {
@@ -219,7 +214,6 @@
       "ClassOnPreparingMaskText": "即将上课",
       "ClassOnMaskText": "上课",
       "ClassOffMaskText": "课间休息",
-      "ClassOffOverlayText": "",
       "IsSpeechEnabledOnClassPreparing": true,
       "IsSpeechEnabledOnClassOn": true,
       "IsSpeechEnabledOnClassOff": true,
@@ -242,10 +236,10 @@
     "4b12f124-8585-43c7-afc5-7bbb7cbe60d6": null,
     "0117fb4f-5374-434a-97fb-4f5374634a07": null,
     "b27c0af3-c917-44de-a61d-8010c3f3fb92": {
-      "Latitude": 31.12,
-      "Longitude": 104.39,
+      "Latitude": 31.14,
+      "Longitude": 104.42,
       "Threshold": 2,
-      "Info": "在2025/2/9 15:36:59时，西藏定日(29.057777 86.65503)发生3.6000009级地震，震源深度8km。本地距离1772km，本地烈度0.0。",
+      "Info": "在2025/2/9 15:36:59时，西藏定日(29.057777 86.65503)发生3.6000009级地震，震源深度8km。本地距离1722km，本地烈度0.0。",
       "IsActive": false
     }
   },
@@ -305,7 +299,7 @@
       "IsSpeechEnabled": false,
       "IsNotificationEffectEnabled": true,
       "IsNotificationSoundEnabled": true,
-      "NotificationSoundPath": "\\\\Mac\\Home\\Desktop\\NHK_EQAlarm.mp3",
+      "NotificationSoundPath": "C:\\Users\\seewo\\AppData\\Local\\Classisland\\NHK_EQAlarm.mp3",
       "IsNotificationTopmostEnabled": true,
       "IsSettingsEnabled": true,
       "IsActive": false
@@ -324,31 +318,28 @@
   "NotificationEffectRenderingScale": 0.1,
   "IsNotificationEffectRenderingScaleAutoSet": true,
   "IsNotificationSpeechEnabled": true,
-  "AllowNotificationSpeech": false,
+  "AllowNotificationSpeech": true,
   "AllowNotificationEffect": true,
   "AllowNotificationSound": true,
   "AllowNotificationTopmost": true,
   "NotificationSoundVolume": 1,
   "NotificationSpeechCustomSmgTokenSource": "",
-  "GptSoVitsSpeechSettings": {
-    "PresetName": "新预设",
-    "IsInternal": false,
-    "GptSoVitsServerIp": "127.0.0.1",
-    "GptSoVitsPort": "8000",
-    "GptSoVitsVoiceName": "your_voice_name",
-    "GptSoVitsTextLang": "zh",
-    "GptSoVitsRefAudioPath": "archive_jingyuan_1.wav",
-    "GptSoVitsPromptLang": "zh",
-    "GptSoVitsPromptText": "我是「罗浮」云骑将军景元。不必拘谨，「将军」只是一时的身份，你称呼我景元便可",
-    "GptSoVitsTextSplitMethod": "cut5",
-    "GptSoVitsBatchSize": 1
-  },
-  "IsAutomationEnabled": false,
-  "CurrentAutomationConfig": "Default",
-  "IsAutomationWarningVisible": true,
   "UpdateMode": 3,
+  "ReleaseChannels": {
+
+  },
   "SelectedChannel": "https://install.appcenter.ms/api/v0.1/apps/hellowrc/classisland/distribution_groups/public",
-  "LastCheckUpdateTime": "0001-01-01T00:00:00",
+  "LastCheckUpdateTime": "2025-02-12T01:06:50.3033237+08:00",
+  "LastCheckUpdateInfoCache": {
+    "version": "",
+    "id": -1,
+    "uploaded_at": "0001-01-01T00:00:00",
+    "package_hashes": [],
+    "download_url": "",
+    "release_notes": "",
+    "fingerprint": "",
+    "IsActive": false
+  },
   "LastUpdateStatus": 0,
   "AutoInstallUpdateNextStartup": true,
   "SpeedTestResults": {
@@ -367,17 +358,60 @@
       "IsTesting": false,
       "IsDelayUnclear": false,
       "IsActive": false
+    },
+    "8593a4a2-0848-40ca-a87c-16e46bf5f695": {
+      "Delay": 0,
+      "CanConnect": false,
+      "IsTested": false,
+      "IsTesting": false,
+      "IsDelayUnclear": false,
+      "IsActive": false
+    },
+    "05cb3142-d4ea-4eb0-9dfc-ddc3af6e20b0": {
+      "Delay": 0,
+      "CanConnect": false,
+      "IsTested": false,
+      "IsTesting": false,
+      "IsDelayUnclear": false,
+      "IsActive": false
+    },
+    "454a648f-12a0-485e-ae85-10a738e25679": {
+      "Delay": 0,
+      "CanConnect": false,
+      "IsTested": false,
+      "IsTesting": false,
+      "IsDelayUnclear": false,
+      "IsActive": false
     }
   },
+  "SelectedUpgradeMirror": "8593a4a2-0848-40ca-a87c-16e46bf5f695",
   "IsAutoSelectUpgradeMirror": true,
   "LastSpeedTest": "2025-02-11T20:33:33.8889625+08:00",
-  "LastUpdateSourceKind": 2,
+  "LastUpdateSourceKind": 0,
   "UpdateReleaseInfo": "",
+  "LastCheckUpdateInfoCacheGitHub": {
+    "Url": null,
+    "HtmlUrl": null,
+    "AssetsUrl": null,
+    "UploadUrl": null,
+    "Id": 0,
+    "NodeId": null,
+    "TagName": null,
+    "TargetCommitish": null,
+    "Name": null,
+    "Body": null,
+    "Draft": false,
+    "Prerelease": false,
+    "CreatedAt": "0001-01-01T00:00:00+00:00",
+    "PublishedAt": null,
+    "Author": null,
+    "TarballUrl": null,
+    "ZipballUrl": null,
+    "Assets": null
+  },
   "UpdateDownloadUrl": "",
   "UpdateVersion": "0.0",
   "UpdateArtifactHash": "",
-  "SelectedUpdateMirrorV2": "main",
-  "SelectedUpdateChannelV2": "stable",
   "WindowDockingLocation": 1,
   "WindowDockingOffsetX": 0,
   "WindowDockingOffsetY": 0,
@@ -386,25 +420,24 @@
   "IsMouseClickingEnabled": false,
   "UseRawInput": false,
   "IsMouseInFadingEnabled": true,
-  "IsMouseInFadingReversed": false,
   "TouchInFadingDurationMs": 0,
   "IsCompatibleWindowTransparentEnabled": false,
   "LastWeatherInfo": {
     "current": {
       "feelsLike": {
-        "value": "12",
+        "value": "8",
         "unit": "℃"
       },
       "humidity": {
-        "value": "74",
+        "value": "83",
         "unit": "%"
       },
       "pressure": {
-        "value": "956",
+        "value": "960",
         "unit": "hPa"
       },
       "temperature": {
-        "value": "8",
+        "value": "7",
         "unit": "℃"
       },
       "visibility": {
@@ -412,26 +445,32 @@
         "unit": "km"
       },
       "weather": "18",
-      "pubTime": "2025-02-11T20:34:25+08:00"
+      "pubTime": "2025-02-12T01:06:55+08:00"
     },
     "alerts": [],
-    "updateTime": 1739277609101,
+    "updateTime": 1739293750286,
     "forecastDaily": {
       "precipitationProbability": {
         "value": [
-          "25",
-          "25",
-          "25",
-          "25",
-          "25"
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
         ]
       },
       "temperature": {
         "value": [
-          {
-            "from": "14",
-            "to": "5"
-          },
           {
             "from": "13",
             "to": "3"
@@ -493,11 +532,7 @@
       "weather": {
         "value": [
           {
-            "from": "1",
-            "to": "2"
-          },
-          {
-            "from": "2",
+            "from": "18",
             "to": "2"
           },
           {
@@ -553,93 +588,16 @@
             "to": "2"
           }
         ]
-      },
-      "sunRiseSet": {
-        "value": [
-          {
-            "from": "2025-02-11T07:49:00+08:00",
-            "to": "2025-02-11T18:46:00+08:00"
-          },
-          {
-            "from": "2025-02-12T07:48:00+08:00",
-            "to": "2025-02-12T18:47:00+08:00"
-          },
-          {
-            "from": "2025-02-13T07:47:00+08:00",
-            "to": "2025-02-13T18:48:00+08:00"
-          },
-          {
-            "from": "2025-02-14T07:46:00+08:00",
-            "to": "2025-02-14T18:49:00+08:00"
-          },
-          {
-            "from": "2025-02-15T07:45:00+08:00",
-            "to": "2025-02-15T18:49:00+08:00"
-          },
-          {
-            "from": "2025-02-16T07:44:00+08:00",
-            "to": "2025-02-16T18:50:00+08:00"
-          },
-          {
-            "from": "2025-02-17T07:43:00+08:00",
-            "to": "2025-02-17T18:51:00+08:00"
-          },
-          {
-            "from": "2025-02-18T07:42:00+08:00",
-            "to": "2025-02-18T18:52:00+08:00"
-          },
-          {
-            "from": "2025-02-19T07:41:00+08:00",
-            "to": "2025-02-19T18:53:00+08:00"
-          },
-          {
-            "from": "2025-02-20T07:40:00+08:00",
-            "to": "2025-02-20T18:53:00+08:00"
-          },
-          {
-            "from": "2025-02-21T07:39:00+08:00",
-            "to": "2025-02-21T18:54:00+08:00"
-          },
-          {
-            "from": "2025-02-22T07:38:00+08:00",
-            "to": "2025-02-22T18:55:00+08:00"
-          },
-          {
-            "from": "2025-02-23T07:37:00+08:00",
-            "to": "2025-02-23T18:56:00+08:00"
-          },
-          {
-            "from": "2025-02-24T07:36:00+08:00",
-            "to": "2025-02-24T18:57:00+08:00"
-          },
-          {
-            "from": "2025-02-25T07:35:00+08:00",
-            "to": "2025-02-25T18:57:00+08:00"
-          }
-        ]
-      }
-    },
-    "forecastHourly": {
-      "temperature": {
-        "value": [9, 9, 8, 9, 9, 9, 8, 7, 6, 6, 6, 5, 7, 8, 9, 11, 12, 13, 13, 13, 13, 11, 10]
-      },
-      "weather": {
-        "value": [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
-      }
-    },
-    "minutely": {
-      "precipitation": {
-        "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
       }
     }
   },
-  "CityId": "weathercn:101272007",
-  "CityName": "旌阳区 (德阳市, 四川, 中国)",
+  "CityId": "101272001",
+  "CityName": "德阳",
   "ExcludedWeatherAlerts": [],
   "ExpIsExcelImportEnabled": false,
   "ExpAllowEditingActivatedTimeLayout": false,
   "DiagnosticFirstLaunchTime": "2025-02-11T20:26:34.3445837+08:00",
-  "DiagnosticStartupCount": 6,
+  "DiagnosticStartupCount": 9,
   "DiagnosticCrashCount": 0,
   "DiagnosticLastCrashTime": "0001-01-01T00:00:00",
   "DiagnosticMemoryKillCount": 0,
@@ -655,12 +613,13 @@
   },
   "OfficialSelectedMirror": "github",
   "PluginIndexes": [],
-  "LastRefreshPluginSourceTime": "2025-02-11T20:33:11.6838398+08:00",
+  "LastRefreshPluginSourceTime": "2025-02-12T01:02:02.7846512+08:00",
   "IsPluginMarketWarningVisible": false,
   "IsDebugEnabled": false,
   "IsDebugOptionsEnabled": false,
   "IsMainWindowDebugEnabled": false,
   "DebugAnimationScale": 1,
+  "DebugTimeSpeed": 1,
   "TimeLayoutEditorIndex": 1,
   "IsDebugConsoleEnabled": false,
   "DebugGitHubAuthKey": "",
@@ -668,13 +627,12 @@
     "Contributors": [],
     "IsActive": false
   },
-  "LastAppVersion": "1.5.4.1",
+  "LastAppVersion": "1.5.0.4",
   "ShowComponentsMigrateTip": false,
   "IsMigratedFromv1_4": false,
   "IsProfileEditorClassInfoSubjectAutoMoveNextEnabled": true,
   "IsSwapMode": true,
   "ShowEchoCaveWhenSettingsPageLoading": false,
   "SettingsPagesCachePolicy": 0,
-  "TrustedProfileIds": [],
   "IsActive": false
 }
