@@ -3,14 +3,14 @@
     "OrganizationName": "DFLS",
     "ClassPlanSource": {
        "Value": "https://raw.githubusercontent.com/FrankWant/classisland-mgmt-cfg/master/{id}/ClassPlans.json",
-        "Version": 2
+        "Version": 8
     },
     "TimeLayoutSource": {
         "Value": "https://raw.githubusercontent.com/FrankWant/classisland-mgmt-cfg/master/TimeLayouts.json",
-        "Version": 2
+        "Version": 8
     },
     "SubjectsSource": {
         "Value": "https://raw.githubusercontent.com/FrankWant/classisland-mgmt-cfg/master/Subjects.json",
-        "Version": 2
+        "Version": 8
     }
 }
