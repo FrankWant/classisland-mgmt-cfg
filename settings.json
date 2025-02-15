@@ -2,6 +2,9 @@
   "SelectedProfile": "Default.json",
   "IsMainWindowVisible": true,
   "IsWelcomeWindowShowed": true,
+  "SettingsOverlay": {
+
+  },
   "SingleWeekStartTime": "2025-02-17T00:00:00",
   "MultiWeekRotationOffset": [-1, -1, 0, 0, 0],
   "ClassPrepareNotifySeconds": 60,
@@ -50,6 +53,7 @@
   "ExtraInfo4ShowSecondsSeconds": 300,
   "ScheduleSpacing": 1,
   "ShowCurrentLessonOnlyOnClass": false,
+  "IsNonExactCountdownEnabled": false,
   "DefaultOnClassTimePointMinutes": 40,
   "DefaultBreakingTimePointMinutes": 10,
   "IsSplashEnabled": true,
@@ -60,10 +64,11 @@
   "TimeOffsetSeconds": 0,
   "IsTimeAutoAdjustEnabled": false,
   "TimeAutoAdjustSeconds": 0,
-  "LastTimeAdjustDateTime": "2025-02-12T00:00:00+08:00",
+  "LastTimeAdjustDateTime": "2025-02-15T00:00:00+08:00",
   "IsTransientDisabled": false,
   "IsWaitForTransientDisabled": false,
   "IsCriticalSafeMode": true,
+  "ShowDetailedStatusOnSplash": false,
   "Theme": 0,
   "PrimaryColor": {
     "ColorContext": null,
@@ -92,57 +97,57 @@
     {
       "ColorContext": null,
       "A": 255,
-      "R": 161,
-      "G": 44,
-      "B": 18,
+      "R": 171,
+      "G": 98,
+      "B": 53,
       "ScA": 1,
-      "ScR": 0.35640016,
-      "ScG": 0.025186861,
-      "ScB": 0.0060488335
+      "ScR": 0.40724024,
+      "ScG": 0.122138776,
+      "ScB": 0.035601314
     },
     {
       "ColorContext": null,
       "A": 255,
-      "R": 206,
-      "G": 49,
-      "B": 10,
+      "R": 49,
+      "G": 102,
+      "B": 161,
       "ScA": 1,
-      "ScR": 0.6172066,
-      "ScG": 0.030713445,
-      "ScB": 0.00303527
+      "ScR": 0.030713445,
+      "ScG": 0.13286832,
+      "ScB": 0.35640016
     },
     {
       "ColorContext": null,
       "A": 255,
-      "R": 215,
-      "G": 87,
-      "B": 37,
+      "R": 70,
+      "G": 115,
+      "B": 171,
       "ScA": 1,
-      "ScR": 0.6795425,
-      "ScG": 0.09530747,
-      "ScB": 0.018500222
+      "ScR": 0.06124606,
+      "ScG": 0.17144111,
+      "ScB": 0.40724024
     },
     {
       "ColorContext": null,
       "A": 255,
-      "R": 168,
-      "G": 74,
-      "B": 49,
+      "R": 99,
+      "G": 141,
+      "B": 199,
       "ScA": 1,
-      "ScR": 0.3915725,
-      "ScG": 0.068478175,
-      "ScB": 0.030713445
+      "ScR": 0.12477182,
+      "ScG": 0.26635563,
+      "ScB": 0.57112485
     },
     {
       "ColorContext": null,
       "A": 255,
-      "R": 208,
-      "G": 113,
-      "B": 87,
+      "R": 226,
+      "G": 145,
+      "B": 90,
       "ScA": 1,
-      "ScR": 0.63075715,
-      "ScG": 0.1651322,
-      "ScB": 0.09530747
+      "ScR": 0.7605245,
+      "ScG": 0.28314877,
+      "ScB": 0.10224174
     }
   ],
   "SelectedPlatteIndex": 0,
@@ -164,7 +169,7 @@
     "ScB": 0
   },
   "Opacity": 0.9,
-  "Scale": 1.4,
+  "Scale": 1.65,
   "MainWindowFont": "/ClassIsland;component/Assets/Fonts/#HarmonyOS Sans SC",
   "MainWindowFontWeight2": 500,
   "RadiusX": 20,
@@ -185,6 +190,7 @@
     "ScG": 0.2788943,
     "ScB": 1
   },
+  "MainWindowLineVerticalMargin": 5,
   "CurrentComponentConfig": "Default",
   "IsNotificationEnabled": true,
   "NotificationProvidersEnableStates": {
@@ -214,6 +220,7 @@
       "ClassOnPreparingMaskText": "即将上课",
       "ClassOnMaskText": "上课",
       "ClassOffMaskText": "课间休息",
+      "ClassOffOverlayText": "",
       "IsSpeechEnabledOnClassPreparing": true,
       "IsSpeechEnabledOnClassOn": false,
       "IsSpeechEnabledOnClassOff": true,
@@ -324,22 +331,25 @@
   "AllowNotificationTopmost": true,
   "NotificationSoundVolume": 1,
   "NotificationSpeechCustomSmgTokenSource": "",
-  "UpdateMode": 3,
-  "ReleaseChannels": {
-
+  "GptSoVitsSpeechSettings": {
+    "PresetName": "新预设",
+    "IsInternal": false,
+    "GptSoVitsServerIp": "127.0.0.1",
+    "GptSoVitsPort": "8000",
+    "GptSoVitsVoiceName": "your_voice_name",
+    "GptSoVitsTextLang": "zh",
+    "GptSoVitsRefAudioPath": "archive_jingyuan_1.wav",
+    "GptSoVitsPromptLang": "zh",
+    "GptSoVitsPromptText": "我是「罗浮」云骑将军景元。不必拘谨，「将军」只是一时的身份，你称呼我景元便可",
+    "GptSoVitsTextSplitMethod": "cut5",
+    "GptSoVitsBatchSize": 1
   },
+  "IsAutomationEnabled": false,
+  "CurrentAutomationConfig": "Default",
+  "IsAutomationWarningVisible": true,
+  "UpdateMode": 0,
   "SelectedChannel": "https://install.appcenter.ms/api/v0.1/apps/hellowrc/classisland/distribution_groups/public",
-  "LastCheckUpdateTime": "2025-02-12T11:40:07.8179735+08:00",
-  "LastCheckUpdateInfoCache": {
-    "version": "",
-    "id": -1,
-    "uploaded_at": "0001-01-01T00:00:00",
-    "package_hashes": [],
-    "download_url": "",
-    "release_notes": "",
-    "fingerprint": "",
-    "IsActive": false
-  },
+  "LastCheckUpdateTime": "2025-02-15T22:12:38.6761552+08:00",
   "LastUpdateStatus": 0,
   "AutoInstallUpdateNextStartup": true,
   "SpeedTestResults": {
@@ -384,34 +394,15 @@
       "IsActive": false
     }
   },
-  "SelectedUpgradeMirror": "8593a4a2-0848-40ca-a87c-16e46bf5f695",
   "IsAutoSelectUpgradeMirror": true,
   "LastSpeedTest": "2025-02-11T20:33:33.8889625+08:00",
   "LastUpdateSourceKind": 0,
   "UpdateReleaseInfo": "",
-  "LastCheckUpdateInfoCacheGitHub": {
-    "Url": null,
-    "HtmlUrl": null,
-    "AssetsUrl": null,
-    "UploadUrl": null,
-    "Id": 0,
-    "NodeId": null,
-    "TagName": null,
-    "TargetCommitish": null,
-    "Name": null,
-    "Body": null,
-    "Draft": false,
-    "Prerelease": false,
-    "CreatedAt": "0001-01-01T00:00:00+00:00",
-    "PublishedAt": null,
-    "Author": null,
-    "TarballUrl": null,
-    "ZipballUrl": null,
-    "Assets": null
-  },
   "UpdateDownloadUrl": "",
   "UpdateVersion": "0.0",
   "UpdateArtifactHash": "",
+  "SelectedUpdateMirrorV2": "main",
+  "SelectedUpdateChannelV2": "stable",
   "WindowDockingLocation": 1,
   "WindowDockingOffsetX": 0,
   "WindowDockingOffsetY": 0,
@@ -420,24 +411,25 @@
   "IsMouseClickingEnabled": false,
   "UseRawInput": false,
   "IsMouseInFadingEnabled": true,
+  "IsMouseInFadingReversed": false,
   "TouchInFadingDurationMs": 0,
   "IsCompatibleWindowTransparentEnabled": false,
   "LastWeatherInfo": {
     "current": {
       "feelsLike": {
-        "value": "9",
+        "value": "12",
         "unit": "℃"
       },
       "humidity": {
-        "value": "34",
+        "value": "79",
         "unit": "%"
       },
       "pressure": {
-        "value": "968",
+        "value": "959",
         "unit": "hPa"
       },
       "temperature": {
-        "value": "9",
+        "value": "8",
         "unit": "℃"
       },
       "visibility": {
@@ -445,10 +437,10 @@
         "unit": "km"
       },
       "weather": "2",
-      "pubTime": "2025-02-12T11:37:08+08:00"
+      "pubTime": "2025-02-15T22:04:08+08:00"
     },
     "alerts": [],
-    "updateTime": 1739331522984,
+    "updateTime": 1739628466508,
     "forecastDaily": {
       "precipitationProbability": {
         "value": [
@@ -472,64 +464,64 @@
       "temperature": {
         "value": [
           {
-            "from": "11",
-            "to": "5"
-          },
-          {
-            "from": "8",
-            "to": "2"
-          },
-          {
-            "from": "15",
-            "to": "2"
-          },
-          {
-            "from": "15",
+            "from": "16",
             "to": "4"
           },
           {
-            "from": "15",
-            "to": "5"
+            "from": "14",
+            "to": "4"
           },
           {
-            "from": "14",
+            "from": "13",
+            "to": "6"
+          },
+          {
+            "from": "10",
             "to": "7"
           },
           {
             "from": "13",
-            "to": "8"
+            "to": "7"
           },
           {
-            "from": "14",
-            "to": "8"
-          },
-          {
-            "from": "12",
-            "to": "8"
+            "from": "10",
+            "to": "7"
           },
           {
             "from": "10",
             "to": "6"
           },
           {
-            "from": "13",
-            "to": "5"
+            "from": "6",
+            "to": "4"
           },
           {
-            "from": "14",
-            "to": "5"
+            "from": "6",
+            "to": "4"
           },
           {
-            "from": "14",
+            "from": "9",
+            "to": "3"
+          },
+          {
+            "from": "8",
+            "to": "3"
+          },
+          {
+            "from": "9",
+            "to": "4"
+          },
+          {
+            "from": "9",
+            "to": "3"
+          },
+          {
+            "from": "11",
             "to": "8"
           },
           {
-            "from": "15",
-            "to": "9"
-          },
-          {
-            "from": "13",
-            "to": "8"
+            "from": "11",
+            "to": "7"
           }
         ]
       },
@@ -537,50 +529,50 @@
         "value": [
           {
             "from": "2",
+            "to": "1"
+          },
+          {
+            "from": "2",
+            "to": "7"
+          },
+          {
+            "from": "7",
+            "to": "7"
+          },
+          {
+            "from": "7",
+            "to": "7"
+          },
+          {
+            "from": "2",
+            "to": "7"
+          },
+          {
+            "from": "7",
+            "to": "7"
+          },
+          {
+            "from": "7",
+            "to": "7"
+          },
+          {
+            "from": "7",
+            "to": "7"
+          },
+          {
+            "from": "2",
+            "to": "7"
+          },
+          {
+            "from": "2",
+            "to": "1"
+          },
+          {
+            "from": "7",
             "to": "2"
           },
           {
-            "from": "2",
-            "to": "1"
-          },
-          {
-            "from": "1",
-            "to": "1"
-          },
-          {
-            "from": "1",
-            "to": "0"
-          },
-          {
-            "from": "1",
-            "to": "1"
-          },
-          {
-            "from": "1",
-            "to": "7"
-          },
-          {
             "from": "7",
-            "to": "7"
-          },
-          {
-            "from": "7",
-            "to": "7"
-          },
-          {
-            "from": "2",
-            "to": "7"
-          },
-          {
-            "from": "7",
-            "to": "7"
-          },
-          {
-            "from": "2",
-            "to": "2"
-          },
-          {
-            "from": "2",
             "to": "2"
           },
           {
@@ -596,16 +588,93 @@
             "to": "2"
           }
         ]
+      },
+      "sunRiseSet": {
+        "value": [
+          {
+            "from": "2025-02-15T07:45:00+08:00",
+            "to": "2025-02-15T18:49:00+08:00"
+          },
+          {
+            "from": "2025-02-16T07:44:00+08:00",
+            "to": "2025-02-16T18:50:00+08:00"
+          },
+          {
+            "from": "2025-02-17T07:43:00+08:00",
+            "to": "2025-02-17T18:51:00+08:00"
+          },
+          {
+            "from": "2025-02-18T07:42:00+08:00",
+            "to": "2025-02-18T18:52:00+08:00"
+          },
+          {
+            "from": "2025-02-19T07:41:00+08:00",
+            "to": "2025-02-19T18:53:00+08:00"
+          },
+          {
+            "from": "2025-02-20T07:40:00+08:00",
+            "to": "2025-02-20T18:53:00+08:00"
+          },
+          {
+            "from": "2025-02-21T07:39:00+08:00",
+            "to": "2025-02-21T18:54:00+08:00"
+          },
+          {
+            "from": "2025-02-22T07:38:00+08:00",
+            "to": "2025-02-22T18:55:00+08:00"
+          },
+          {
+            "from": "2025-02-23T07:37:00+08:00",
+            "to": "2025-02-23T18:56:00+08:00"
+          },
+          {
+            "from": "2025-02-24T07:36:00+08:00",
+            "to": "2025-02-24T18:57:00+08:00"
+          },
+          {
+            "from": "2025-02-25T07:35:00+08:00",
+            "to": "2025-02-25T18:57:00+08:00"
+          },
+          {
+            "from": "2025-02-26T07:34:00+08:00",
+            "to": "2025-02-26T18:58:00+08:00"
+          },
+          {
+            "from": "2025-02-27T07:33:00+08:00",
+            "to": "2025-02-27T18:59:00+08:00"
+          },
+          {
+            "from": "2025-02-28T07:32:00+08:00",
+            "to": "2025-02-28T19:00:00+08:00"
+          },
+          {
+            "from": "2025-03-01T07:31:00+08:00",
+            "to": "2025-03-01T19:00:00+08:00"
+          }
+        ]
+      }
+    },
+    "forecastHourly": {
+      "temperature": {
+        "value": [8, 7, 7, 6, 6, 5, 4, 5, 5, 5, 6, 8, 10, 11, 13, 14, 14, 14, 14, 13, 12, 11, 10]
+      },
+      "weather": {
+        "value": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+      }
+    },
+    "minutely": {
+      "precipitation": {
+        "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
       }
     }
   },
-  "CityId": "101272001",
+  "CityId": "weathercn:101272001",
   "CityName": "德阳",
   "ExcludedWeatherAlerts": [],
   "ExpIsExcelImportEnabled": false,
   "ExpAllowEditingActivatedTimeLayout": false,
   "DiagnosticFirstLaunchTime": "2025-02-11T20:26:34.3445837+08:00",
-  "DiagnosticStartupCount": 22,
+  "DiagnosticStartupCount": 24,
   "DiagnosticCrashCount": 0,
   "DiagnosticLastCrashTime": "0001-01-01T00:00:00",
   "DiagnosticMemoryKillCount": 0,
@@ -627,7 +696,6 @@
   "IsDebugOptionsEnabled": false,
   "IsMainWindowDebugEnabled": false,
   "DebugAnimationScale": 1,
-  "DebugTimeSpeed": 1,
   "TimeLayoutEditorIndex": 1,
   "IsDebugConsoleEnabled": false,
   "DebugGitHubAuthKey": "",
@@ -635,12 +703,15 @@
     "Contributors": [],
     "IsActive": false
   },
-  "LastAppVersion": "1.5.0.4",
+  "LastAppVersion": "1.6.0.0",
   "ShowComponentsMigrateTip": false,
   "IsMigratedFromv1_4": false,
   "IsProfileEditorClassInfoSubjectAutoMoveNextEnabled": true,
   "IsSwapMode": true,
   "ShowEchoCaveWhenSettingsPageLoading": false,
   "SettingsPagesCachePolicy": 0,
+  "TrustedProfileIds": [
+    "c9962c74-999b-47c7-a1c9-d20b61175105"
+  ],
   "IsActive": false
 }
