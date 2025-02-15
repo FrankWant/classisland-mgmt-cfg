@@ -2,7 +2,7 @@
     "Name": "",
     "TimeLayouts": {},
     "ClassPlans": {
-       "c13c4ea5-831a-49ba-975f-132290d63b67": {
+     "c13c4ea5-831a-49ba-975f-132290d63b67": {
       "TimeLayoutId": "400a6e78-92a2-4948-8be9-0a4f63036ec3",
       "TimeRule": {
         "WeekDay": 1,
@@ -12,7 +12,8 @@
       },
       "Classes": [
         {
-          "SubjectId": "a19f0569-67b0-4c33-b495-1d68cd24eec9",
+          "SubjectId": "134d836e-4b64-4909-bddd-55298e17ebfa",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -20,6 +21,7 @@
         },
         {
           "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -27,6 +29,7 @@
         },
         {
           "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -34,6 +37,7 @@
         },
         {
           "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -41,6 +45,7 @@
         },
         {
           "SubjectId": "a41cc849-b4bc-4dfd-a464-7f4fa3e317ca",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -48,6 +53,7 @@
         },
         {
           "SubjectId": "9f0d71b7-b4da-4040-a3d5-64da7573c6dd",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -55,6 +61,7 @@
         },
         {
           "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -62,6 +69,7 @@
         },
         {
           "SubjectId": "134d836e-4b64-4909-bddd-55298e17ebfa",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -69,6 +77,7 @@
         },
         {
           "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -76,13 +85,15 @@
         },
         {
           "SubjectId": "44ec22d3-3dde-40e6-8eb7-a1f4cd378a04",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
           "IsActive": false
         },
         {
-          "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
+          "SubjectId": "0ed2307b-4d9b-48fa-97ed-94bd2213c84e",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -90,6 +101,7 @@
         },
         {
           "SubjectId": "923f4a8b-51eb-468b-971d-bb02e7db0163",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -97,6 +109,7 @@
         },
         {
           "SubjectId": "923f4a8b-51eb-468b-971d-bb02e7db0163",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -104,6 +117,7 @@
         },
         {
           "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -111,6 +125,7 @@
         },
         {
           "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -118,6 +133,7 @@
         },
         {
           "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -146,6 +162,7 @@
           "ClassOnPreparingMaskText": "即将上课",
           "ClassOnMaskText": "上课",
           "ClassOffMaskText": "课间休息",
+          "ClassOffOverlayText": "",
           "IsAttachSettingsEnabled": true,
           "IsActive": false
         },
@@ -174,6 +191,7 @@
       "Classes": [
         {
           "SubjectId": "9875b24c-470d-4195-8a6a-73925ea4808b",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -181,6 +199,7 @@
         },
         {
           "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -188,6 +207,7 @@
         },
         {
           "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -195,6 +215,7 @@
         },
         {
           "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -202,6 +223,7 @@
         },
         {
           "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -209,6 +231,7 @@
         },
         {
           "SubjectId": "44ec22d3-3dde-40e6-8eb7-a1f4cd378a04",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -216,6 +239,7 @@
         },
         {
           "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -223,6 +247,7 @@
         },
         {
           "SubjectId": "134d836e-4b64-4909-bddd-55298e17ebfa",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -230,6 +255,7 @@
         },
         {
           "SubjectId": "7b7aea95-30ad-4490-8d98-0c9179c47a10",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -237,6 +263,7 @@
         },
         {
           "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -244,6 +271,7 @@
         },
         {
           "SubjectId": "9f0d71b7-b4da-4040-a3d5-64da7573c6dd",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -251,6 +279,7 @@
         },
         {
           "SubjectId": "923f4a8b-51eb-468b-971d-bb02e7db0163",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -258,6 +287,7 @@
         },
         {
           "SubjectId": "923f4a8b-51eb-468b-971d-bb02e7db0163",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -265,6 +295,7 @@
         },
         {
           "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -272,6 +303,7 @@
         },
         {
           "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -279,6 +311,7 @@
         },
         {
           "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -307,6 +340,7 @@
           "ClassOnPreparingMaskText": "即将上课",
           "ClassOnMaskText": "上课",
           "ClassOffMaskText": "课间休息",
+          "ClassOffOverlayText": "",
           "IsAttachSettingsEnabled": true,
           "IsActive": false
         },
@@ -335,6 +369,7 @@
       "Classes": [
         {
           "SubjectId": "f1fdf967-dd2b-41da-8aaa-2eacb76a02c5",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -342,6 +377,7 @@
         },
         {
           "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -349,6 +385,7 @@
         },
         {
           "SubjectId": "7b7aea95-30ad-4490-8d98-0c9179c47a10",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -356,6 +393,7 @@
         },
         {
           "SubjectId": "a41cc849-b4bc-4dfd-a464-7f4fa3e317ca",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -363,6 +401,7 @@
         },
         {
           "SubjectId": "9f0d71b7-b4da-4040-a3d5-64da7573c6dd",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -370,6 +409,7 @@
         },
         {
           "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -377,6 +417,7 @@
         },
         {
           "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -384,6 +425,7 @@
         },
         {
           "SubjectId": "134d836e-4b64-4909-bddd-55298e17ebfa",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -391,6 +433,7 @@
         },
         {
           "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -398,6 +441,7 @@
         },
         {
           "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -405,6 +449,7 @@
         },
         {
           "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -412,6 +457,7 @@
         },
         {
           "SubjectId": "923f4a8b-51eb-468b-971d-bb02e7db0163",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -419,6 +465,7 @@
         },
         {
           "SubjectId": "923f4a8b-51eb-468b-971d-bb02e7db0163",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -426,6 +473,7 @@
         },
         {
           "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -433,6 +481,7 @@
         },
         {
           "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -440,6 +489,7 @@
         },
         {
           "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -468,6 +518,7 @@
           "ClassOnPreparingMaskText": "即将上课",
           "ClassOnMaskText": "上课",
           "ClassOffMaskText": "课间休息",
+          "ClassOffOverlayText": "",
           "IsAttachSettingsEnabled": true,
           "IsActive": false
         },
@@ -496,6 +547,7 @@
       "Classes": [
         {
           "SubjectId": "9875b24c-470d-4195-8a6a-73925ea4808b",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -503,6 +555,7 @@
         },
         {
           "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -510,6 +563,7 @@
         },
         {
           "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -517,6 +571,7 @@
         },
         {
           "SubjectId": "9f0d71b7-b4da-4040-a3d5-64da7573c6dd",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -524,6 +579,7 @@
         },
         {
           "SubjectId": "44ec22d3-3dde-40e6-8eb7-a1f4cd378a04",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -531,6 +587,7 @@
         },
         {
           "SubjectId": "7b7aea95-30ad-4490-8d98-0c9179c47a10",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -538,6 +595,7 @@
         },
         {
           "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -545,6 +603,7 @@
         },
         {
           "SubjectId": "134d836e-4b64-4909-bddd-55298e17ebfa",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -552,6 +611,7 @@
         },
         {
           "SubjectId": "a41cc849-b4bc-4dfd-a464-7f4fa3e317ca",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -559,6 +619,7 @@
         },
         {
           "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -566,6 +627,7 @@
         },
         {
           "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -573,6 +635,7 @@
         },
         {
           "SubjectId": "923f4a8b-51eb-468b-971d-bb02e7db0163",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -580,6 +643,7 @@
         },
         {
           "SubjectId": "923f4a8b-51eb-468b-971d-bb02e7db0163",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -587,6 +651,7 @@
         },
         {
           "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -594,6 +659,7 @@
         },
         {
           "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -601,6 +667,7 @@
         },
         {
           "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -629,6 +696,7 @@
           "ClassOnPreparingMaskText": "即将上课",
           "ClassOnMaskText": "上课",
           "ClassOffMaskText": "课间休息",
+          "ClassOffOverlayText": "",
           "IsAttachSettingsEnabled": true,
           "IsActive": false
         },
@@ -657,6 +725,7 @@
       "Classes": [
         {
           "SubjectId": "f1fdf967-dd2b-41da-8aaa-2eacb76a02c5",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -664,6 +733,7 @@
         },
         {
           "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -671,6 +741,7 @@
         },
         {
           "SubjectId": "a41cc849-b4bc-4dfd-a464-7f4fa3e317ca",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -678,6 +749,7 @@
         },
         {
           "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -685,6 +757,7 @@
         },
         {
           "SubjectId": "7b7aea95-30ad-4490-8d98-0c9179c47a10",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -692,6 +765,7 @@
         },
         {
           "SubjectId": "44ec22d3-3dde-40e6-8eb7-a1f4cd378a04",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -699,6 +773,7 @@
         },
         {
           "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -706,6 +781,7 @@
         },
         {
           "SubjectId": "134d836e-4b64-4909-bddd-55298e17ebfa",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -713,6 +789,7 @@
         },
         {
           "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -720,6 +797,7 @@
         },
         {
           "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -727,6 +805,7 @@
         },
         {
           "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -734,6 +813,7 @@
         },
         {
           "SubjectId": "923f4a8b-51eb-468b-971d-bb02e7db0163",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -741,6 +821,7 @@
         },
         {
           "SubjectId": "923f4a8b-51eb-468b-971d-bb02e7db0163",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -748,6 +829,7 @@
         },
         {
           "SubjectId": "159530be-47ff-48d0-910f-b5f567a7bbdd",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -755,6 +837,7 @@
         },
         {
           "SubjectId": "159530be-47ff-48d0-910f-b5f567a7bbdd",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -762,6 +845,7 @@
         },
         {
           "SubjectId": "159530be-47ff-48d0-910f-b5f567a7bbdd",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -790,6 +874,7 @@
           "ClassOnPreparingMaskText": "即将上课",
           "ClassOnMaskText": "上课",
           "ClassOffMaskText": "课间休息",
+          "ClassOffOverlayText": "",
           "IsAttachSettingsEnabled": true,
           "IsActive": false
         },
@@ -818,6 +903,7 @@
       "Classes": [
         {
           "SubjectId": "f1fdf967-dd2b-41da-8aaa-2eacb76a02c5",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -825,6 +911,7 @@
         },
         {
           "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -832,6 +919,7 @@
         },
         {
           "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -839,6 +927,7 @@
         },
         {
           "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -846,6 +935,7 @@
         },
         {
           "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -853,6 +943,7 @@
         },
         {
           "SubjectId": "9f0d71b7-b4da-4040-a3d5-64da7573c6dd",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -860,6 +951,7 @@
         },
         {
           "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -867,6 +959,7 @@
         },
         {
           "SubjectId": "134d836e-4b64-4909-bddd-55298e17ebfa",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -874,6 +967,7 @@
         },
         {
           "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -930,6 +1024,7 @@
       "Classes": [
         {
           "SubjectId": "923f4a8b-51eb-468b-971d-bb02e7db0163",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -937,6 +1032,7 @@
         },
         {
           "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -944,6 +1040,7 @@
         },
         {
           "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -951,6 +1048,7 @@
         },
         {
           "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
+          "IsChangedClass": false,
           "AttachedObjects": {
 
           },
@@ -995,7 +1093,8 @@
         }
       },
       "IsActive": false
-    }
-    },
+  }
+  },
+ 
     "Subjects": {}
 }
