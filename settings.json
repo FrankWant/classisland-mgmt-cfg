@@ -254,21 +254,21 @@
     "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
       "IsNotificationEnabled": true,
       "IsSpeechEnabled": false,
-      "IsNotificationEffectEnabled": true,
+      "IsNotificationEffectEnabled": false,
       "IsNotificationSoundEnabled": false,
       "NotificationSoundPath": "",
-      "IsNotificationTopmostEnabled": false,
-      "IsSettingsEnabled": false,
+      "IsNotificationTopmostEnabled": true,
+      "IsSettingsEnabled": true,
       "IsActive": false
     },
     "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
       "IsNotificationEnabled": true,
       "IsSpeechEnabled": false,
-      "IsNotificationEffectEnabled": true,
+      "IsNotificationEffectEnabled": false,
       "IsNotificationSoundEnabled": false,
       "NotificationSoundPath": "",
-      "IsNotificationTopmostEnabled": false,
-      "IsSettingsEnabled": false,
+      "IsNotificationTopmostEnabled": true,
+      "IsSettingsEnabled": true,
       "IsActive": false
     },
     "7625de96-38aa-4b71-b478-3f156dd9458d": {
@@ -347,7 +347,7 @@
   "IsAutomationEnabled": false,
   "CurrentAutomationConfig": "Default",
   "IsAutomationWarningVisible": true,
-  "UpdateMode": 0,
+  "UpdateMode": 3,
   "SelectedChannel": "https://install.appcenter.ms/api/v0.1/apps/hellowrc/classisland/distribution_groups/public",
   "LastCheckUpdateTime": "2025-02-15T22:12:38.6761552+08:00",
   "LastUpdateStatus": 0,
@@ -417,7 +417,7 @@
   "LastWeatherInfo": {
     "current": {
       "feelsLike": {
-        "value": "12",
+        "value": "8",
         "unit": "℃"
       },
       "humidity": {
@@ -440,25 +440,15 @@
       "pubTime": "2025-02-15T22:04:08+08:00"
     },
     "alerts": [],
-    "updateTime": 1739628466508,
+    "updateTime": 1739628930817,
     "forecastDaily": {
       "precipitationProbability": {
         "value": [
-          "0",
-          "0",
-          "0",
-          "0",
-          "0",
-          "0",
-          "0",
-          "0",
-          "0",
-          "0",
-          "0",
-          "0",
-          "0",
-          "0",
-          "0"
+          "25",
+          "25",
+          "55",
+          "56",
+          "25"
         ]
       },
       "temperature": {
@@ -668,8 +658,8 @@
       }
     }
   },
-  "CityId": "weathercn:101272001",
-  "CityName": "德阳",
+  "CityId": "weathercn:101272007",
+  "CityName": "旌阳区 (德阳市, 四川, 中国)",
   "ExcludedWeatherAlerts": [],
   "ExpIsExcelImportEnabled": false,
   "ExpAllowEditingActivatedTimeLayout": false,
