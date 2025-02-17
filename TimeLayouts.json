@@ -1204,7 +1204,7 @@
         },
         {
           "StartSecond": "2025-01-13T21:17:00+08:00",
-          "EndSecond": "2025-01-13T22:00:00+08:00",
+          "EndSecond": "2025-01-13T22:30:00+08:00",
           "TimeType": 0,
           "IsHideDefault": false,
           "DefaultClassId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",

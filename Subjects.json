@@ -3,10 +3,10 @@
     "TimeLayouts": {},
     "ClassPlans": {},
     "Subjects": {
-       "97d0bf3f-137f-4f8a-87d6-ff387063bbd3": {
+      "97d0bf3f-137f-4f8a-87d6-ff387063bbd3": {
       "Name": "语文",
       "Initial": "语",
-      "TeacherName": "张家俊",
+      "TeacherName": "张东梅",
       "IsOutDoor": false,
       "AttachedObjects": {
         "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
@@ -40,19 +40,20 @@
     "1154d452-5ede-4194-b4dd-cb40c956c8ed": {
       "Name": "数学",
       "Initial": "数",
-      "TeacherName": "陈健",
+      "TeacherName": "雷次元",
       "IsOutDoor": false,
       "AttachedObjects": {
         "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
           "IsClassOnNotificationEnabled": true,
           "IsClassOnPreparingNotificationEnabled": true,
-          "IsClassOffNotificationEnabled": true,
-          "ClassPreparingDeltaTime": 60,
+          "IsClassOffNotificationEnabled": false,
+          "ClassPreparingDeltaTime": 10,
           "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
           "ClassOnPreparingMaskText": "即将上课",
           "ClassOnMaskText": "上课",
           "ClassOffMaskText": "课间休息",
-          "IsAttachSettingsEnabled": false,
+          "ClassOffOverlayText": "",
+          "IsAttachSettingsEnabled": true,
           "IsActive": false
         },
         "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
@@ -64,6 +65,7 @@
           "ExtraInfo4ShowSecondsSeconds": 0,
           "ScheduleSpacing": 1,
           "ShowCurrentLessonOnlyOnClass": false,
+          "IsNonExactCountdownEnabled": false,
           "IsActive": false
         }
       },
@@ -72,7 +74,7 @@
     "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd": {
       "Name": "英语",
       "Initial": "英",
-      "TeacherName": "余南宁",
+      "TeacherName": "周庚申",
       "IsOutDoor": false,
       "AttachedObjects": {
         "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
@@ -84,6 +86,7 @@
           "ExtraInfo4ShowSecondsSeconds": 0,
           "ScheduleSpacing": 1,
           "ShowCurrentLessonOnlyOnClass": false,
+          "IsNonExactCountdownEnabled": false,
           "IsActive": false
         },
         "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
@@ -95,6 +98,7 @@
           "ClassOnPreparingMaskText": "即将上课",
           "ClassOnMaskText": "上课",
           "ClassOffMaskText": "课间休息",
+          "ClassOffOverlayText": "",
           "IsAttachSettingsEnabled": false,
           "IsActive": false
         }
@@ -116,6 +120,7 @@
           "ExtraInfo4ShowSecondsSeconds": 0,
           "ScheduleSpacing": 1,
           "ShowCurrentLessonOnlyOnClass": false,
+          "IsNonExactCountdownEnabled": false,
           "IsActive": false
         },
         "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
@@ -127,6 +132,7 @@
           "ClassOnPreparingMaskText": "即将上课",
           "ClassOnMaskText": "上课",
           "ClassOffMaskText": "课间休息",
+          "ClassOffOverlayText": "",
           "IsAttachSettingsEnabled": false,
           "IsActive": false
         }
@@ -148,6 +154,7 @@
           "ExtraInfo4ShowSecondsSeconds": 0,
           "ScheduleSpacing": 1,
           "ShowCurrentLessonOnlyOnClass": false,
+          "IsNonExactCountdownEnabled": false,
           "IsActive": false
         },
         "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
@@ -159,6 +166,7 @@
           "ClassOnPreparingMaskText": "即将上课",
           "ClassOnMaskText": "上课",
           "ClassOffMaskText": "课间休息",
+          "ClassOffOverlayText": "",
           "IsAttachSettingsEnabled": false,
           "IsActive": false
         }
@@ -168,7 +176,7 @@
     "a4a76e77-29d8-4103-882c-2f4c9d1e8077": {
       "Name": "物理",
       "Initial": "物",
-      "TeacherName": "胡小勇",
+      "TeacherName": "郭建鹏",
       "IsOutDoor": false,
       "AttachedObjects": {
         "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
@@ -180,6 +188,7 @@
           "ExtraInfo4ShowSecondsSeconds": 0,
           "ScheduleSpacing": 1,
           "ShowCurrentLessonOnlyOnClass": false,
+          "IsNonExactCountdownEnabled": false,
           "IsActive": false
         },
         "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
@@ -191,6 +200,7 @@
           "ClassOnPreparingMaskText": "即将上课",
           "ClassOnMaskText": "上课",
           "ClassOffMaskText": "课间休息",
+          "ClassOffOverlayText": "",
           "IsAttachSettingsEnabled": false,
           "IsActive": false
         }
@@ -212,6 +222,7 @@
           "ExtraInfo4ShowSecondsSeconds": 0,
           "ScheduleSpacing": 1,
           "ShowCurrentLessonOnlyOnClass": false,
+          "IsNonExactCountdownEnabled": false,
           "IsActive": false
         },
         "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
@@ -223,6 +234,7 @@
           "ClassOnPreparingMaskText": "即将上课",
           "ClassOnMaskText": "上课",
           "ClassOffMaskText": "课间休息",
+          "ClassOffOverlayText": "",
           "IsAttachSettingsEnabled": false,
           "IsActive": false
         }
@@ -264,7 +276,7 @@
     "7b7aea95-30ad-4490-8d98-0c9179c47a10": {
       "Name": "地理",
       "Initial": "地",
-      "TeacherName": "李雪娟",
+      "TeacherName": "郭启智",
       "IsOutDoor": false,
       "AttachedObjects": {
         "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
@@ -276,18 +288,20 @@
           "ExtraInfo4ShowSecondsSeconds": 0,
           "ScheduleSpacing": 1,
           "ShowCurrentLessonOnlyOnClass": false,
+          "IsNonExactCountdownEnabled": false,
           "IsActive": false
         },
         "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
           "IsClassOnNotificationEnabled": true,
           "IsClassOnPreparingNotificationEnabled": true,
-          "IsClassOffNotificationEnabled": true,
-          "ClassPreparingDeltaTime": 60,
-          "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+          "IsClassOffNotificationEnabled": false,
+          "ClassPreparingDeltaTime": 20,
+          "ClassOnPreparingText": "请同学们拿出地理书及其他资料，做好上课准备。",
           "ClassOnPreparingMaskText": "即将上课",
           "ClassOnMaskText": "上课",
           "ClassOffMaskText": "课间休息",
-          "IsAttachSettingsEnabled": false,
+          "ClassOffOverlayText": "",
+          "IsAttachSettingsEnabled": true,
           "IsActive": false
         }
       },
@@ -302,8 +316,8 @@
         "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
           "IsClassOnNotificationEnabled": true,
           "IsClassOnPreparingNotificationEnabled": true,
-          "IsClassOffNotificationEnabled": true,
-          "ClassPreparingDeltaTime": 60,
+          "IsClassOffNotificationEnabled": false,
+          "ClassPreparingDeltaTime": 420,
           "ClassOnPreparingText": "请同学们尽快前往操场集合。",
           "ClassOnPreparingMaskText": "即将上课",
           "ClassOnMaskText": "上课",
@@ -381,7 +395,7 @@
           "IsClassOnNotificationEnabled": true,
           "IsClassOnPreparingNotificationEnabled": true,
           "IsClassOffNotificationEnabled": true,
-          "ClassPreparingDeltaTime": 60,
+          "ClassPreparingDeltaTime": 420,
           "ClassOnPreparingText": "请同学们尽快前往音乐教室。",
           "ClassOnPreparingMaskText": "即将上课",
           "ClassOnMaskText": "上课",
@@ -532,7 +546,7 @@
     "9875b24c-470d-4195-8a6a-73925ea4808b": {
       "Name": "语文早读",
       "Initial": "语",
-      "TeacherName": "",
+      "TeacherName": "张东梅",
       "IsOutDoor": false,
       "AttachedObjects": {
         "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
@@ -544,6 +558,7 @@
           "ExtraInfo4ShowSecondsSeconds": 0,
           "ScheduleSpacing": 1,
           "ShowCurrentLessonOnlyOnClass": false,
+          "IsNonExactCountdownEnabled": false,
           "IsActive": false
         },
         "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
@@ -555,6 +570,7 @@
           "ClassOnPreparingMaskText": "即将上课",
           "ClassOnMaskText": "上课",
           "ClassOffMaskText": "课间休息",
+          "ClassOffOverlayText": "",
           "IsAttachSettingsEnabled": false,
           "IsActive": false
         }
@@ -596,7 +612,7 @@
       "IsActive": false
     },
     "a19f0569-67b0-4c33-b495-1d68cd24eec9": {
-      "Name": "升旗",
+      "Name": "升旗仪式",
       "Initial": "升旗",
       "TeacherName": "",
       "IsOutDoor": true,
@@ -604,7 +620,7 @@
         "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
           "IsClassOnNotificationEnabled": true,
           "IsClassOnPreparingNotificationEnabled": true,
-          "IsClassOffNotificationEnabled": true,
+          "IsClassOffNotificationEnabled": false,
           "ClassPreparingDeltaTime": 60,
           "ClassOnPreparingText": "请同学们有序前往操场进行升旗。",
           "ClassOnPreparingMaskText": "即将上课",
