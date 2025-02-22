@@ -424,8 +424,8 @@
               "IsActive": false
             },
             "7625de96-38aa-4b71-b478-3f156dd9458d": {
-              "AlertShowMode": 0,
-              "ForecastShowMode": 0,
+              "AlertShowMode": 1,
+              "ForecastShowMode": 1,
               "IsAttachSettingsEnabled": true,
               "IsActive": false
             }
@@ -467,8 +467,8 @@
               "IsActive": false
             },
             "7625de96-38aa-4b71-b478-3f156dd9458d": {
-              "AlertShowMode": 1,
-              "ForecastShowMode": 1,
+              "AlertShowMode": 0,
+              "ForecastShowMode": 0,
               "IsAttachSettingsEnabled": true,
               "IsActive": false
             }
@@ -1318,8 +1318,8 @@
               "IsActive": false
             },
             "7625de96-38aa-4b71-b478-3f156dd9458d": {
-              "AlertShowMode": 2,
-              "ForecastShowMode": 2,
+              "AlertShowMode": 0,
+              "ForecastShowMode": 0,
               "IsAttachSettingsEnabled": true,
               "IsActive": false
             }
@@ -1361,8 +1361,8 @@
               "IsActive": false
             },
             "7625de96-38aa-4b71-b478-3f156dd9458d": {
-              "AlertShowMode": 2,
-              "ForecastShowMode": 2,
+              "AlertShowMode": 0,
+              "ForecastShowMode": 0,
               "IsAttachSettingsEnabled": true,
               "IsActive": false
             }
@@ -1387,6 +1387,7 @@
               "ClassOnPreparingMaskText": "即将上课",
               "ClassOnMaskText": "上课",
               "ClassOffMaskText": "课间休息",
+              "ClassOffOverlayText": "",
               "IsAttachSettingsEnabled": false,
               "IsActive": false
             },
@@ -1399,11 +1400,12 @@
               "ExtraInfo4ShowSecondsSeconds": 0,
               "ScheduleSpacing": 1,
               "ShowCurrentLessonOnlyOnClass": false,
+              "IsNonExactCountdownEnabled": false,
               "IsActive": false
             },
             "7625de96-38aa-4b71-b478-3f156dd9458d": {
-              "AlertShowMode": 2,
-              "ForecastShowMode": 2,
+              "AlertShowMode": 0,
+              "ForecastShowMode": 0,
               "IsAttachSettingsEnabled": true,
               "IsActive": false
             }
@@ -1445,8 +1447,8 @@
               "IsActive": false
             },
             "7625de96-38aa-4b71-b478-3f156dd9458d": {
-              "AlertShowMode": 2,
-              "ForecastShowMode": 2,
+              "AlertShowMode": 0,
+              "ForecastShowMode": 0,
               "IsAttachSettingsEnabled": true,
               "IsActive": false
             }
@@ -1471,6 +1473,7 @@
               "ClassOnPreparingMaskText": "即将上课",
               "ClassOnMaskText": "上课",
               "ClassOffMaskText": "课间休息",
+              "ClassOffOverlayText": "",
               "IsAttachSettingsEnabled": false,
               "IsActive": false
             },
@@ -1483,11 +1486,12 @@
               "ExtraInfo4ShowSecondsSeconds": 0,
               "ScheduleSpacing": 1,
               "ShowCurrentLessonOnlyOnClass": false,
+              "IsNonExactCountdownEnabled": false,
               "IsActive": false
             },
             "7625de96-38aa-4b71-b478-3f156dd9458d": {
-              "AlertShowMode": 2,
-              "ForecastShowMode": 2,
+              "AlertShowMode": 0,
+              "ForecastShowMode": 0,
               "IsAttachSettingsEnabled": true,
               "IsActive": false
             }
@@ -1579,7 +1583,7 @@
           "EndSecond": "2025-01-13T07:52:00+08:00",
           "TimeType": 0,
           "IsHideDefault": false,
-          "DefaultClassId": "",
+          "DefaultClassId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
           "BreakName": "",
           "ActionSet": null,
           "AttachedObjects": {
@@ -1695,8 +1699,8 @@
               "IsActive": false
             },
             "7625de96-38aa-4b71-b478-3f156dd9458d": {
-              "AlertShowMode": 2,
-              "ForecastShowMode": 2,
+              "AlertShowMode": 0,
+              "ForecastShowMode": 0,
               "IsAttachSettingsEnabled": true,
               "IsActive": false
             }
@@ -1738,8 +1742,8 @@
               "IsActive": false
             },
             "7625de96-38aa-4b71-b478-3f156dd9458d": {
-              "AlertShowMode": 2,
-              "ForecastShowMode": 2,
+              "AlertShowMode": 0,
+              "ForecastShowMode": 0,
               "IsAttachSettingsEnabled": true,
               "IsActive": false
             }
@@ -1764,6 +1768,7 @@
               "ClassOnPreparingMaskText": "即将上课",
               "ClassOnMaskText": "上课",
               "ClassOffMaskText": "课间休息",
+              "ClassOffOverlayText": "",
               "IsAttachSettingsEnabled": false,
               "IsActive": false
             },
@@ -1776,11 +1781,12 @@
               "ExtraInfo4ShowSecondsSeconds": 0,
               "ScheduleSpacing": 1,
               "ShowCurrentLessonOnlyOnClass": false,
+              "IsNonExactCountdownEnabled": false,
               "IsActive": false
             },
             "7625de96-38aa-4b71-b478-3f156dd9458d": {
-              "AlertShowMode": 2,
-              "ForecastShowMode": 2,
+              "AlertShowMode": 0,
+              "ForecastShowMode": 0,
               "IsAttachSettingsEnabled": true,
               "IsActive": false
             }
@@ -1822,8 +1828,8 @@
               "IsActive": false
             },
             "7625de96-38aa-4b71-b478-3f156dd9458d": {
-              "AlertShowMode": 2,
-              "ForecastShowMode": 2,
+              "AlertShowMode": 0,
+              "ForecastShowMode": 0,
               "IsAttachSettingsEnabled": true,
               "IsActive": false
             }
@@ -1848,6 +1854,7 @@
               "ClassOnPreparingMaskText": "即将上课",
               "ClassOnMaskText": "上课",
               "ClassOffMaskText": "课间休息",
+              "ClassOffOverlayText": "",
               "IsAttachSettingsEnabled": false,
               "IsActive": false
             },
@@ -1860,11 +1867,12 @@
               "ExtraInfo4ShowSecondsSeconds": 0,
               "ScheduleSpacing": 1,
               "ShowCurrentLessonOnlyOnClass": false,
+              "IsNonExactCountdownEnabled": false,
               "IsActive": false
             },
             "7625de96-38aa-4b71-b478-3f156dd9458d": {
-              "AlertShowMode": 2,
-              "ForecastShowMode": 2,
+              "AlertShowMode": 0,
+              "ForecastShowMode": 0,
               "IsAttachSettingsEnabled": true,
               "IsActive": false
             }
@@ -1906,8 +1914,8 @@
               "IsActive": false
             },
             "7625de96-38aa-4b71-b478-3f156dd9458d": {
-              "AlertShowMode": 2,
-              "ForecastShowMode": 2,
+              "AlertShowMode": 0,
+              "ForecastShowMode": 0,
               "IsAttachSettingsEnabled": true,
               "IsActive": false
             }
@@ -1932,6 +1940,7 @@
               "ClassOnPreparingMaskText": "即将上课",
               "ClassOnMaskText": "上课",
               "ClassOffMaskText": "课间休息",
+              "ClassOffOverlayText": "",
               "IsAttachSettingsEnabled": false,
               "IsActive": false
             },
@@ -1944,11 +1953,12 @@
               "ExtraInfo4ShowSecondsSeconds": 0,
               "ScheduleSpacing": 1,
               "ShowCurrentLessonOnlyOnClass": false,
+              "IsNonExactCountdownEnabled": false,
               "IsActive": false
             },
             "7625de96-38aa-4b71-b478-3f156dd9458d": {
-              "AlertShowMode": 2,
-              "ForecastShowMode": 2,
+              "AlertShowMode": 0,
+              "ForecastShowMode": 0,
               "IsAttachSettingsEnabled": true,
               "IsActive": false
             }
@@ -1990,8 +2000,8 @@
               "IsActive": false
             },
             "7625de96-38aa-4b71-b478-3f156dd9458d": {
-              "AlertShowMode": 2,
-              "ForecastShowMode": 2,
+              "AlertShowMode": 1,
+              "ForecastShowMode": 1,
               "IsAttachSettingsEnabled": true,
               "IsActive": false
             }
@@ -2033,8 +2043,8 @@
               "IsActive": false
             },
             "7625de96-38aa-4b71-b478-3f156dd9458d": {
-              "AlertShowMode": 1,
-              "ForecastShowMode": 1,
+              "AlertShowMode": 0,
+              "ForecastShowMode": 0,
               "IsAttachSettingsEnabled": true,
               "IsActive": false
             }
@@ -2117,8 +2127,8 @@
               "IsActive": false
             },
             "7625de96-38aa-4b71-b478-3f156dd9458d": {
-              "AlertShowMode": 2,
-              "ForecastShowMode": 2,
+              "AlertShowMode": 0,
+              "ForecastShowMode": 0,
               "IsAttachSettingsEnabled": true,
               "IsActive": false
             }
@@ -2160,8 +2170,8 @@
               "IsActive": false
             },
             "7625de96-38aa-4b71-b478-3f156dd9458d": {
-              "AlertShowMode": 2,
-              "ForecastShowMode": 2,
+              "AlertShowMode": 0,
+              "ForecastShowMode": 0,
               "IsAttachSettingsEnabled": true,
               "IsActive": false
             }
@@ -2186,6 +2196,7 @@
               "ClassOnPreparingMaskText": "即将上课",
               "ClassOnMaskText": "上课",
               "ClassOffMaskText": "课间休息",
+              "ClassOffOverlayText": "",
               "IsAttachSettingsEnabled": false,
               "IsActive": false
             },
@@ -2198,11 +2209,12 @@
               "ExtraInfo4ShowSecondsSeconds": 0,
               "ScheduleSpacing": 1,
               "ShowCurrentLessonOnlyOnClass": false,
+              "IsNonExactCountdownEnabled": false,
               "IsActive": false
             },
             "7625de96-38aa-4b71-b478-3f156dd9458d": {
-              "AlertShowMode": 2,
-              "ForecastShowMode": 2,
+              "AlertShowMode": 0,
+              "ForecastShowMode": 0,
               "IsAttachSettingsEnabled": true,
               "IsActive": false
             }
@@ -2244,8 +2256,8 @@
               "IsActive": false
             },
             "7625de96-38aa-4b71-b478-3f156dd9458d": {
-              "AlertShowMode": 2,
-              "ForecastShowMode": 2,
+              "AlertShowMode": 1,
+              "ForecastShowMode": 1,
               "IsAttachSettingsEnabled": true,
               "IsActive": false
             }
@@ -2326,8 +2338,8 @@
               "IsActive": false
             },
             "7625de96-38aa-4b71-b478-3f156dd9458d": {
-              "AlertShowMode": 2,
-              "ForecastShowMode": 2,
+              "AlertShowMode": 0,
+              "ForecastShowMode": 0,
               "IsAttachSettingsEnabled": true,
               "IsActive": false
             }
@@ -2369,8 +2381,8 @@
               "IsActive": false
             },
             "7625de96-38aa-4b71-b478-3f156dd9458d": {
-              "AlertShowMode": 2,
-              "ForecastShowMode": 2,
+              "AlertShowMode": 0,
+              "ForecastShowMode": 0,
               "IsAttachSettingsEnabled": true,
               "IsActive": false
             }
@@ -2455,8 +2467,8 @@
               "IsActive": false
             },
             "7625de96-38aa-4b71-b478-3f156dd9458d": {
-              "AlertShowMode": 2,
-              "ForecastShowMode": 2,
+              "AlertShowMode": 0,
+              "ForecastShowMode": 0,
               "IsAttachSettingsEnabled": true,
               "IsActive": false
             }
@@ -2541,8 +2553,8 @@
               "IsActive": false
             },
             "7625de96-38aa-4b71-b478-3f156dd9458d": {
-              "AlertShowMode": 2,
-              "ForecastShowMode": 2,
+              "AlertShowMode": 0,
+              "ForecastShowMode": 0,
               "IsAttachSettingsEnabled": true,
               "IsActive": false
             }
@@ -2627,8 +2639,8 @@
               "IsActive": false
             },
             "7625de96-38aa-4b71-b478-3f156dd9458d": {
-              "AlertShowMode": 2,
-              "ForecastShowMode": 2,
+              "AlertShowMode": 0,
+              "ForecastShowMode": 0,
               "IsAttachSettingsEnabled": true,
               "IsActive": false
             }
@@ -2713,8 +2725,8 @@
               "IsActive": false
             },
             "7625de96-38aa-4b71-b478-3f156dd9458d": {
-              "AlertShowMode": 2,
-              "ForecastShowMode": 2,
+              "AlertShowMode": 1,
+              "ForecastShowMode": 1,
               "IsAttachSettingsEnabled": true,
               "IsActive": false
             }
@@ -2756,8 +2768,8 @@
               "IsActive": false
             },
             "7625de96-38aa-4b71-b478-3f156dd9458d": {
-              "AlertShowMode": 2,
-              "ForecastShowMode": 2,
+              "AlertShowMode": 0,
+              "ForecastShowMode": 0,
               "IsAttachSettingsEnabled": true,
               "IsActive": false
             }
@@ -2842,8 +2854,8 @@
               "IsActive": false
             },
             "7625de96-38aa-4b71-b478-3f156dd9458d": {
-              "AlertShowMode": 2,
-              "ForecastShowMode": 2,
+              "AlertShowMode": 0,
+              "ForecastShowMode": 0,
               "IsAttachSettingsEnabled": true,
               "IsActive": false
             }
@@ -2851,8 +2863,8 @@
           "IsActive": false
         },
         {
-          "StartSecond": "2025-02-21T14:58:00+08:00",
-          "EndSecond": "2025-02-21T15:05:00+08:00",
+          "StartSecond": "2025-02-21T15:00:00+08:00",
+          "EndSecond": "2025-02-21T15:07:00+08:00",
           "TimeType": 1,
           "IsHideDefault": false,
           "DefaultClassId": "",
@@ -2928,8 +2940,8 @@
               "IsActive": false
             },
             "7625de96-38aa-4b71-b478-3f156dd9458d": {
-              "AlertShowMode": 2,
-              "ForecastShowMode": 2,
+              "AlertShowMode": 1,
+              "ForecastShowMode": 1,
               "IsAttachSettingsEnabled": true,
               "IsActive": false
             }
