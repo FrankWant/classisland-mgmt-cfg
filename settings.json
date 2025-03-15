@@ -60,15 +60,16 @@
   "SplashCustomText": "正在连接集控中心...",
   "SplashCustomLogoSource": "C:\\Users\\seewo\\AppData\\Local\\Classisland\\DFLS_Logo_Full.png",
   "ExactTimeServer": "ntp.aliyun.com",
-  "IsExactTimeEnabled": true,
+  "IsExactTimeEnabled": false,
   "TimeOffsetSeconds": 0,
   "IsTimeAutoAdjustEnabled": false,
   "TimeAutoAdjustSeconds": 0,
-  "LastTimeAdjustDateTime": "2025-02-21T00:00:00+08:00",
+  "LastTimeAdjustDateTime": "2025-03-15T00:00:00+08:00",
   "IsTransientDisabled": false,
   "IsWaitForTransientDisabled": false,
   "IsCriticalSafeMode": true,
   "ShowDetailedStatusOnSplash": false,
+  "CriticalSafeModeMethod": 0,
   "Theme": 0,
   "PrimaryColor": {
     "ColorContext": null,
@@ -93,7 +94,63 @@
     "ScB": 0.65837485
   },
   "ColorSource": 1,
-  "WallpaperColorPlatte": [],
+  "WallpaperColorPlatte": [
+    {
+      "ColorContext": null,
+      "A": 255,
+      "R": 179,
+      "G": 92,
+      "B": 64,
+      "ScA": 1,
+      "ScR": 0.45078582,
+      "ScG": 0.107023105,
+      "ScB": 0.051269464
+    },
+    {
+      "ColorContext": null,
+      "A": 255,
+      "R": 20,
+      "G": 111,
+      "B": 137,
+      "ScA": 1,
+      "ScR": 0.0069954107,
+      "ScG": 0.15896083,
+      "ScB": 0.2501583
+    },
+    {
+      "ColorContext": null,
+      "A": 255,
+      "R": 11,
+      "G": 83,
+      "B": 106,
+      "ScA": 1,
+      "ScR": 0.0033465358,
+      "ScG": 0.086500466,
+      "ScB": 0.14412847
+    },
+    {
+      "ColorContext": null,
+      "A": 255,
+      "R": 247,
+      "G": 157,
+      "B": 31,
+      "ScA": 1,
+      "ScR": 0.9301109,
+      "ScG": 0.33716366,
+      "ScB": 0.013702083
+    },
+    {
+      "ColorContext": null,
+      "A": 255,
+      "R": 233,
+      "G": 145,
+      "B": 102,
+      "ScA": 1,
+      "ScR": 0.8148466,
+      "ScG": 0.28314877,
+      "ScB": 0.13286832
+    }
+  ],
   "SelectedPlatteIndex": 0,
   "IsWallpaperAutoUpdateEnabled": false,
   "WallpaperAutoUpdateIntervalSeconds": 60,
@@ -155,7 +212,7 @@
   ],
   "NotificationProvidersSettings": {
     "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-      "IsClassOnNotificationEnabled": true,
+      "IsClassOnNotificationEnabled": false,
       "IsClassOnPreparingNotificationEnabled": false,
       "IsClassOffNotificationEnabled": false,
       "InDoorClassPreparingDeltaTime": 60,
@@ -166,7 +223,7 @@
       "ClassOffMaskText": "课间休息",
       "ClassOffOverlayText": "",
       "IsSpeechEnabledOnClassPreparing": true,
-      "IsSpeechEnabledOnClassOn": false,
+      "IsSpeechEnabledOnClassOn": true,
       "IsSpeechEnabledOnClassOff": true,
       "ShowTeacherName": true,
       "IsActive": false
@@ -187,17 +244,17 @@
     "4b12f124-8585-43c7-afc5-7bbb7cbe60d6": null,
     "0117fb4f-5374-434a-97fb-4f5374634a07": null,
     "b27c0af3-c917-44de-a61d-8010c3f3fb92": {
-      "Latitude": 31.14,
-      "Longitude": 104.42,
+      "Latitude": 31.143172,
+      "Longitude": 104.421968,
       "Threshold": 2,
-      "Info": "在2025/2/21 18:11:45时，西藏定日(28.49133 87.512245)发生4.200001级地震，震源深度8km。本地距离1658km，本地烈度0.0。",
+      "Info": "在2025/3/15 23:58:39时，四川省阿坝藏族羌族自治州汶川县(31 103.4)发生8.8级地震，震源深度14km。本地距离98km，本地烈度8.0。",
       "IsActive": false
     }
   },
   "NotificationProvidersNotifySettings": {
     "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
       "IsNotificationEnabled": true,
-      "IsSpeechEnabled": false,
+      "IsSpeechEnabled": true,
       "IsNotificationEffectEnabled": false,
       "IsNotificationSoundEnabled": false,
       "NotificationSoundPath": "",
@@ -288,12 +345,13 @@
     "GptSoVitsTextSplitMethod": "cut5",
     "GptSoVitsBatchSize": 1
   },
-  "IsAutomationEnabled": false,
+  "NotificationUseStandaloneEffectUiThread": true,
+  "IsAutomationEnabled": true,
   "CurrentAutomationConfig": "Default",
-  "IsAutomationWarningVisible": true,
+  "IsAutomationWarningVisible": false,
   "UpdateMode": 3,
   "SelectedChannel": "https://install.appcenter.ms/api/v0.1/apps/hellowrc/classisland/distribution_groups/public",
-  "LastCheckUpdateTime": "2025-02-21T23:00:48.682868+08:00",
+  "LastCheckUpdateTime": "2025-03-15T23:48:27.9888615+08:00",
   "LastUpdateStatus": 0,
   "AutoInstallUpdateNextStartup": true,
   "SpeedTestResults": {
@@ -339,15 +397,16 @@
     }
   },
   "IsAutoSelectUpgradeMirror": true,
-  "LastSpeedTest": "2025-02-19T22:54:42.0675117+08:00",
+  "LastSpeedTest": "2025-03-15T23:39:02.1895845+08:00",
   "LastUpdateSourceKind": 0,
   "UpdateReleaseInfo": "",
   "UpdateDownloadUrl": "",
   "UpdateVersion": "0.0",
-  "UpdateArtifactHash": "9F26AC8A78AF629CA28C621B0A97E67CCCBDB3E93D29AB21B62A03B8DE27D165",
+  "UpdateArtifactHash": "5A29C7E40180CF36C9CC4B96DEC997291140176ABA64C524B8CF26DA3958286B",
   "SelectedUpdateMirrorV2": "main",
   "SelectedUpdateChannelV2": "stable",
   "WindowDockingLocation": 1,
+  "IsIgnoreWorkAreaEnabled": false,
   "WindowDockingOffsetX": 0,
   "WindowDockingOffsetY": 0,
   "WindowDockingMonitorIndex": 0,
@@ -365,26 +424,26 @@
         "unit": "℃"
       },
       "humidity": {
-        "value": "98",
+        "value": "80",
         "unit": "%"
       },
       "pressure": {
-        "value": "963",
+        "value": "966",
         "unit": "hPa"
       },
       "temperature": {
-        "value": "7",
+        "value": "10",
         "unit": "℃"
       },
       "visibility": {
         "value": "",
         "unit": "km"
       },
-      "weather": "7",
-      "pubTime": "2025-02-21T23:17:51+08:00"
+      "weather": "2",
+      "pubTime": "2025-03-15T23:50:21+08:00"
     },
     "alerts": [],
-    "updateTime": 1740151232096,
+    "updateTime": 1742054100737,
     "forecastDaily": {
       "precipitationProbability": {
         "value": [
@@ -408,84 +467,88 @@
       "temperature": {
         "value": [
           {
-            "from": "9",
-            "to": "7"
+            "from": "16",
+            "to": "8"
           },
           {
-            "from": "9",
-            "to": "6"
-          },
-          {
-            "from": "10",
-            "to": "5"
-          },
-          {
-            "from": "7",
+            "from": "14",
             "to": "4"
           },
           {
             "from": "13",
-            "to": "4"
+            "to": "3"
           },
           {
             "from": "14",
-            "to": "5"
+            "to": "4"
           },
           {
             "from": "16",
+            "to": "5"
+          },
+          {
+            "from": "17",
+            "to": "6"
+          },
+          {
+            "from": "19",
             "to": "6"
           },
           {
             "from": "20",
-            "to": "8"
-          },
-          {
-            "from": "19",
             "to": "9"
           },
           {
-            "from": "16",
-            "to": "10"
+            "from": "22",
+            "to": "11"
           },
           {
-            "from": "16",
-            "to": "10"
+            "from": "24",
+            "to": "12"
           },
           {
-            "from": "11",
-            "to": "8"
+            "from": "25",
+            "to": "14"
           },
           {
-            "from": "9",
-            "to": "7"
+            "from": "23",
+            "to": "16"
           },
           {
-            "from": "7",
-            "to": "4"
+            "from": "28",
+            "to": "17"
           },
           {
-            "from": "10",
-            "to": "5"
+            "from": "25",
+            "to": "14"
+          },
+          {
+            "from": "17",
+            "to": "11"
           }
         ]
       },
       "weather": {
         "value": [
           {
-            "from": "7",
-            "to": "7"
-          },
-          {
-            "from": "7",
-            "to": "7"
+            "from": "3",
+            "to": "2"
           },
           {
             "from": "2",
-            "to": "7"
+            "to": "1"
           },
           {
-            "from": "7",
+            "from": "2",
+            "to": "2"
+          },
+          {
+            "from": "2",
             "to": "1"
+          },
+          {
+            "from": "1",
+            "to": "2"
           },
           {
             "from": "1",
@@ -497,10 +560,22 @@
           },
           {
             "from": "1",
-            "to": "1"
+            "to": "2"
           },
           {
-            "from": "1",
+            "from": "2",
+            "to": "2"
+          },
+          {
+            "from": "0",
+            "to": "0"
+          },
+          {
+            "from": "0",
+            "to": "0"
+          },
+          {
+            "from": "0",
             "to": "0"
           },
           {
@@ -508,23 +583,7 @@
             "to": "2"
           },
           {
-            "from": "2",
-            "to": "2"
-          },
-          {
-            "from": "7",
-            "to": "7"
-          },
-          {
-            "from": "7",
-            "to": "7"
-          },
-          {
-            "from": "2",
-            "to": "7"
-          },
-          {
-            "from": "7",
+            "from": "0",
             "to": "7"
           },
           {
@@ -536,79 +595,79 @@
       "sunRiseSet": {
         "value": [
           {
-            "from": "2025-02-21T07:39:00+08:00",
-            "to": "2025-02-21T18:54:00+08:00"
+            "from": "2025-03-15T07:14:00+08:00",
+            "to": "2025-03-15T19:10:00+08:00"
           },
           {
-            "from": "2025-02-22T07:38:00+08:00",
-            "to": "2025-02-22T18:55:00+08:00"
+            "from": "2025-03-16T07:13:00+08:00",
+            "to": "2025-03-16T19:11:00+08:00"
           },
           {
-            "from": "2025-02-23T07:37:00+08:00",
-            "to": "2025-02-23T18:56:00+08:00"
+            "from": "2025-03-17T07:12:00+08:00",
+            "to": "2025-03-17T19:12:00+08:00"
           },
           {
-            "from": "2025-02-24T07:36:00+08:00",
-            "to": "2025-02-24T18:57:00+08:00"
+            "from": "2025-03-18T07:11:00+08:00",
+            "to": "2025-03-18T19:12:00+08:00"
           },
           {
-            "from": "2025-02-25T07:35:00+08:00",
-            "to": "2025-02-25T18:57:00+08:00"
+            "from": "2025-03-19T07:09:00+08:00",
+            "to": "2025-03-19T19:13:00+08:00"
           },
           {
-            "from": "2025-02-26T07:34:00+08:00",
-            "to": "2025-02-26T18:58:00+08:00"
+            "from": "2025-03-20T07:08:00+08:00",
+            "to": "2025-03-20T19:14:00+08:00"
           },
           {
-            "from": "2025-02-27T07:33:00+08:00",
-            "to": "2025-02-27T18:59:00+08:00"
+            "from": "2025-03-21T07:07:00+08:00",
+            "to": "2025-03-21T19:14:00+08:00"
           },
           {
-            "from": "2025-02-28T07:32:00+08:00",
-            "to": "2025-02-28T19:00:00+08:00"
+            "from": "2025-03-22T07:06:00+08:00",
+            "to": "2025-03-22T19:15:00+08:00"
           },
           {
-            "from": "2025-03-01T07:31:00+08:00",
-            "to": "2025-03-01T19:00:00+08:00"
+            "from": "2025-03-23T07:04:00+08:00",
+            "to": "2025-03-23T19:16:00+08:00"
           },
           {
-            "from": "2025-03-02T07:30:00+08:00",
-            "to": "2025-03-02T19:01:00+08:00"
+            "from": "2025-03-24T07:03:00+08:00",
+            "to": "2025-03-24T19:16:00+08:00"
           },
           {
-            "from": "2025-03-03T07:29:00+08:00",
-            "to": "2025-03-03T19:02:00+08:00"
+            "from": "2025-03-25T07:02:00+08:00",
+            "to": "2025-03-25T19:17:00+08:00"
           },
           {
-            "from": "2025-03-04T07:27:00+08:00",
-            "to": "2025-03-04T19:03:00+08:00"
+            "from": "2025-03-26T07:01:00+08:00",
+            "to": "2025-03-26T19:17:00+08:00"
           },
           {
-            "from": "2025-03-05T07:26:00+08:00",
-            "to": "2025-03-05T19:03:00+08:00"
+            "from": "2025-03-27T06:59:00+08:00",
+            "to": "2025-03-27T19:18:00+08:00"
           },
           {
-            "from": "2025-03-06T07:25:00+08:00",
-            "to": "2025-03-06T19:04:00+08:00"
+            "from": "2025-03-28T06:58:00+08:00",
+            "to": "2025-03-28T19:19:00+08:00"
           },
           {
-            "from": "2025-03-07T07:24:00+08:00",
-            "to": "2025-03-07T19:05:00+08:00"
+            "from": "2025-03-29T06:57:00+08:00",
+            "to": "2025-03-29T19:19:00+08:00"
           }
         ]
       }
     },
     "forecastHourly": {
       "temperature": {
-        "value": [8, 7, 7, 7, 7, 7, 7, 7, 7, 7, 8, 8, 8, 8, 9, 8, 8, 8, 8, 8, 8, 8, 7]
+        "value": [12, 11, 10, 10, 10, 8, 8, 8, 8, 10, 12, 13, 13, 13, 14, 13, 13, 13, 12, 11, 10, 9, 8]
       },
       "weather": {
-        "value": [1, 1, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 2, 2, 2, 2, 2, 2, 2, 7, 7]
+        "value": [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1]
       }
     },
     "minutely": {
       "precipitation": {
-        "value": [0.03542, 0.03542, 0.03542, 0.03542, 0.03542, 0.03542, 0.03542, 0.03542, 0.03542, 0.03542, 0.03542, 0.03542, 0.03542, 0.03542, 0.03542, 0.03542, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
       }
     }
   },
@@ -618,13 +677,13 @@
   "ExpIsExcelImportEnabled": false,
   "ExpAllowEditingActivatedTimeLayout": false,
   "DiagnosticFirstLaunchTime": "2025-02-11T20:26:34.3445837+08:00",
-  "DiagnosticStartupCount": 37,
+  "DiagnosticStartupCount": 45,
   "DiagnosticCrashCount": 0,
   "DiagnosticLastCrashTime": "0001-01-01T00:00:00",
   "DiagnosticMemoryKillCount": 0,
   "DiagnosticLastMemoryKillTime": "2025-02-11T20:26:34.3445846+08:00",
   "IsAutoBackupEnabled": true,
-  "LastAutoBackupTime": "2025-02-19T22:54:17.673502+08:00",
+  "LastAutoBackupTime": "2025-03-15T23:38:48.3751862+08:00",
   "AutoBackupLimit": 16,
   "AutoBackupIntervalDays": 7,
   "OfficialIndexMirrors": {
@@ -634,7 +693,7 @@
   },
   "OfficialSelectedMirror": "github",
   "PluginIndexes": [],
-  "LastRefreshPluginSourceTime": "2025-02-21T23:22:04.5236547+08:00",
+  "LastRefreshPluginSourceTime": "2025-03-15T23:50:58.3130869+08:00",
   "IsPluginMarketWarningVisible": false,
   "IsDebugEnabled": false,
   "IsDebugOptionsEnabled": false,
@@ -647,7 +706,7 @@
     "Contributors": [],
     "IsActive": false
   },
-  "LastAppVersion": "1.6.0.1",
+  "LastAppVersion": "1.6.0.3",
   "ShowComponentsMigrateTip": false,
   "IsMigratedFromv1_4": false,
   "IsProfileEditorClassInfoSubjectAutoMoveNextEnabled": true,

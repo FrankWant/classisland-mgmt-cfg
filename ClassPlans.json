@@ -116,7 +116,7 @@
             "IsActive": false
           },
           {
-            "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
+            "SubjectId": "7b7aea95-30ad-4490-8d98-0c9179c47a10",
             "IsChangedClass": false,
             "AttachedObjects": {
   
@@ -124,7 +124,7 @@
             "IsActive": false
           },
           {
-            "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
+            "SubjectId": "7b7aea95-30ad-4490-8d98-0c9179c47a10",
             "IsChangedClass": false,
             "AttachedObjects": {
   
@@ -132,7 +132,7 @@
             "IsActive": false
           },
           {
-            "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
+            "SubjectId": "7b7aea95-30ad-4490-8d98-0c9179c47a10",
             "IsChangedClass": false,
             "AttachedObjects": {
   
@@ -140,7 +140,7 @@
             "IsActive": false
           }
         ],
-        "Name": "DFLS_高2024级4班高一下课表_Monday_单",
+        "Name": "Monday_单",
         "IsOverlay": false,
         "OverlaySourceId": null,
         "OverlaySetupTime": "2025-01-13T13:50:27.5158103+08:00",
@@ -271,7 +271,7 @@
             "IsActive": false
           },
           {
-            "SubjectId": "923f4a8b-51eb-468b-971d-bb02e7db0163",
+            "SubjectId": "8fb79487-2b34-40fb-9e57-378c0238cf37",
             "IsChangedClass": false,
             "AttachedObjects": {
   
@@ -279,7 +279,7 @@
             "IsActive": false
           },
           {
-            "SubjectId": "923f4a8b-51eb-468b-971d-bb02e7db0163",
+            "SubjectId": "8fb79487-2b34-40fb-9e57-378c0238cf37",
             "IsChangedClass": false,
             "AttachedObjects": {
   
@@ -319,7 +319,7 @@
             "IsActive": false
           }
         ],
-        "Name": "DFLS_高2024级4班高一下课表_Tuesday",
+        "Name": "Tuesday",
         "IsOverlay": false,
         "OverlaySourceId": null,
         "OverlaySetupTime": "2025-01-13T13:50:27.5158103+08:00",
@@ -378,7 +378,7 @@
             "IsActive": false
           },
           {
-            "SubjectId": "9f0d71b7-b4da-4040-a3d5-64da7573c6dd",
+            "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
             "IsChangedClass": false,
             "AttachedObjects": {
   
@@ -410,7 +410,7 @@
             "IsActive": false
           },
           {
-            "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
+            "SubjectId": "9f0d71b7-b4da-4040-a3d5-64da7573c6dd",
             "IsChangedClass": false,
             "AttachedObjects": {
   
@@ -498,7 +498,7 @@
             "IsActive": false
           }
         ],
-        "Name": "DFLS_高2024级4班高一下课表_Wednesday_单",
+        "Name": "Wednesday_单",
         "IsOverlay": false,
         "OverlaySourceId": null,
         "OverlaySetupTime": "2025-01-13T13:50:27.5158103+08:00",
@@ -629,7 +629,15 @@
             "IsActive": false
           },
           {
-            "SubjectId": "923f4a8b-51eb-468b-971d-bb02e7db0163",
+            "SubjectId": "8fb79487-2b34-40fb-9e57-378c0238cf37",
+            "IsChangedClass": false,
+            "AttachedObjects": {
+  
+            },
+            "IsActive": false
+          },
+          {
+            "SubjectId": "8fb79487-2b34-40fb-9e57-378c0238cf37",
             "IsChangedClass": false,
             "AttachedObjects": {
   
@@ -645,7 +653,7 @@
             "IsActive": false
           },
           {
-            "SubjectId": "923f4a8b-51eb-468b-971d-bb02e7db0163",
+            "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
             "IsChangedClass": false,
             "AttachedObjects": {
   
@@ -653,7 +661,7 @@
             "IsActive": false
           },
           {
-            "SubjectId": "7b7aea95-30ad-4490-8d98-0c9179c47a10",
+            "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
             "IsChangedClass": false,
             "AttachedObjects": {
   
@@ -661,15 +669,7 @@
             "IsActive": false
           },
           {
-            "SubjectId": "7b7aea95-30ad-4490-8d98-0c9179c47a10",
-            "IsChangedClass": false,
-            "AttachedObjects": {
-  
-            },
-            "IsActive": false
-          },
-          {
-            "SubjectId": "7b7aea95-30ad-4490-8d98-0c9179c47a10",
+            "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
             "IsChangedClass": false,
             "AttachedObjects": {
   
@@ -677,7 +677,7 @@
             "IsActive": false
           }
         ],
-        "Name": "DFLS_高2024级4班高一下课表_Thursday",
+        "Name": "Thursday",
         "IsOverlay": false,
         "OverlaySourceId": null,
         "OverlaySetupTime": "2025-01-13T13:50:27.5158103+08:00",
@@ -856,7 +856,7 @@
             "IsActive": false
           }
         ],
-        "Name": "DFLS_高2024级4班高一下课表_Friday",
+        "Name": "Friday",
         "IsOverlay": false,
         "OverlaySourceId": null,
         "OverlaySetupTime": "2025-01-13T13:50:27.5158103+08:00",
@@ -971,7 +971,7 @@
             "IsActive": false
           }
         ],
-        "Name": "DFLS_高2024级4班高一下课表_Saturday_DS_1",
+        "Name": "Saturday_DS_1",
         "IsOverlay": false,
         "OverlaySourceId": null,
         "OverlaySetupTime": "2025-01-13T13:50:27.5158103+08:00",
@@ -1030,7 +1030,7 @@
             "IsActive": false
           },
           {
-            "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
+            "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
             "IsChangedClass": false,
             "AttachedObjects": {
   
@@ -1038,7 +1038,7 @@
             "IsActive": false
           },
           {
-            "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
+            "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
             "IsChangedClass": false,
             "AttachedObjects": {
   
@@ -1046,7 +1046,7 @@
             "IsActive": false
           },
           {
-            "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
+            "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
             "IsChangedClass": false,
             "AttachedObjects": {
   
@@ -1054,7 +1054,7 @@
             "IsActive": false
           }
         ],
-        "Name": "DFLS_高2024级4班高一下课表_Sunday",
+        "Name": "Sunday",
         "IsOverlay": false,
         "OverlaySourceId": null,
         "OverlaySetupTime": "2025-02-11T23:53:01.4061613+08:00",
@@ -1076,6 +1076,7 @@
             "ClassOnPreparingMaskText": "即将上课",
             "ClassOnMaskText": "上课",
             "ClassOffMaskText": "课间休息",
+            "ClassOffOverlayText": "",
             "IsAttachSettingsEnabled": false,
             "IsActive": false
           },
@@ -1088,6 +1089,7 @@
             "ExtraInfo4ShowSecondsSeconds": 0,
             "ScheduleSpacing": 1,
             "ShowCurrentLessonOnlyOnClass": false,
+            "IsNonExactCountdownEnabled": false,
             "IsActive": false
           }
         },
@@ -1111,7 +1113,7 @@
             "IsActive": false
           },
           {
-            "SubjectId": "9f0d71b7-b4da-4040-a3d5-64da7573c6dd",
+            "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
             "IsChangedClass": false,
             "AttachedObjects": {
   
@@ -1143,7 +1145,7 @@
             "IsActive": false
           },
           {
-            "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
+            "SubjectId": "9f0d71b7-b4da-4040-a3d5-64da7573c6dd",
             "IsChangedClass": false,
             "AttachedObjects": {
   
@@ -1231,7 +1233,7 @@
             "IsActive": false
           }
         ],
-        "Name": "DFLS_高2024级4班高一下课表_Wednesday_双",
+        "Name": "Wednesday_双",
         "IsOverlay": false,
         "OverlaySourceId": null,
         "OverlaySetupTime": "2025-01-13T13:50:27.5158103+08:00",
@@ -1410,7 +1412,7 @@
             "IsActive": false
           }
         ],
-        "Name": "DFLS_高2024级4班高一下课表_Monday_双",
+        "Name": "Monday_双",
         "IsOverlay": false,
         "OverlaySourceId": null,
         "OverlaySetupTime": "2025-01-13T13:50:27.5158103+08:00",
@@ -1525,7 +1527,7 @@
             "IsActive": false
           }
         ],
-        "Name": "DFLS_高2024级4班高一下课表_Saturday_DS_2",
+        "Name": "Saturday_DS_2",
         "IsOverlay": false,
         "OverlaySourceId": null,
         "OverlaySetupTime": "2025-01-13T13:50:27.5158103+08:00",
@@ -1640,7 +1642,7 @@
             "IsActive": false
           }
         ],
-        "Name": "DFLS_高2024级4班高一下课表_Saturday_DS_3",
+        "Name": "Saturday_DS_3",
         "IsOverlay": false,
         "OverlaySourceId": null,
         "OverlaySetupTime": "2025-01-13T13:50:27.5158103+08:00",
@@ -1691,7 +1693,7 @@
         },
         "Classes": [
           {
-            "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
+            "SubjectId": "9875b24c-470d-4195-8a6a-73925ea4808b",
             "IsChangedClass": false,
             "AttachedObjects": {
   
@@ -1699,15 +1701,7 @@
             "IsActive": false
           },
           {
-            "SubjectId": "",
-            "IsChangedClass": false,
-            "AttachedObjects": {
-  
-            },
-            "IsActive": false
-          },
-          {
-            "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
+            "SubjectId": "7b7aea95-30ad-4490-8d98-0c9179c47a10",
             "IsChangedClass": false,
             "AttachedObjects": {
   
@@ -1723,15 +1717,7 @@
             "IsActive": false
           },
           {
-            "SubjectId": "a41cc849-b4bc-4dfd-a464-7f4fa3e317ca",
-            "IsChangedClass": false,
-            "AttachedObjects": {
-  
-            },
-            "IsActive": false
-          },
-          {
-            "SubjectId": "9f0d71b7-b4da-4040-a3d5-64da7573c6dd",
+            "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
             "IsChangedClass": false,
             "AttachedObjects": {
   
@@ -1740,6 +1726,22 @@
           },
           {
             "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
+            "IsChangedClass": false,
+            "AttachedObjects": {
+  
+            },
+            "IsActive": false
+          },
+          {
+            "SubjectId": "a41cc849-b4bc-4dfd-a464-7f4fa3e317ca",
+            "IsChangedClass": false,
+            "AttachedObjects": {
+  
+            },
+            "IsActive": false
+          },
+          {
+            "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
             "IsChangedClass": false,
             "AttachedObjects": {
   
@@ -1755,7 +1757,7 @@
             "IsActive": false
           },
           {
-            "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
+            "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
             "IsChangedClass": false,
             "AttachedObjects": {
   
@@ -1763,7 +1765,7 @@
             "IsActive": false
           }
         ],
-        "Name": "DFLS_高2024级4班高一下课表_Saturday_Empty",
+        "Name": "Friday_Empty_NotAutoEnable",
         "IsOverlay": false,
         "OverlaySourceId": null,
         "OverlaySetupTime": "2025-02-22T17:10:14.5916744+08:00",

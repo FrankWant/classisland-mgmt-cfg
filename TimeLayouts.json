@@ -2,7 +2,7 @@
   "Name": "",
   "TimeLayouts": {
     "400a6e78-92a2-4948-8be9-0a4f63036ec3": {
-      "Name": "Monday_Friday",
+      "Name": "Monday_Friday(DS)_7:25_22:30",
       "Layouts": [
         {
           "StartSecond": "2025-01-13T07:25:00+08:00",
@@ -84,6 +84,57 @@
             "7625de96-38aa-4b71-b478-3f156dd9458d": {
               "AlertShowMode": 0,
               "ForecastShowMode": 0,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2025-01-13T07:52:00+08:00",
+          "EndSecond": "2025-01-13T07:52:00+08:00",
+          "TimeType": 3,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": {
+            "IsEnabled": true,
+            "Name": "新行动",
+            "Guid": "fb3dfd21-db4b-451f-a1b0-d823f0ef26f1",
+            "IsOn": false,
+            "Actions": [],
+            "IsRevertEnabled": true,
+            "IsActive": false
+          },
+          "AttachedObjects": {
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "ClassOnPreparingMaskText": "即将上课",
+              "ClassOnMaskText": "上课",
+              "ClassOffMaskText": "课间休息",
+              "ClassOffOverlayText": "",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "ExtraInfo4ShowSecondsSeconds": 0,
+              "ScheduleSpacing": 1,
+              "ShowCurrentLessonOnlyOnClass": false,
+              "IsNonExactCountdownEnabled": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
               "IsAttachSettingsEnabled": true,
               "IsActive": false
             }
@@ -194,6 +245,7 @@
               "ClassOnPreparingMaskText": "即将上课",
               "ClassOnMaskText": "上课",
               "ClassOffMaskText": "课间休息",
+              "ClassOffOverlayText": "",
               "IsAttachSettingsEnabled": false,
               "IsActive": false
             },
@@ -206,11 +258,12 @@
               "ExtraInfo4ShowSecondsSeconds": 0,
               "ScheduleSpacing": 1,
               "ShowCurrentLessonOnlyOnClass": false,
+              "IsNonExactCountdownEnabled": false,
               "IsActive": false
             },
             "7625de96-38aa-4b71-b478-3f156dd9458d": {
-              "AlertShowMode": 2,
-              "ForecastShowMode": 2,
+              "AlertShowMode": 0,
+              "ForecastShowMode": 0,
               "IsAttachSettingsEnabled": true,
               "IsActive": false
             }
@@ -864,7 +917,7 @@
           "StartSecond": "2025-01-13T17:35:00+08:00",
           "EndSecond": "2025-01-13T18:00:00+08:00",
           "TimeType": 0,
-          "IsHideDefault": false,
+          "IsHideDefault": true,
           "DefaultClassId": "923f4a8b-51eb-468b-971d-bb02e7db0163",
           "BreakName": "",
           "ActionSet": null,
@@ -1250,7 +1303,7 @@
         "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
           "IsEnabled": true,
           "NotificationMsg": "今天的课程已结束，请同学们有序离开。",
-          "IsAttachSettingsEnabled": false,
+          "IsAttachSettingsEnabled": true,
           "IsActive": false
         },
         "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
@@ -1275,13 +1328,14 @@
           "ExtraInfo4ShowSecondsSeconds": 0,
           "ScheduleSpacing": 1,
           "ShowCurrentLessonOnlyOnClass": false,
+          "IsNonExactCountdownEnabled": false,
           "IsActive": false
         }
       },
       "IsActive": false
     },
     "4f044ee5-edca-4cbc-be2b-2e7b7b9102f2": {
-      "Name": "Sunday",
+      "Name": "Sunday_18:37_22:00",
       "Layouts": [
         {
           "StartSecond": "2025-01-13T18:37:00+08:00",
@@ -1546,7 +1600,7 @@
         "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
           "IsEnabled": true,
           "NotificationMsg": "今天的课程已结束，请同学们有序离开。",
-          "IsAttachSettingsEnabled": false,
+          "IsAttachSettingsEnabled": true,
           "IsActive": false
         },
         "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
@@ -1558,6 +1612,7 @@
           "ClassOnPreparingMaskText": "即将上课",
           "ClassOnMaskText": "上课",
           "ClassOffMaskText": "课间休息",
+          "ClassOffOverlayText": "",
           "IsAttachSettingsEnabled": true,
           "IsActive": false
         },
@@ -1570,13 +1625,14 @@
           "ExtraInfo4ShowSecondsSeconds": 0,
           "ScheduleSpacing": 1,
           "ShowCurrentLessonOnlyOnClass": false,
+          "IsNonExactCountdownEnabled": false,
           "IsActive": false
         }
       },
       "IsActive": false
     },
     "610075c6-2de2-40e3-9307-017b57466cbe": {
-      "Name": "Saturday",
+      "Name": "Friday_7:25_15:55",
       "Layouts": [
         {
           "StartSecond": "2025-01-13T07:25:00+08:00",
@@ -2139,7 +2195,7 @@
           "StartSecond": "2025-01-13T15:00:00+08:00",
           "EndSecond": "2025-01-13T15:05:00+08:00",
           "TimeType": 0,
-          "IsHideDefault": false,
+          "IsHideDefault": true,
           "DefaultClassId": "134d836e-4b64-4909-bddd-55298e17ebfa",
           "BreakName": "",
           "ActionSet": null,
@@ -2269,7 +2325,7 @@
         "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
           "IsEnabled": true,
           "NotificationMsg": "今天的课程已结束，请同学们有序离开。",
-          "IsAttachSettingsEnabled": false,
+          "IsAttachSettingsEnabled": true,
           "IsActive": false
         },
         "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
@@ -2301,7 +2357,7 @@
       "IsActive": false
     },
     "897c4aa8-86a0-4532-a363-32ab95ae1ea7": {
-      "Name": "Saturday_DS",
+      "Name": "Saturday(DS)_7:45_15:50",
       "Layouts": [
         {
           "StartSecond": "2025-02-21T07:45:00+08:00",
@@ -2953,7 +3009,7 @@
         "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
           "IsEnabled": true,
           "NotificationMsg": "今天的课程已结束，请同学们有序离开。",
-          "IsAttachSettingsEnabled": false,
+          "IsAttachSettingsEnabled": true,
           "IsActive": false
         },
         "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {

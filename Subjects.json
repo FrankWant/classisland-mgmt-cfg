@@ -321,7 +321,7 @@
             "IsClassOffNotificationEnabled": false,
             "ClassPreparingDeltaTime": 420,
             "ClassOnPreparingText": "请同学们尽快前往操场集合。",
-            "ClassOnPreparingMaskText": "即将上课",
+            "ClassOnPreparingMaskText": "课程提醒",
             "ClassOnMaskText": "上课",
             "ClassOffMaskText": "课间休息",
             "ClassOffOverlayText": "",
@@ -399,7 +399,7 @@
             "IsClassOffNotificationEnabled": true,
             "ClassPreparingDeltaTime": 420,
             "ClassOnPreparingText": "请同学们尽快前往音乐教室。",
-            "ClassOnPreparingMaskText": "即将上课",
+            "ClassOnPreparingMaskText": "课程提醒",
             "ClassOnMaskText": "上课",
             "ClassOffMaskText": "课间休息",
             "ClassOffOverlayText": "",
@@ -625,7 +625,7 @@
             "IsClassOffNotificationEnabled": false,
             "ClassPreparingDeltaTime": 60,
             "ClassOnPreparingText": "请同学们有序前往操场进行升旗。",
-            "ClassOnPreparingMaskText": "即将上课",
+            "ClassOnPreparingMaskText": "升旗提醒",
             "ClassOnMaskText": "上课",
             "ClassOffMaskText": "课间休息",
             "ClassOffOverlayText": "",
@@ -680,6 +680,66 @@
           }
         },
         "IsActive": false
+      },
+      "8fb79487-2b34-40fb-9e57-378c0238cf37": {
+        "Name": "选修",
+        "Initial": "选",
+        "TeacherName": "",
+        "IsOutDoor": false,
+        "AttachedObjects": {
+          "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+            "IsClassOnNotificationEnabled": true,
+            "IsClassOnPreparingNotificationEnabled": true,
+            "IsClassOffNotificationEnabled": false,
+            "ClassPreparingDeltaTime": 420,
+            "ClassOnPreparingText": "请同学们尽快前往对应教室。",
+            "ClassOnPreparingMaskText": "课程提醒",
+            "ClassOnMaskText": "上课",
+            "ClassOffMaskText": "课间休息",
+            "ClassOffOverlayText": "",
+            "IsAttachSettingsEnabled": true,
+            "IsActive": false
+          },
+          "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+            "IsAttachSettingsEnabled": false,
+            "ShowExtraInfoOnTimePoint": true,
+            "ExtraInfoType": 0,
+            "IsCountdownEnabled": true,
+            "CountdownSeconds": 60,
+            "ExtraInfo4ShowSecondsSeconds": 0,
+            "ScheduleSpacing": 1,
+            "ShowCurrentLessonOnlyOnClass": false,
+            "IsNonExactCountdownEnabled": false,
+            "IsActive": false
+          }
+        },
+        "IsActive": false
       }
-    }
+    },
+    "IsOverlayClassPlanEnabled": false,
+    "OverlayClassPlanId": null,
+    "TempClassPlanId": null,
+    "TempClassPlanSetupTime": "2025-03-15T23:46:42.1032116+08:00",
+    "ClassPlanGroups": {
+      "acaf4ef0-e261-4262-b941-34ea93cb4369": {
+        "Name": "默认",
+        "IsGlobal": false,
+        "IsActive": false
+      },
+      "00000000-0000-0000-0000-000000000000": {
+        "Name": "全局课表群",
+        "IsGlobal": true,
+        "IsActive": false
+      }
+    },
+    "SelectedClassPlanGroupId": "acaf4ef0-e261-4262-b941-34ea93cb4369",
+    "TempClassPlanGroupId": null,
+    "TempClassPlanGroupExpireTime": "2025-01-13T13:48:49.2260455+08:00",
+    "IsTempClassPlanGroupEnabled": false,
+    "TempClassPlanGroupType": 1,
+    "Id": "28b6f457-6d41-4b2d-8324-badcb7432c76",
+    "OrderedSchedules": {
+  
+    },
+    "IsActive": false
   }
