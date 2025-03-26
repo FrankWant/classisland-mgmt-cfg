@@ -64,7 +64,7 @@
   "TimeOffsetSeconds": 0,
   "IsTimeAutoAdjustEnabled": false,
   "TimeAutoAdjustSeconds": 0,
-  "LastTimeAdjustDateTime": "2025-03-15T00:00:00+08:00",
+  "LastTimeAdjustDateTime": "2025-03-26T00:00:00+08:00",
   "IsTransientDisabled": false,
   "IsWaitForTransientDisabled": false,
   "IsCriticalSafeMode": true,
@@ -98,57 +98,57 @@
     {
       "ColorContext": null,
       "A": 255,
-      "R": 179,
-      "G": 92,
-      "B": 64,
+      "R": 22,
+      "G": 138,
+      "B": 93,
       "ScA": 1,
-      "ScR": 0.45078582,
-      "ScG": 0.107023105,
-      "ScB": 0.051269464
+      "ScR": 0.008023193,
+      "ScG": 0.25415212,
+      "ScB": 0.10946172
     },
     {
       "ColorContext": null,
       "A": 255,
-      "R": 20,
+      "R": 24,
+      "G": 159,
+      "B": 148,
+      "ScA": 1,
+      "ScR": 0.009134059,
+      "ScG": 0.3467041,
+      "ScB": 0.2961383
+    },
+    {
+      "ColorContext": null,
+      "A": 255,
+      "R": 143,
+      "G": 89,
+      "B": 53,
+      "ScA": 1,
+      "ScR": 0.27467734,
+      "ScG": 0.09989873,
+      "ScB": 0.035601314
+    },
+    {
+      "ColorContext": null,
+      "A": 255,
+      "R": 212,
+      "G": 156,
+      "B": 111,
+      "ScA": 1,
+      "ScR": 0.65837485,
+      "ScG": 0.33245155,
+      "ScB": 0.15896083
+    },
+    {
+      "ColorContext": null,
+      "A": 255,
+      "R": 144,
       "G": 111,
-      "B": 137,
+      "B": 89,
       "ScA": 1,
-      "ScR": 0.0069954107,
+      "ScR": 0.2788943,
       "ScG": 0.15896083,
-      "ScB": 0.2501583
-    },
-    {
-      "ColorContext": null,
-      "A": 255,
-      "R": 11,
-      "G": 83,
-      "B": 106,
-      "ScA": 1,
-      "ScR": 0.0033465358,
-      "ScG": 0.086500466,
-      "ScB": 0.14412847
-    },
-    {
-      "ColorContext": null,
-      "A": 255,
-      "R": 247,
-      "G": 157,
-      "B": 31,
-      "ScA": 1,
-      "ScR": 0.9301109,
-      "ScG": 0.33716366,
-      "ScB": 0.013702083
-    },
-    {
-      "ColorContext": null,
-      "A": 255,
-      "R": 233,
-      "G": 145,
-      "B": 102,
-      "ScA": 1,
-      "ScR": 0.8148466,
-      "ScG": 0.28314877,
-      "ScB": 0.13286832
+      "ScB": 0.09989873
     }
   ],
   "SelectedPlatteIndex": 0,
@@ -170,7 +170,7 @@
     "ScB": 0
   },
   "Opacity": 0.9,
-  "Scale": 1.75,
+  "Scale": 1.7,
   "MainWindowFont": "/ClassIsland;component/Assets/Fonts/#HarmonyOS Sans SC",
   "MainWindowFontWeight2": 500,
   "RadiusX": 20,
@@ -238,7 +238,7 @@
       "ForecastShowMode": 1,
       "IsAlertEnabled": true,
       "IsForecastEnabled": true,
-      "WeatherAlertSpeed": 7,
+      "WeatherAlertSpeed": 5.5,
       "IsActive": false
     },
     "4b12f124-8585-43c7-afc5-7bbb7cbe60d6": null,
@@ -247,7 +247,7 @@
       "Latitude": 31.143172,
       "Longitude": 104.421968,
       "Threshold": 2,
-      "Info": "在2025/3/15 23:58:39时，四川省阿坝藏族羌族自治州汶川县(31 103.4)发生8.8级地震，震源深度14km。本地距离98km，本地烈度8.0。",
+      "Info": "在2025/3/26 20:42:11时，西藏定日(28.760727 86.68908)发生4.300001级地震，震源深度9.561531km。本地距离1729km，本地烈度0.0。",
       "IsActive": false
     }
   },
@@ -351,12 +351,12 @@
   "IsAutomationWarningVisible": false,
   "UpdateMode": 3,
   "SelectedChannel": "https://install.appcenter.ms/api/v0.1/apps/hellowrc/classisland/distribution_groups/public",
-  "LastCheckUpdateTime": "2025-03-15T23:48:27.9888615+08:00",
+  "LastCheckUpdateTime": "2025-03-26T23:17:03.4361717+08:00",
   "LastUpdateStatus": 0,
   "AutoInstallUpdateNextStartup": true,
   "SpeedTestResults": {
     "main": {
-      "Delay": 28,
+      "Delay": 24,
       "CanConnect": true,
       "IsTested": true,
       "IsTesting": false,
@@ -397,12 +397,12 @@
     }
   },
   "IsAutoSelectUpgradeMirror": true,
-  "LastSpeedTest": "2025-03-15T23:39:02.1895845+08:00",
+  "LastSpeedTest": "2025-03-26T23:15:58.8618496+08:00",
   "LastUpdateSourceKind": 0,
   "UpdateReleaseInfo": "",
   "UpdateDownloadUrl": "",
   "UpdateVersion": "0.0",
-  "UpdateArtifactHash": "5A29C7E40180CF36C9CC4B96DEC997291140176ABA64C524B8CF26DA3958286B",
+  "UpdateArtifactHash": "6F0DCD27F2F20E9CC3B29804FA2121B03594724C4B43432FBA5477596CEB5162",
   "SelectedUpdateMirrorV2": "main",
   "SelectedUpdateChannelV2": "stable",
   "WindowDockingLocation": 1,
@@ -420,30 +420,59 @@
   "LastWeatherInfo": {
     "current": {
       "feelsLike": {
-        "value": "10",
+        "value": "19",
         "unit": "℃"
       },
       "humidity": {
-        "value": "80",
+        "value": "60",
         "unit": "%"
       },
       "pressure": {
-        "value": "966",
+        "value": "935",
         "unit": "hPa"
       },
       "temperature": {
-        "value": "10",
+        "value": "19",
         "unit": "℃"
       },
       "visibility": {
         "value": "",
         "unit": "km"
       },
-      "weather": "2",
-      "pubTime": "2025-03-15T23:50:21+08:00"
+      "weather": "0",
+      "pubTime": "2025-03-26T23:28:09+08:00"
     },
-    "alerts": [],
-    "updateTime": 1742054100737,
+    "alerts": [
+      {
+        "locationKey": "weathercn:101272007",
+        "alertId": "weathercn:101272007-1742982780000-强降温黄色",
+        "pubTime": "2025-03-26T17:53:00+08:00",
+        "title": "旌阳发布强降温黄色预警",
+        "type": "强降温",
+        "level": "黄色",
+        "detail": "德阳市气象台2025年03月26日17时53分发布强降温黄色预警：预计27日到30日我市有一次强降温天气过程，日平均气温将累计下降9～11℃，日最高气温将降至14℃左右，最低气温将降至7℃左右，27日冷空气影响时有4到7级偏北风，中东部局部地方可达8级或以上。受冷空气大风影响，26日晚上到28日有输入性沙尘，空气质量转差。29日到30日有小到中雨，局地大雨。31日开始气温逐步回升。请注意保暖，加强防范大风天气的不利影响，加强防护，尽量减少外出和户外活动。",
+        "images": {
+          "icon": "http://f4.market.mi-img.com/download/Weather/072013febeb1944da85649e5e547ec5a8284816a2/a.webp",
+          "notice": "http://f4.market.xiaomi.com/download/Weather/0c97450738e5b4975b9d6046563c52ee5c23f22b0/a.webp"
+        },
+        "IsDefaultIcon": 1
+      },
+      {
+        "locationKey": "weathercn:101272007",
+        "alertId": "weathercn:101272007-1742982420000-大风黄色",
+        "pubTime": "2025-03-26T17:47:00+08:00",
+        "title": "旌阳发布大风黄色预警",
+        "type": "大风",
+        "level": "黄色",
+        "detail": "德阳市气象台2025年03月26日17时47分发布大风黄色预警：受强冷空气影响，26日晚上到27日晚上我市普遍有4到6级偏北风，中江、罗江、旌阳和广汉有5到7级偏北风，局地可达8级或以上。受大风影响，27日到28日有输入性沙尘，空气质量转差。请注意防范大风天气的不利影响，提前加固构筑物。加强防护，尽量减少户外活动。",
+        "images": {
+          "icon": "http://f2.market.mi-img.com/download/Weather/0c3d85ba7f5d24e78ac28b3720c01254aca08650a/a.webp",
+          "notice": "http://f4.market.mi-img.com/download/Weather/005f1d484ddc44d96a0c57cbb2268527d792102be/a.webp"
+        },
+        "IsDefaultIcon": 0
+      }
+    ],
+    "updateTime": 1743003030808,
     "forecastDaily": {
       "precipitationProbability": {
         "value": [
@@ -467,36 +496,36 @@
       "temperature": {
         "value": [
           {
-            "from": "16",
-            "to": "8"
+            "from": "31",
+            "to": "14"
           },
           {
-            "from": "14",
-            "to": "4"
-          },
-          {
-            "from": "13",
-            "to": "3"
-          },
-          {
-            "from": "14",
-            "to": "4"
+            "from": "22",
+            "to": "7"
           },
           {
             "from": "16",
-            "to": "5"
+            "to": "7"
+          },
+          {
+            "from": "12",
+            "to": "6"
+          },
+          {
+            "from": "12",
+            "to": "6"
           },
           {
             "from": "17",
             "to": "6"
           },
           {
-            "from": "19",
-            "to": "6"
+            "from": "18",
+            "to": "7"
           },
           {
-            "from": "20",
-            "to": "9"
+            "from": "21",
+            "to": "8"
           },
           {
             "from": "22",
@@ -504,87 +533,87 @@
           },
           {
             "from": "24",
+            "to": "11"
+          },
+          {
+            "from": "22",
             "to": "12"
           },
           {
-            "from": "25",
+            "from": "26",
             "to": "14"
           },
           {
-            "from": "23",
-            "to": "16"
+            "from": "24",
+            "to": "13"
           },
           {
-            "from": "28",
-            "to": "17"
+            "from": "30",
+            "to": "15"
           },
           {
-            "from": "25",
-            "to": "14"
-          },
-          {
-            "from": "17",
-            "to": "11"
+            "from": "26",
+            "to": "12"
           }
         ]
       },
       "weather": {
         "value": [
           {
-            "from": "3",
-            "to": "2"
-          },
-          {
-            "from": "2",
-            "to": "1"
-          },
-          {
-            "from": "2",
-            "to": "2"
-          },
-          {
-            "from": "2",
-            "to": "1"
-          },
-          {
-            "from": "1",
-            "to": "2"
-          },
-          {
-            "from": "1",
-            "to": "1"
-          },
-          {
-            "from": "1",
-            "to": "1"
-          },
-          {
-            "from": "1",
-            "to": "2"
-          },
-          {
-            "from": "2",
-            "to": "2"
-          },
-          {
             "from": "0",
             "to": "0"
           },
           {
-            "from": "0",
-            "to": "0"
+            "from": "1",
+            "to": "1"
           },
           {
             "from": "0",
-            "to": "0"
-          },
-          {
-            "from": "2",
             "to": "2"
           },
           {
-            "from": "0",
+            "from": "1",
+            "to": "2"
+          },
+          {
+            "from": "2",
+            "to": "1"
+          },
+          {
+            "from": "1",
             "to": "7"
+          },
+          {
+            "from": "2",
+            "to": "1"
+          },
+          {
+            "from": "1",
+            "to": "7"
+          },
+          {
+            "from": "2",
+            "to": "7"
+          },
+          {
+            "from": "0",
+            "to": "1"
+          },
+          {
+            "from": "2",
+            "to": "2"
+          },
+          {
+            "from": "1",
+            "to": "2"
+          },
+          {
+            "from": "2",
+            "to": "2"
+          },
+          {
+            "from": "2",
+            "to": "2"
           },
           {
             "from": "2",
@@ -594,50 +623,6 @@
       },
       "sunRiseSet": {
         "value": [
-          {
-            "from": "2025-03-15T07:14:00+08:00",
-            "to": "2025-03-15T19:10:00+08:00"
-          },
-          {
-            "from": "2025-03-16T07:13:00+08:00",
-            "to": "2025-03-16T19:11:00+08:00"
-          },
-          {
-            "from": "2025-03-17T07:12:00+08:00",
-            "to": "2025-03-17T19:12:00+08:00"
-          },
-          {
-            "from": "2025-03-18T07:11:00+08:00",
-            "to": "2025-03-18T19:12:00+08:00"
-          },
-          {
-            "from": "2025-03-19T07:09:00+08:00",
-            "to": "2025-03-19T19:13:00+08:00"
-          },
-          {
-            "from": "2025-03-20T07:08:00+08:00",
-            "to": "2025-03-20T19:14:00+08:00"
-          },
-          {
-            "from": "2025-03-21T07:07:00+08:00",
-            "to": "2025-03-21T19:14:00+08:00"
-          },
-          {
-            "from": "2025-03-22T07:06:00+08:00",
-            "to": "2025-03-22T19:15:00+08:00"
-          },
-          {
-            "from": "2025-03-23T07:04:00+08:00",
-            "to": "2025-03-23T19:16:00+08:00"
-          },
-          {
-            "from": "2025-03-24T07:03:00+08:00",
-            "to": "2025-03-24T19:16:00+08:00"
-          },
-          {
-            "from": "2025-03-25T07:02:00+08:00",
-            "to": "2025-03-25T19:17:00+08:00"
-          },
           {
             "from": "2025-03-26T07:01:00+08:00",
             "to": "2025-03-26T19:17:00+08:00"
@@ -653,16 +638,60 @@
           {
             "from": "2025-03-29T06:57:00+08:00",
             "to": "2025-03-29T19:19:00+08:00"
+          },
+          {
+            "from": "2025-03-30T06:56:00+08:00",
+            "to": "2025-03-30T19:20:00+08:00"
+          },
+          {
+            "from": "2025-03-31T06:54:00+08:00",
+            "to": "2025-03-31T19:21:00+08:00"
+          },
+          {
+            "from": "2025-04-01T06:53:00+08:00",
+            "to": "2025-04-01T19:21:00+08:00"
+          },
+          {
+            "from": "2025-04-02T06:52:00+08:00",
+            "to": "2025-04-02T19:22:00+08:00"
+          },
+          {
+            "from": "2025-04-03T06:51:00+08:00",
+            "to": "2025-04-03T19:23:00+08:00"
+          },
+          {
+            "from": "2025-04-04T06:49:00+08:00",
+            "to": "2025-04-04T19:23:00+08:00"
+          },
+          {
+            "from": "2025-04-05T06:48:00+08:00",
+            "to": "2025-04-05T19:24:00+08:00"
+          },
+          {
+            "from": "2025-04-06T06:47:00+08:00",
+            "to": "2025-04-06T19:25:00+08:00"
+          },
+          {
+            "from": "2025-04-07T06:46:00+08:00",
+            "to": "2025-04-07T19:25:00+08:00"
+          },
+          {
+            "from": "2025-04-08T06:45:00+08:00",
+            "to": "2025-04-08T19:26:00+08:00"
+          },
+          {
+            "from": "2025-04-09T06:43:00+08:00",
+            "to": "2025-04-09T19:27:00+08:00"
           }
         ]
       }
     },
     "forecastHourly": {
       "temperature": {
-        "value": [12, 11, 10, 10, 10, 8, 8, 8, 8, 10, 12, 13, 13, 13, 14, 13, 13, 13, 12, 11, 10, 9, 8]
+        "value": [19, 19, 18, 18, 18, 18, 17, 16, 15, 17, 19, 20, 21, 21, 22, 21, 21, 20, 18, 17, 15, 15, 15]
       },
       "weather": {
-        "value": [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1]
+        "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
       }
     },
     "minutely": {
@@ -677,13 +706,13 @@
   "ExpIsExcelImportEnabled": false,
   "ExpAllowEditingActivatedTimeLayout": false,
   "DiagnosticFirstLaunchTime": "2025-02-11T20:26:34.3445837+08:00",
-  "DiagnosticStartupCount": 45,
+  "DiagnosticStartupCount": 51,
   "DiagnosticCrashCount": 0,
   "DiagnosticLastCrashTime": "0001-01-01T00:00:00",
   "DiagnosticMemoryKillCount": 0,
   "DiagnosticLastMemoryKillTime": "2025-02-11T20:26:34.3445846+08:00",
   "IsAutoBackupEnabled": true,
-  "LastAutoBackupTime": "2025-03-15T23:38:48.3751862+08:00",
+  "LastAutoBackupTime": "2025-03-26T23:15:51.6020757+08:00",
   "AutoBackupLimit": 16,
   "AutoBackupIntervalDays": 7,
   "OfficialIndexMirrors": {
@@ -706,7 +735,7 @@
     "Contributors": [],
     "IsActive": false
   },
-  "LastAppVersion": "1.6.0.3",
+  "LastAppVersion": "1.6.0.4",
   "ShowComponentsMigrateTip": false,
   "IsMigratedFromv1_4": false,
   "IsProfileEditorClassInfoSubjectAutoMoveNextEnabled": true,

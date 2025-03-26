@@ -3,7 +3,7 @@
     "TimeLayouts": {},
     "ClassPlans": {
       "c13c4ea5-831a-49ba-975f-132290d63b67": {
-        "TimeLayoutId": "400a6e78-92a2-4948-8be9-0a4f63036ec3",
+        "TimeLayoutId": "291543be-cc22-47de-8882-e24d73ebef8b",
         "TimeRule": {
           "WeekDay": 1,
           "WeekCountDiv": 1,
@@ -133,6 +133,14 @@
           },
           {
             "SubjectId": "7b7aea95-30ad-4490-8d98-0c9179c47a10",
+            "IsChangedClass": false,
+            "AttachedObjects": {
+  
+            },
+            "IsActive": false
+          },
+          {
+            "SubjectId": "923f4a8b-51eb-468b-971d-bb02e7db0163",
             "IsChangedClass": false,
             "AttachedObjects": {
   
@@ -317,6 +325,14 @@
   
             },
             "IsActive": false
+          },
+          {
+            "SubjectId": "923f4a8b-51eb-468b-971d-bb02e7db0163",
+            "IsChangedClass": false,
+            "AttachedObjects": {
+  
+            },
+            "IsActive": false
           }
         ],
         "Name": "Tuesday",
@@ -491,6 +507,14 @@
           },
           {
             "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
+            "IsChangedClass": false,
+            "AttachedObjects": {
+  
+            },
+            "IsActive": false
+          },
+          {
+            "SubjectId": "923f4a8b-51eb-468b-971d-bb02e7db0163",
             "IsChangedClass": false,
             "AttachedObjects": {
   
@@ -675,6 +699,14 @@
   
             },
             "IsActive": false
+          },
+          {
+            "SubjectId": "923f4a8b-51eb-468b-971d-bb02e7db0163",
+            "IsChangedClass": false,
+            "AttachedObjects": {
+  
+            },
+            "IsActive": false
           }
         ],
         "Name": "Thursday",
@@ -849,6 +881,14 @@
           },
           {
             "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
+            "IsChangedClass": false,
+            "AttachedObjects": {
+  
+            },
+            "IsActive": false
+          },
+          {
+            "SubjectId": "923f4a8b-51eb-468b-971d-bb02e7db0163",
             "IsChangedClass": false,
             "AttachedObjects": {
   
@@ -1231,6 +1271,14 @@
   
             },
             "IsActive": false
+          },
+          {
+            "SubjectId": "923f4a8b-51eb-468b-971d-bb02e7db0163",
+            "IsChangedClass": false,
+            "AttachedObjects": {
+  
+            },
+            "IsActive": false
           }
         ],
         "Name": "Wednesday_双",
@@ -1275,7 +1323,7 @@
         "IsActive": false
       },
       "e5dba7b6-93ae-4d5d-b028-ae3448a8fd2c": {
-        "TimeLayoutId": "400a6e78-92a2-4948-8be9-0a4f63036ec3",
+        "TimeLayoutId": "291543be-cc22-47de-8882-e24d73ebef8b",
         "TimeRule": {
           "WeekDay": 1,
           "WeekCountDiv": 2,
@@ -1388,7 +1436,7 @@
             "IsActive": false
           },
           {
-            "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
+            "SubjectId": "7b7aea95-30ad-4490-8d98-0c9179c47a10",
             "IsChangedClass": false,
             "AttachedObjects": {
   
@@ -1396,7 +1444,7 @@
             "IsActive": false
           },
           {
-            "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
+            "SubjectId": "7b7aea95-30ad-4490-8d98-0c9179c47a10",
             "IsChangedClass": false,
             "AttachedObjects": {
   
@@ -1404,7 +1452,15 @@
             "IsActive": false
           },
           {
-            "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
+            "SubjectId": "7b7aea95-30ad-4490-8d98-0c9179c47a10",
+            "IsChangedClass": false,
+            "AttachedObjects": {
+  
+            },
+            "IsActive": false
+          },
+          {
+            "SubjectId": "923f4a8b-51eb-468b-971d-bb02e7db0163",
             "IsChangedClass": false,
             "AttachedObjects": {
   
@@ -1765,7 +1821,7 @@
             "IsActive": false
           }
         ],
-        "Name": "Friday_Empty_NotAutoEnable",
+        "Name": "Friday_MonthlyLeave_NotAutoEnable",
         "IsOverlay": false,
         "OverlaySourceId": null,
         "OverlaySetupTime": "2025-02-22T17:10:14.5916744+08:00",
@@ -1807,7 +1863,6 @@
         "IsActive": false
       }
     },
-   
       "Subjects": {}
   }
       

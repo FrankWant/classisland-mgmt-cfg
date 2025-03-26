@@ -1,11 +1,11 @@
 {
     "ClassPlanSource": {
        "Value": "https://raw.githubusercontent.com/FrankWant/classisland-mgmt-cfg/master/ClassPlans.json",
-        "Version": 23
+        "Version": 24
     },
     "TimeLayoutSource": {
         "Value": "https://raw.githubusercontent.com/FrankWant/classisland-mgmt-cfg/master/TimeLayouts.json",
-        "Version": 24
+        "Version": 25
     },
     "SubjectsSource": {
         "Value": "https://raw.githubusercontent.com/FrankWant/classisland-mgmt-cfg/master/Subjects.json",
@@ -13,7 +13,7 @@
     },
     "DefaultSettingsSource": {
         "Value": "https://raw.githubusercontent.com/FrankWant/classisland-mgmt-cfg/master/settings.json",
-        "Version": 17
+        "Version": 18
     },
     "PolicySource": {
         "Value": "https://raw.githubusercontent.com/FrankWant/classisland-mgmt-cfg/master/policy.json",
