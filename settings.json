@@ -64,7 +64,7 @@
   "TimeOffsetSeconds": 0,
   "IsTimeAutoAdjustEnabled": false,
   "TimeAutoAdjustSeconds": 0,
-  "LastTimeAdjustDateTime": "2025-03-26T00:00:00+08:00",
+  "LastTimeAdjustDateTime": "2025-03-28T00:00:00+08:00",
   "IsTransientDisabled": false,
   "IsWaitForTransientDisabled": false,
   "IsCriticalSafeMode": true,
@@ -98,57 +98,57 @@
     {
       "ColorContext": null,
       "A": 255,
-      "R": 22,
-      "G": 138,
-      "B": 93,
+      "R": 27,
+      "G": 78,
+      "B": 149,
       "ScA": 1,
-      "ScR": 0.008023193,
-      "ScG": 0.25415212,
-      "ScB": 0.10946172
+      "ScR": 0.010960095,
+      "ScG": 0.07618539,
+      "ScB": 0.3005438
     },
     {
       "ColorContext": null,
       "A": 255,
-      "R": 24,
-      "G": 159,
-      "B": 148,
+      "R": 13,
+      "G": 157,
+      "B": 210,
       "ScA": 1,
-      "ScR": 0.009134059,
-      "ScG": 0.3467041,
-      "ScB": 0.2961383
+      "ScR": 0.004024717,
+      "ScG": 0.33716366,
+      "ScB": 0.6444797
     },
     {
       "ColorContext": null,
       "A": 255,
-      "R": 143,
-      "G": 89,
-      "B": 53,
+      "R": 38,
+      "G": 145,
+      "B": 163,
       "ScA": 1,
-      "ScR": 0.27467734,
-      "ScG": 0.09989873,
-      "ScB": 0.035601314
+      "ScR": 0.019382363,
+      "ScG": 0.28314877,
+      "ScB": 0.36625263
     },
     {
       "ColorContext": null,
       "A": 255,
-      "R": 212,
-      "G": 156,
-      "B": 111,
+      "R": 29,
+      "G": 32,
+      "B": 105,
       "ScA": 1,
-      "ScR": 0.65837485,
-      "ScG": 0.33245155,
-      "ScB": 0.15896083
+      "ScR": 0.012286489,
+      "ScG": 0.014443845,
+      "ScB": 0.14126329
     },
     {
       "ColorContext": null,
       "A": 255,
-      "R": 144,
-      "G": 111,
-      "B": 89,
+      "R": 15,
+      "G": 213,
+      "B": 228,
       "ScA": 1,
-      "ScR": 0.2788943,
-      "ScG": 0.15896083,
-      "ScB": 0.09989873
+      "ScR": 0.0047769537,
+      "ScG": 0.66538733,
+      "ScB": 0.7758222
     }
   ],
   "SelectedPlatteIndex": 0,
@@ -170,7 +170,7 @@
     "ScB": 0
   },
   "Opacity": 0.9,
-  "Scale": 1.7,
+  "Scale": 1.65,
   "MainWindowFont": "/ClassIsland;component/Assets/Fonts/#HarmonyOS Sans SC",
   "MainWindowFontWeight2": 500,
   "RadiusX": 20,
@@ -351,7 +351,7 @@
   "IsAutomationWarningVisible": false,
   "UpdateMode": 3,
   "SelectedChannel": "https://install.appcenter.ms/api/v0.1/apps/hellowrc/classisland/distribution_groups/public",
-  "LastCheckUpdateTime": "2025-03-26T23:17:03.4361717+08:00",
+  "LastCheckUpdateTime": "2025-03-28T23:09:32.9092128+08:00",
   "LastUpdateStatus": 0,
   "AutoInstallUpdateNextStartup": true,
   "SpeedTestResults": {
@@ -420,59 +420,30 @@
   "LastWeatherInfo": {
     "current": {
       "feelsLike": {
-        "value": "19",
+        "value": "9",
         "unit": "℃"
       },
       "humidity": {
-        "value": "60",
+        "value": "53",
         "unit": "%"
       },
       "pressure": {
-        "value": "935",
+        "value": "965",
         "unit": "hPa"
       },
       "temperature": {
-        "value": "19",
+        "value": "7",
         "unit": "℃"
       },
       "visibility": {
         "value": "",
         "unit": "km"
       },
-      "weather": "0",
-      "pubTime": "2025-03-26T23:28:09+08:00"
+      "weather": "2",
+      "pubTime": "2025-03-28T23:02:08+08:00"
     },
-    "alerts": [
-      {
-        "locationKey": "weathercn:101272007",
-        "alertId": "weathercn:101272007-1742982780000-强降温黄色",
-        "pubTime": "2025-03-26T17:53:00+08:00",
-        "title": "旌阳发布强降温黄色预警",
-        "type": "强降温",
-        "level": "黄色",
-        "detail": "德阳市气象台2025年03月26日17时53分发布强降温黄色预警：预计27日到30日我市有一次强降温天气过程，日平均气温将累计下降9～11℃，日最高气温将降至14℃左右，最低气温将降至7℃左右，27日冷空气影响时有4到7级偏北风，中东部局部地方可达8级或以上。受冷空气大风影响，26日晚上到28日有输入性沙尘，空气质量转差。29日到30日有小到中雨，局地大雨。31日开始气温逐步回升。请注意保暖，加强防范大风天气的不利影响，加强防护，尽量减少外出和户外活动。",
-        "images": {
-          "icon": "http://f4.market.mi-img.com/download/Weather/072013febeb1944da85649e5e547ec5a8284816a2/a.webp",
-          "notice": "http://f4.market.xiaomi.com/download/Weather/0c97450738e5b4975b9d6046563c52ee5c23f22b0/a.webp"
-        },
-        "IsDefaultIcon": 1
-      },
-      {
-        "locationKey": "weathercn:101272007",
-        "alertId": "weathercn:101272007-1742982420000-大风黄色",
-        "pubTime": "2025-03-26T17:47:00+08:00",
-        "title": "旌阳发布大风黄色预警",
-        "type": "大风",
-        "level": "黄色",
-        "detail": "德阳市气象台2025年03月26日17时47分发布大风黄色预警：受强冷空气影响，26日晚上到27日晚上我市普遍有4到6级偏北风，中江、罗江、旌阳和广汉有5到7级偏北风，局地可达8级或以上。受大风影响，27日到28日有输入性沙尘，空气质量转差。请注意防范大风天气的不利影响，提前加固构筑物。加强防护，尽量减少户外活动。",
-        "images": {
-          "icon": "http://f2.market.mi-img.com/download/Weather/0c3d85ba7f5d24e78ac28b3720c01254aca08650a/a.webp",
-          "notice": "http://f4.market.mi-img.com/download/Weather/005f1d484ddc44d96a0c57cbb2268527d792102be/a.webp"
-        },
-        "IsDefaultIcon": 0
-      }
-    ],
-    "updateTime": 1743003030808,
+    "alerts": [],
+    "updateTime": 1743174332081,
     "forecastDaily": {
       "precipitationProbability": {
         "value": [
@@ -496,39 +467,31 @@
       "temperature": {
         "value": [
           {
-            "from": "31",
-            "to": "14"
+            "from": "15",
+            "to": "6"
           },
           {
-            "from": "22",
+            "from": "10",
+            "to": "6"
+          },
+          {
+            "from": "13",
+            "to": "8"
+          },
+          {
+            "from": "14",
             "to": "7"
           },
           {
             "from": "16",
-            "to": "7"
+            "to": "9"
           },
           {
-            "from": "12",
-            "to": "6"
-          },
-          {
-            "from": "12",
-            "to": "6"
-          },
-          {
-            "from": "17",
-            "to": "6"
+            "from": "19",
+            "to": "9"
           },
           {
             "from": "18",
-            "to": "7"
-          },
-          {
-            "from": "21",
-            "to": "8"
-          },
-          {
-            "from": "22",
             "to": "11"
           },
           {
@@ -536,64 +499,80 @@
             "to": "11"
           },
           {
-            "from": "22",
+            "from": "24",
             "to": "12"
           },
           {
-            "from": "26",
-            "to": "14"
+            "from": "27",
+            "to": "13"
           },
           {
-            "from": "24",
-            "to": "13"
+            "from": "28",
+            "to": "15"
           },
           {
             "from": "30",
             "to": "15"
           },
           {
-            "from": "26",
-            "to": "12"
+            "from": "30",
+            "to": "17"
+          },
+          {
+            "from": "30",
+            "to": "14"
+          },
+          {
+            "from": "30",
+            "to": "15"
           }
         ]
       },
       "weather": {
         "value": [
           {
+            "from": "2",
+            "to": "7"
+          },
+          {
+            "from": "1",
+            "to": "1"
+          },
+          {
+            "from": "2",
+            "to": "7"
+          },
+          {
+            "from": "2",
+            "to": "2"
+          },
+          {
+            "from": "2",
+            "to": "1"
+          },
+          {
+            "from": "1",
+            "to": "1"
+          },
+          {
+            "from": "1",
+            "to": "1"
+          },
+          {
+            "from": "1",
+            "to": "2"
+          },
+          {
+            "from": "2",
+            "to": "0"
+          },
+          {
             "from": "0",
             "to": "0"
           },
           {
-            "from": "1",
-            "to": "1"
-          },
-          {
-            "from": "0",
+            "from": "2",
             "to": "2"
-          },
-          {
-            "from": "1",
-            "to": "2"
-          },
-          {
-            "from": "2",
-            "to": "1"
-          },
-          {
-            "from": "1",
-            "to": "7"
-          },
-          {
-            "from": "2",
-            "to": "1"
-          },
-          {
-            "from": "1",
-            "to": "7"
-          },
-          {
-            "from": "2",
-            "to": "7"
           },
           {
             "from": "0",
@@ -604,16 +583,8 @@
             "to": "2"
           },
           {
-            "from": "1",
-            "to": "2"
-          },
-          {
             "from": "2",
-            "to": "2"
-          },
-          {
-            "from": "2",
-            "to": "2"
+            "to": "1"
           },
           {
             "from": "2",
@@ -623,14 +594,6 @@
       },
       "sunRiseSet": {
         "value": [
-          {
-            "from": "2025-03-26T07:01:00+08:00",
-            "to": "2025-03-26T19:17:00+08:00"
-          },
-          {
-            "from": "2025-03-27T06:59:00+08:00",
-            "to": "2025-03-27T19:18:00+08:00"
-          },
           {
             "from": "2025-03-28T06:58:00+08:00",
             "to": "2025-03-28T19:19:00+08:00"
@@ -682,16 +645,24 @@
           {
             "from": "2025-04-09T06:43:00+08:00",
             "to": "2025-04-09T19:27:00+08:00"
+          },
+          {
+            "from": "2025-04-10T06:42:00+08:00",
+            "to": "2025-04-10T19:27:00+08:00"
+          },
+          {
+            "from": "2025-04-11T06:41:00+08:00",
+            "to": "2025-04-11T19:28:00+08:00"
           }
         ]
       }
     },
     "forecastHourly": {
       "temperature": {
-        "value": [19, 19, 18, 18, 18, 18, 17, 16, 15, 17, 19, 20, 21, 21, 22, 21, 21, 20, 18, 17, 15, 15, 15]
+        "value": [7, 7, 7, 7, 7, 7, 7, 7, 6, 8, 8, 9, 9, 9, 9, 10, 10, 10, 9, 8, 8, 10, 10]
       },
       "weather": {
-        "value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+        "value": [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
       }
     },
     "minutely": {
@@ -706,7 +677,7 @@
   "ExpIsExcelImportEnabled": false,
   "ExpAllowEditingActivatedTimeLayout": false,
   "DiagnosticFirstLaunchTime": "2025-02-11T20:26:34.3445837+08:00",
-  "DiagnosticStartupCount": 51,
+  "DiagnosticStartupCount": 52,
   "DiagnosticCrashCount": 0,
   "DiagnosticLastCrashTime": "0001-01-01T00:00:00",
   "DiagnosticMemoryKillCount": 0,
