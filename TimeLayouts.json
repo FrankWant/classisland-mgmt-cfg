@@ -16,7 +16,7 @@
             "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
               "IsClassOnNotificationEnabled": true,
               "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
+              "IsClassOffNotificationEnabled": true,
               "ClassPreparingDeltaTime": 10,
               "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
               "ClassOnPreparingMaskText": "即将上课",
@@ -231,7 +231,7 @@
             "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
               "IsClassOnNotificationEnabled": true,
               "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
+              "IsClassOffNotificationEnabled": true,
               "ClassPreparingDeltaTime": 10,
               "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
               "ClassOnPreparingMaskText": "即将上课",
@@ -317,7 +317,7 @@
             "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
               "IsClassOnNotificationEnabled": true,
               "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
+              "IsClassOffNotificationEnabled": true,
               "ClassPreparingDeltaTime": 10,
               "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
               "ClassOnPreparingMaskText": "即将上课",
@@ -403,7 +403,7 @@
             "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
               "IsClassOnNotificationEnabled": true,
               "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
+              "IsClassOffNotificationEnabled": true,
               "ClassPreparingDeltaTime": 10,
               "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
               "ClassOnPreparingMaskText": "即将上课",
@@ -495,6 +495,7 @@
               "ClassOnPreparingMaskText": "即将上课",
               "ClassOnMaskText": "上课",
               "ClassOffMaskText": "课间休息",
+              "ClassOffOverlayText": "",
               "IsAttachSettingsEnabled": false,
               "IsActive": false
             },
@@ -507,6 +508,7 @@
               "ExtraInfo4ShowSecondsSeconds": 0,
               "ScheduleSpacing": 1,
               "ShowCurrentLessonOnlyOnClass": false,
+              "IsNonExactCountdownEnabled": false,
               "IsActive": false
             },
             "7625de96-38aa-4b71-b478-3f156dd9458d": {
@@ -530,7 +532,7 @@
             "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
               "IsClassOnNotificationEnabled": true,
               "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
+              "IsClassOffNotificationEnabled": true,
               "ClassPreparingDeltaTime": 10,
               "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
               "ClassOnPreparingMaskText": "即将上课",
@@ -574,13 +576,13 @@
               "IsClassOnNotificationEnabled": true,
               "IsClassOnPreparingNotificationEnabled": true,
               "IsClassOffNotificationEnabled": true,
-              "ClassPreparingDeltaTime": 60,
+              "ClassPreparingDeltaTime": 10,
               "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
               "ClassOnPreparingMaskText": "即将上课",
               "ClassOnMaskText": "上课",
               "ClassOffMaskText": "课间休息",
               "ClassOffOverlayText": "",
-              "IsAttachSettingsEnabled": false,
+              "IsAttachSettingsEnabled": true,
               "IsActive": false
             },
             "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
@@ -659,7 +661,7 @@
             "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
               "IsClassOnNotificationEnabled": true,
               "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
+              "IsClassOffNotificationEnabled": true,
               "ClassPreparingDeltaTime": 10,
               "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
               "ClassOnPreparingMaskText": "即将上课",
@@ -745,7 +747,7 @@
             "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
               "IsClassOnNotificationEnabled": true,
               "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
+              "IsClassOffNotificationEnabled": true,
               "ClassPreparingDeltaTime": 10,
               "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
               "ClassOnPreparingMaskText": "即将上课",
@@ -1001,7 +1003,7 @@
             "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
               "IsClassOnNotificationEnabled": true,
               "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
+              "IsClassOffNotificationEnabled": true,
               "ClassPreparingDeltaTime": 10,
               "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
               "ClassOnPreparingMaskText": "即将上课",
@@ -1051,7 +1053,7 @@
               "ClassOnMaskText": "上课",
               "ClassOffMaskText": "课间休息",
               "ClassOffOverlayText": "",
-              "IsAttachSettingsEnabled": false,
+              "IsAttachSettingsEnabled": true,
               "IsActive": false
             },
             "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
@@ -1130,7 +1132,7 @@
             "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
               "IsClassOnNotificationEnabled": true,
               "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
+              "IsClassOffNotificationEnabled": true,
               "ClassPreparingDeltaTime": 10,
               "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
               "ClassOnPreparingMaskText": "即将上课",
@@ -1216,7 +1218,7 @@
             "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
               "IsClassOnNotificationEnabled": true,
               "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
+              "IsClassOffNotificationEnabled": true,
               "ClassPreparingDeltaTime": 10,
               "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
               "ClassOnPreparingMaskText": "即将上课",
@@ -1260,13 +1262,13 @@
               "IsClassOnNotificationEnabled": true,
               "IsClassOnPreparingNotificationEnabled": true,
               "IsClassOffNotificationEnabled": true,
-              "ClassPreparingDeltaTime": 60,
+              "ClassPreparingDeltaTime": 10,
               "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
               "ClassOnPreparingMaskText": "即将上课",
               "ClassOnMaskText": "上课",
               "ClassOffMaskText": "课间休息",
               "ClassOffOverlayText": "",
-              "IsAttachSettingsEnabled": false,
+              "IsAttachSettingsEnabled": true,
               "IsActive": false
             },
             "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
@@ -1341,7 +1343,7 @@
             "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
               "IsClassOnNotificationEnabled": true,
               "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
+              "IsClassOffNotificationEnabled": true,
               "ClassPreparingDeltaTime": 10,
               "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
               "ClassOnPreparingMaskText": "即将上课",
@@ -1385,13 +1387,13 @@
               "IsClassOnNotificationEnabled": true,
               "IsClassOnPreparingNotificationEnabled": true,
               "IsClassOffNotificationEnabled": true,
-              "ClassPreparingDeltaTime": 60,
+              "ClassPreparingDeltaTime": 10,
               "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
               "ClassOnPreparingMaskText": "即将上课",
               "ClassOnMaskText": "上课",
               "ClassOffMaskText": "课间休息",
               "ClassOffOverlayText": "",
-              "IsAttachSettingsEnabled": false,
+              "IsAttachSettingsEnabled": true,
               "IsActive": false
             },
             "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
@@ -1470,7 +1472,7 @@
             "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
               "IsClassOnNotificationEnabled": true,
               "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
+              "IsClassOffNotificationEnabled": true,
               "ClassPreparingDeltaTime": 10,
               "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
               "ClassOnPreparingMaskText": "即将上课",
@@ -1556,7 +1558,7 @@
             "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
               "IsClassOnNotificationEnabled": true,
               "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
+              "IsClassOffNotificationEnabled": true,
               "ClassPreparingDeltaTime": 10,
               "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
               "ClassOnPreparingMaskText": "即将上课",
@@ -1638,7 +1640,7 @@
             "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
               "IsClassOnNotificationEnabled": true,
               "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
+              "IsClassOffNotificationEnabled": true,
               "ClassPreparingDeltaTime": 10,
               "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
               "ClassOnPreparingMaskText": "即将上课",
@@ -1682,13 +1684,13 @@
               "IsClassOnNotificationEnabled": true,
               "IsClassOnPreparingNotificationEnabled": true,
               "IsClassOffNotificationEnabled": true,
-              "ClassPreparingDeltaTime": 60,
+              "ClassPreparingDeltaTime": 10,
               "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
               "ClassOnPreparingMaskText": "即将上课",
               "ClassOnMaskText": "上课",
               "ClassOffMaskText": "课间休息",
               "ClassOffOverlayText": "",
-              "IsAttachSettingsEnabled": false,
+              "IsAttachSettingsEnabled": true,
               "IsActive": false
             },
             "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
@@ -1767,7 +1769,7 @@
             "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
               "IsClassOnNotificationEnabled": true,
               "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
+              "IsClassOffNotificationEnabled": true,
               "ClassPreparingDeltaTime": 10,
               "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
               "ClassOnPreparingMaskText": "即将上课",
@@ -1853,7 +1855,7 @@
             "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
               "IsClassOnNotificationEnabled": true,
               "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
+              "IsClassOffNotificationEnabled": true,
               "ClassPreparingDeltaTime": 10,
               "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
               "ClassOnPreparingMaskText": "即将上课",
@@ -1939,7 +1941,7 @@
             "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
               "IsClassOnNotificationEnabled": true,
               "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
+              "IsClassOffNotificationEnabled": true,
               "ClassPreparingDeltaTime": 10,
               "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
               "ClassOnPreparingMaskText": "即将上课",
@@ -2025,7 +2027,7 @@
             "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
               "IsClassOnNotificationEnabled": true,
               "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
+              "IsClassOffNotificationEnabled": true,
               "ClassPreparingDeltaTime": 10,
               "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
               "ClassOnPreparingMaskText": "即将上课",
@@ -2152,7 +2154,7 @@
             "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
               "IsClassOnNotificationEnabled": true,
               "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
+              "IsClassOffNotificationEnabled": true,
               "ClassPreparingDeltaTime": 10,
               "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
               "ClassOnPreparingMaskText": "即将上课",
@@ -2196,13 +2198,13 @@
               "IsClassOnNotificationEnabled": true,
               "IsClassOnPreparingNotificationEnabled": true,
               "IsClassOffNotificationEnabled": true,
-              "ClassPreparingDeltaTime": 60,
+              "ClassPreparingDeltaTime": 10,
               "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
               "ClassOnPreparingMaskText": "即将上课",
               "ClassOnMaskText": "上课",
               "ClassOffMaskText": "课间休息",
               "ClassOffOverlayText": "",
-              "IsAttachSettingsEnabled": false,
+              "IsAttachSettingsEnabled": true,
               "IsActive": false
             },
             "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
@@ -2281,7 +2283,7 @@
             "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
               "IsClassOnNotificationEnabled": true,
               "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
+              "IsClassOffNotificationEnabled": true,
               "ClassPreparingDeltaTime": 10,
               "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
               "ClassOnPreparingMaskText": "即将上课",
@@ -2363,7 +2365,7 @@
             "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
               "IsClassOnNotificationEnabled": true,
               "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
+              "IsClassOffNotificationEnabled": true,
               "ClassPreparingDeltaTime": 10,
               "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
               "ClassOnPreparingMaskText": "即将上课",
@@ -2407,13 +2409,13 @@
               "IsClassOnNotificationEnabled": true,
               "IsClassOnPreparingNotificationEnabled": true,
               "IsClassOffNotificationEnabled": true,
-              "ClassPreparingDeltaTime": 60,
+              "ClassPreparingDeltaTime": 10,
               "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
               "ClassOnPreparingMaskText": "即将上课",
               "ClassOnMaskText": "上课",
               "ClassOffMaskText": "课间休息",
               "ClassOffOverlayText": "",
-              "IsAttachSettingsEnabled": false,
+              "IsAttachSettingsEnabled": true,
               "IsActive": false
             },
             "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
@@ -2492,7 +2494,7 @@
             "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
               "IsClassOnNotificationEnabled": true,
               "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
+              "IsClassOffNotificationEnabled": true,
               "ClassPreparingDeltaTime": 10,
               "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
               "ClassOnPreparingMaskText": "即将上课",
@@ -2578,7 +2580,7 @@
             "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
               "IsClassOnNotificationEnabled": true,
               "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
+              "IsClassOffNotificationEnabled": true,
               "ClassPreparingDeltaTime": 10,
               "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
               "ClassOnPreparingMaskText": "即将上课",
@@ -2664,7 +2666,7 @@
             "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
               "IsClassOnNotificationEnabled": true,
               "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
+              "IsClassOffNotificationEnabled": true,
               "ClassPreparingDeltaTime": 10,
               "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
               "ClassOnPreparingMaskText": "即将上课",
@@ -2750,7 +2752,7 @@
             "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
               "IsClassOnNotificationEnabled": true,
               "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
+              "IsClassOffNotificationEnabled": true,
               "ClassPreparingDeltaTime": 10,
               "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
               "ClassOnPreparingMaskText": "即将上课",
@@ -2879,7 +2881,7 @@
             "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
               "IsClassOnNotificationEnabled": true,
               "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
+              "IsClassOffNotificationEnabled": true,
               "ClassPreparingDeltaTime": 10,
               "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
               "ClassOnPreparingMaskText": "即将上课",
@@ -2965,7 +2967,7 @@
             "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
               "IsClassOnNotificationEnabled": true,
               "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
+              "IsClassOffNotificationEnabled": true,
               "ClassPreparingDeltaTime": 10,
               "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
               "ClassOnPreparingMaskText": "即将上课",
@@ -3047,7 +3049,7 @@
             "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
               "IsClassOnNotificationEnabled": true,
               "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
+              "IsClassOffNotificationEnabled": true,
               "ClassPreparingDeltaTime": 10,
               "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
               "ClassOnPreparingMaskText": "即将上课",
@@ -3262,7 +3264,7 @@
             "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
               "IsClassOnNotificationEnabled": true,
               "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
+              "IsClassOffNotificationEnabled": true,
               "ClassPreparingDeltaTime": 10,
               "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
               "ClassOnPreparingMaskText": "即将上课",
@@ -3348,7 +3350,7 @@
             "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
               "IsClassOnNotificationEnabled": true,
               "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
+              "IsClassOffNotificationEnabled": true,
               "ClassPreparingDeltaTime": 10,
               "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
               "ClassOnPreparingMaskText": "即将上课",
@@ -3434,7 +3436,7 @@
             "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
               "IsClassOnNotificationEnabled": true,
               "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
+              "IsClassOffNotificationEnabled": true,
               "ClassPreparingDeltaTime": 10,
               "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
               "ClassOnPreparingMaskText": "即将上课",
@@ -3561,7 +3563,7 @@
             "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
               "IsClassOnNotificationEnabled": true,
               "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
+              "IsClassOffNotificationEnabled": true,
               "ClassPreparingDeltaTime": 10,
               "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
               "ClassOnPreparingMaskText": "即将上课",
@@ -3605,13 +3607,13 @@
               "IsClassOnNotificationEnabled": true,
               "IsClassOnPreparingNotificationEnabled": true,
               "IsClassOffNotificationEnabled": true,
-              "ClassPreparingDeltaTime": 60,
+              "ClassPreparingDeltaTime": 10,
               "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
               "ClassOnPreparingMaskText": "即将上课",
               "ClassOnMaskText": "上课",
               "ClassOffMaskText": "课间休息",
               "ClassOffOverlayText": "",
-              "IsAttachSettingsEnabled": false,
+              "IsAttachSettingsEnabled": true,
               "IsActive": false
             },
             "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
@@ -3690,7 +3692,7 @@
             "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
               "IsClassOnNotificationEnabled": true,
               "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
+              "IsClassOffNotificationEnabled": true,
               "ClassPreparingDeltaTime": 10,
               "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
               "ClassOnPreparingMaskText": "即将上课",
@@ -3776,7 +3778,7 @@
             "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
               "IsClassOnNotificationEnabled": true,
               "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
+              "IsClassOffNotificationEnabled": true,
               "ClassPreparingDeltaTime": 10,
               "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
               "ClassOnPreparingMaskText": "即将上课",
@@ -3906,13 +3908,13 @@
               "IsClassOnNotificationEnabled": true,
               "IsClassOnPreparingNotificationEnabled": true,
               "IsClassOffNotificationEnabled": true,
-              "ClassPreparingDeltaTime": 60,
+              "ClassPreparingDeltaTime": 10,
               "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
               "ClassOnPreparingMaskText": "即将上课",
               "ClassOnMaskText": "上课",
               "ClassOffMaskText": "课间休息",
               "ClassOffOverlayText": "",
-              "IsAttachSettingsEnabled": false,
+              "IsAttachSettingsEnabled": true,
               "IsActive": false
             },
             "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
@@ -4032,7 +4034,7 @@
             "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
               "IsClassOnNotificationEnabled": true,
               "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
+              "IsClassOffNotificationEnabled": true,
               "ClassPreparingDeltaTime": 10,
               "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
               "ClassOnPreparingMaskText": "即将上课",
@@ -4076,13 +4078,13 @@
               "IsClassOnNotificationEnabled": true,
               "IsClassOnPreparingNotificationEnabled": true,
               "IsClassOffNotificationEnabled": true,
-              "ClassPreparingDeltaTime": 60,
+              "ClassPreparingDeltaTime": 10,
               "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
               "ClassOnPreparingMaskText": "即将上课",
               "ClassOnMaskText": "上课",
               "ClassOffMaskText": "课间休息",
               "ClassOffOverlayText": "",
-              "IsAttachSettingsEnabled": false,
+              "IsAttachSettingsEnabled": true,
               "IsActive": false
             },
             "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
@@ -4247,7 +4249,7 @@
             "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
               "IsClassOnNotificationEnabled": true,
               "IsClassOnPreparingNotificationEnabled": true,
-              "IsClassOffNotificationEnabled": false,
+              "IsClassOffNotificationEnabled": true,
               "ClassPreparingDeltaTime": 10,
               "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
               "ClassOnPreparingMaskText": "即将上课",
@@ -4291,13 +4293,13 @@
               "IsClassOnNotificationEnabled": true,
               "IsClassOnPreparingNotificationEnabled": true,
               "IsClassOffNotificationEnabled": true,
-              "ClassPreparingDeltaTime": 60,
+              "ClassPreparingDeltaTime": 10,
               "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
               "ClassOnPreparingMaskText": "即将上课",
               "ClassOnMaskText": "上课",
               "ClassOffMaskText": "课间休息",
               "ClassOffOverlayText": "",
-              "IsAttachSettingsEnabled": false,
+              "IsAttachSettingsEnabled": true,
               "IsActive": false
             },
             "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
@@ -4357,7 +4359,7 @@
       },
       "IsActive": false
     }
-},
+  },
   "ClassPlans": {},
   "Subjects": {}
   }
