@@ -64,7 +64,7 @@
   "TimeOffsetSeconds": 0,
   "IsTimeAutoAdjustEnabled": false,
   "TimeAutoAdjustSeconds": 0,
-  "LastTimeAdjustDateTime": "2025-04-13T00:00:00+08:00",
+  "LastTimeAdjustDateTime": "2025-04-14T00:00:00+08:00",
   "IsTransientDisabled": false,
   "IsWaitForTransientDisabled": false,
   "IsCriticalSafeMode": true,
@@ -98,57 +98,57 @@
     {
       "ColorContext": null,
       "A": 255,
-      "R": 148,
-      "G": 91,
-      "B": 51,
+      "R": 181,
+      "G": 86,
+      "B": 52,
       "ScA": 1,
-      "ScR": 0.2961383,
-      "ScG": 0.10461649,
-      "ScB": 0.033104766
+      "ScR": 0.46207702,
+      "ScG": 0.093058966,
+      "ScB": 0.034339808
     },
     {
       "ColorContext": null,
       "A": 255,
-      "R": 116,
-      "G": 175,
-      "B": 197,
+      "R": 113,
+      "G": 185,
+      "B": 226,
       "ScA": 1,
-      "ScR": 0.1746474,
-      "ScG": 0.42869052,
-      "ScB": 0.55834043
+      "ScR": 0.1651322,
+      "ScG": 0.48514995,
+      "ScB": 0.7605245
     },
     {
       "ColorContext": null,
       "A": 255,
-      "R": 211,
-      "G": 157,
-      "B": 105,
+      "R": 145,
+      "G": 185,
+      "B": 214,
       "ScA": 1,
-      "ScR": 0.65140563,
-      "ScG": 0.33716366,
-      "ScB": 0.14126329
+      "ScR": 0.28314877,
+      "ScG": 0.48514995,
+      "ScB": 0.67244315
     },
     {
       "ColorContext": null,
       "A": 255,
-      "R": 114,
-      "G": 165,
-      "B": 185,
+      "R": 240,
+      "G": 138,
+      "B": 31,
       "ScA": 1,
-      "ScR": 0.1682694,
-      "ScG": 0.37626216,
-      "ScB": 0.48514995
+      "ScR": 0.8713671,
+      "ScG": 0.25415212,
+      "ScB": 0.013702083
     },
     {
       "ColorContext": null,
       "A": 255,
-      "R": 209,
-      "G": 104,
-      "B": 49,
+      "R": 220,
+      "G": 153,
+      "B": 102,
       "ScA": 1,
-      "ScR": 0.6375969,
-      "ScG": 0.13843162,
-      "ScB": 0.030713445
+      "ScR": 0.71569353,
+      "ScG": 0.3185468,
+      "ScB": 0.13286832
     }
   ],
   "SelectedPlatteIndex": 0,
@@ -247,7 +247,7 @@
       "Latitude": 31.143172,
       "Longitude": 104.421968,
       "Threshold": 2,
-      "Info": "在2025/4/13 23:24:56时，四川省阿坝藏族羌族自治州汶川县(31 103.4)发生8.8级地震，震源深度14km。本地距离99km，本地烈度8.0。",
+      "Info": "在2025/4/13 10:25:09时，缅甸(手机监测网公测)(21.645084 96.0764)发生3.9级地震，震源深度10km。本地距离1344km，本地烈度0.0。",
       "IsActive": false
     }
   },
@@ -351,8 +351,8 @@
   "IsAutomationWarningVisible": false,
   "UpdateMode": 3,
   "SelectedChannel": "https://install.appcenter.ms/api/v0.1/apps/hellowrc/classisland/distribution_groups/public",
-  "LastCheckUpdateTime": "2025-04-13T23:18:55.1995737+08:00",
-  "LastUpdateStatus": 2,
+  "LastCheckUpdateTime": "2025-04-14T23:31:37.8813056+08:00",
+  "LastUpdateStatus": 0,
   "AutoInstallUpdateNextStartup": true,
   "SpeedTestResults": {
     "main": {
@@ -420,11 +420,11 @@
   "LastWeatherInfo": {
     "current": {
       "feelsLike": {
-        "value": "18",
+        "value": "19",
         "unit": "℃"
       },
       "humidity": {
-        "value": "68",
+        "value": "67",
         "unit": "%"
       },
       "pressure": {
@@ -432,18 +432,18 @@
         "unit": "hPa"
       },
       "temperature": {
-        "value": "15",
+        "value": "16",
         "unit": "℃"
       },
       "visibility": {
         "value": "",
         "unit": "km"
       },
-      "weather": "0",
-      "pubTime": "2025-04-13T23:18:13+08:00"
+      "weather": "2",
+      "pubTime": "2025-04-14T23:33:03+08:00"
     },
     "alerts": [],
-    "updateTime": 1744557619182,
+    "updateTime": 1744644926275,
     "forecastDaily": {
       "precipitationProbability": {
         "value": [
@@ -468,15 +468,11 @@
         "value": [
           {
             "from": "31",
-            "to": "10"
-          },
-          {
-            "from": "31",
-            "to": "13"
+            "to": "15"
           },
           {
             "from": "29",
-            "to": "15"
+            "to": "14"
           },
           {
             "from": "30",
@@ -484,75 +480,75 @@
           },
           {
             "from": "31",
-            "to": "17"
+            "to": "16"
           },
           {
             "from": "32",
             "to": "17"
           },
           {
-            "from": "34",
+            "from": "35",
             "to": "19"
           },
           {
             "from": "31",
-            "to": "19"
-          },
-          {
-            "from": "29",
-            "to": "20"
-          },
-          {
-            "from": "28",
             "to": "17"
           },
           {
             "from": "25",
-            "to": "13"
+            "to": "16"
           },
           {
             "from": "25",
-            "to": "8"
+            "to": "15"
           },
           {
-            "from": "20",
-            "to": "9"
+            "from": "29",
+            "to": "14"
+          },
+          {
+            "from": "21",
+            "to": "13"
+          },
+          {
+            "from": "19",
+            "to": "12"
+          },
+          {
+            "from": "21",
+            "to": "13"
           },
           {
             "from": "22",
-            "to": "8"
+            "to": "11"
           },
           {
             "from": "23",
-            "to": "10"
+            "to": "13"
           }
         ]
       },
       "weather": {
         "value": [
           {
-            "from": "0",
-            "to": "2"
-          },
-          {
             "from": "2",
             "to": "2"
           },
           {
             "from": "2",
-            "to": "1"
+            "to": "2"
           },
           {
             "from": "1",
             "to": "1"
           },
           {
-            "from": "0",
-            "to": "1"
+            "from": "1",
+            "to": "0"
           },
           {
             "from": "1",
-            "to": "1"
+            "to": "0"
           },
           {
             "from": "0",
@@ -564,6 +560,18 @@
           },
           {
             "from": "1",
+            "to": "2"
+          },
+          {
+            "from": "2",
+            "to": "0"
+          },
+          {
+            "from": "2",
+            "to": "7"
+          },
+          {
+            "from": "2",
             "to": "2"
           },
           {
@@ -575,29 +583,17 @@
             "to": "7"
           },
           {
+            "from": "2",
+            "to": "2"
+          },
+          {
             "from": "7",
-            "to": "7"
-          },
-          {
-            "from": "2",
-            "to": "2"
-          },
-          {
-            "from": "2",
-            "to": "2"
-          },
-          {
-            "from": "2",
             "to": "2"
           }
         ]
       },
       "sunRiseSet": {
         "value": [
-          {
-            "from": "2025-04-13T06:39:00+08:00",
-            "to": "2025-04-13T19:29:00+08:00"
-          },
           {
             "from": "2025-04-14T06:37:00+08:00",
             "to": "2025-04-14T19:30:00+08:00"
@@ -653,16 +649,20 @@
           {
             "from": "2025-04-27T06:23:00+08:00",
             "to": "2025-04-27T19:38:00+08:00"
+          },
+          {
+            "from": "2025-04-28T06:22:00+08:00",
+            "to": "2025-04-28T19:39:00+08:00"
           }
         ]
       }
     },
     "forecastHourly": {
       "temperature": {
-        "value": [15, 15, 14, 13, 13, 11, 13, 14, 14, 19, 23, 27, 29, 30, 31, 31, 30, 30, 28, 25, 23, 22, 21]
+        "value": [17, 17, 15, 16, 16, 16, 16, 16, 16, 19, 22, 26, 27, 28, 29, 29, 29, 28, 27, 25, 24, 23, 21]
       },
       "weather": {
-        "value": [1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+        "value": [2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 0, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2]
       }
     },
     "minutely": {
@@ -677,7 +677,7 @@
   "ExpIsExcelImportEnabled": false,
   "ExpAllowEditingActivatedTimeLayout": false,
   "DiagnosticFirstLaunchTime": "2025-02-11T20:26:34.3445837+08:00",
-  "DiagnosticStartupCount": 53,
+  "DiagnosticStartupCount": 55,
   "DiagnosticCrashCount": 0,
   "DiagnosticLastCrashTime": "0001-01-01T00:00:00",
   "DiagnosticMemoryKillCount": 0,
@@ -706,7 +706,7 @@
     "Contributors": [],
     "IsActive": false
   },
-  "LastAppVersion": "1.6.0.4",
+  "LastAppVersion": "1.6.0.5",
   "ShowComponentsMigrateTip": false,
   "IsMigratedFromv1_4": false,
   "IsProfileEditorClassInfoSubjectAutoMoveNextEnabled": true,
