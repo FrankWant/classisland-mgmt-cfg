@@ -64,7 +64,7 @@
   "SplashCustomText": "正在连接集控中心...",
   "SplashCustomLogoSource": "C:\\Users\\seewo\\AppData\\Local\\Classisland\\DFLS_Logo_Full.png",
   "ExactTimeServer": "ntp.aliyun.com",
-  "IsExactTimeEnabled": false,
+  "IsExactTimeEnabled": true,
   "TimeOffsetSeconds": 0,
   "IsTimeAutoAdjustEnabled": false,
   "TimeAutoAdjustSeconds": 0,
@@ -379,7 +379,7 @@
   "IsAutomationWarningVisible": false,
   "UpdateMode": 3,
   "SelectedChannel": "https://install.appcenter.ms/api/v0.1/apps/hellowrc/classisland/distribution_groups/public",
-  "LastCheckUpdateTime": "2025-05-20T22:37:25.2056337+08:00",
+  "LastCheckUpdateTime": "2025-05-20T23:18:37.174543+08:00",
   "LastUpdateStatus": 0,
   "AutoInstallUpdateNextStartup": true,
   "SpeedTestResults": {
@@ -424,11 +424,11 @@
   "LastWeatherInfo": {
     "current": {
       "feelsLike": {
-        "value": "27",
+        "value": "28",
         "unit": "℃"
       },
       "humidity": {
-        "value": "57",
+        "value": "56",
         "unit": "%"
       },
       "pressure": {
@@ -444,14 +444,14 @@
         "unit": "km"
       },
       "weather": "1",
-      "pubTime": "2025-05-20T22:38:05+08:00",
+      "pubTime": "2025-05-20T23:18:08+08:00",
       "wind": {
         "direction": {
-          "value": "73.0",
+          "value": "50.0",
           "unit": "°"
         },
         "speed": {
-          "value": "3.0",
+          "value": "2.0",
           "unit": "km/h"
         }
       }
@@ -472,7 +472,7 @@
         "IsDefaultIcon": 0
       }
     ],
-    "updateTime": 1747752061156,
+    "updateTime": 1747754462786,
     "forecastDaily": {
       "precipitationProbability": {
         "value": [
@@ -688,10 +688,10 @@
     },
     "forecastHourly": {
       "temperature": {
-        "value": [28, 26, 24, 23, 23, 23, 24, 25, 26, 27, 29, 32, 34, 35, 36, 36, 36, 35, 34, 33, 32, 30, 29]
+        "value": [26, 24, 23, 23, 23, 24, 25, 26, 27, 29, 32, 34, 35, 36, 36, 36, 35, 34, 33, 32, 30, 29, 28]
       },
       "weather": {
-        "value": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2]
+        "value": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2]
       }
     },
     "minutely": {
@@ -709,7 +709,7 @@
   "ExpIsExcelImportEnabled": false,
   "ExpAllowEditingActivatedTimeLayout": false,
   "DiagnosticFirstLaunchTime": "2025-05-01T21:49:35.5990189+08:00",
-  "DiagnosticStartupCount": 28,
+  "DiagnosticStartupCount": 29,
   "DiagnosticCrashCount": 0,
   "DiagnosticLastCrashTime": "0001-01-01T00:00:00",
   "DiagnosticMemoryKillCount": 0,
