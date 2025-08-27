@@ -49,7 +49,7 @@
   ],
   "HideOnMaxWindow": true,
   "IsReportingEnabled": true,
-  "TaskBarIconClickBehavior": 2,
+  "TaskBarIconClickBehavior": 0,
   "ShowExtraInfoOnTimePoint": true,
   "ExtraInfoType": 0,
   "IsCountdownEnabled": true,
@@ -68,7 +68,7 @@
   "TimeOffsetSeconds": 0,
   "IsTimeAutoAdjustEnabled": false,
   "TimeAutoAdjustSeconds": 0,
-  "LastTimeAdjustDateTime": "2025-08-18T00:00:00+08:00",
+  "LastTimeAdjustDateTime": "2025-08-27T00:00:00+08:00",
   "IsTransientDisabled": false,
   "IsWaitForTransientDisabled": false,
   "IsCriticalSafeMode": true,
@@ -104,57 +104,57 @@
     {
       "ColorContext": null,
       "A": 255,
-      "R": 5,
-      "G": 43,
-      "B": 159,
+      "R": 218,
+      "G": 168,
+      "B": 115,
       "ScA": 1,
-      "ScR": 0.001517635,
-      "ScG": 0.024157634,
-      "ScB": 0.3467041
+      "ScR": 0.7011019,
+      "ScG": 0.3915725,
+      "ScB": 0.17144111
     },
     {
       "ColorContext": null,
       "A": 255,
-      "R": 3,
-      "G": 52,
-      "B": 210,
+      "R": 212,
+      "G": 178,
+      "B": 144,
       "ScA": 1,
-      "ScR": 0.000910581,
-      "ScG": 0.034339808,
-      "ScB": 0.6444797
+      "ScR": 0.65837485,
+      "ScG": 0.44520122,
+      "ScB": 0.2788943
     },
     {
       "ColorContext": null,
       "A": 255,
-      "R": 11,
-      "G": 75,
-      "B": 208,
+      "R": 162,
+      "G": 137,
+      "B": 114,
       "ScA": 1,
-      "ScR": 0.0033465358,
-      "ScG": 0.0703601,
-      "ScB": 0.63075715
+      "ScR": 0.36130682,
+      "ScG": 0.2501583,
+      "ScB": 0.1682694
     },
     {
       "ColorContext": null,
       "A": 255,
-      "R": 6,
-      "G": 82,
-      "B": 240,
+      "R": 141,
+      "G": 116,
+      "B": 96,
       "ScA": 1,
-      "ScR": 0.001821162,
-      "ScG": 0.084376216,
-      "ScB": 0.8713671
+      "ScR": 0.26635563,
+      "ScG": 0.1746474,
+      "ScB": 0.11697067
     },
     {
       "ColorContext": null,
       "A": 255,
-      "R": 16,
-      "G": 73,
-      "B": 178,
+      "R": 243,
+      "G": 210,
+      "B": 162,
       "ScA": 1,
-      "ScR": 0.005181517,
-      "ScG": 0.066625945,
-      "ScB": 0.44520122
+      "ScR": 0.8962694,
+      "ScG": 0.6444797,
+      "ScB": 0.36130682
     }
   ],
   "SelectedPlatteIndex": 0,
@@ -198,14 +198,13 @@
     "ScG": 0.2788943,
     "ScB": 1
   },
-  "MainWindowLineVerticalMargin": 5,
+  "MainWindowLineVerticalMargin": 20,
   "CurrentComponentConfig": "Default",
   "IsNotificationEnabled": true,
   "NotificationProvidersEnableStates": {
     "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": true,
     "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": true,
     "7625de96-38aa-4b71-b478-3f156dd9458d": true,
-    "0117fb4f-5374-434a-97fb-4f5374634a07": true,
     "4b12f124-8585-43c7-afc5-7bbb7cbe60d6": true,
     "b27c0af3-c917-44de-a61d-8010c3f3fb92": true
   },
@@ -214,7 +213,6 @@
     "7625de96-38aa-4b71-b478-3f156dd9458d",
     "08f0d9c3-c770-4093-a3d0-02f3d90c24bc",
     "8fbc3a26-6d20-44dd-b895-b9411e3ddc51",
-    "0117fb4f-5374-434a-97fb-4f5374634a07",
     "4b12f124-8585-43c7-afc5-7bbb7cbe60d6"
   ],
   "NotificationProvidersSettings": {
@@ -250,13 +248,12 @@
       "WeatherAlertSpeed": 7,
       "IsActive": false
     },
-    "0117fb4f-5374-434a-97fb-4f5374634a07": null,
     "4b12f124-8585-43c7-afc5-7bbb7cbe60d6": null,
     "b27c0af3-c917-44de-a61d-8010c3f3fb92": {
       "Latitude": 31.14,
-      "Longitude": 104.85,
+      "Longitude": 104.42,
       "Threshold": 2,
-      "Info": "在2025-08-16 21:05:33时，山东青州(36.46396 118.32965)发生3.1级地震，震源深度8km。本地距离1526km，本地烈度0.0。",
+      "Info": "",
       "IsActive": false
     }
   },
@@ -287,18 +284,8 @@
       "IsNotificationEffectEnabled": false,
       "IsNotificationSoundEnabled": false,
       "NotificationSoundPath": "",
-      "IsNotificationTopmostEnabled": false,
-      "IsSettingsEnabled": false,
-      "IsActive": false
-    },
-    "0117fb4f-5374-434a-97fb-4f5374634a07": {
-      "IsNotificationEnabled": true,
-      "IsSpeechEnabled": false,
-      "IsNotificationEffectEnabled": true,
-      "IsNotificationSoundEnabled": false,
-      "NotificationSoundPath": "",
-      "IsNotificationTopmostEnabled": false,
-      "IsSettingsEnabled": false,
+      "IsNotificationTopmostEnabled": true,
+      "IsSettingsEnabled": true,
       "IsActive": false
     },
     "4b12f124-8585-43c7-afc5-7bbb7cbe60d6": {
@@ -316,7 +303,7 @@
       "IsSpeechEnabled": false,
       "IsNotificationEffectEnabled": true,
       "IsNotificationSoundEnabled": true,
-      "NotificationSoundPath": "D:\\Classisland\\NHK_EQAlarm,mp3",
+      "NotificationSoundPath": "D:\\Classisland\\NHK_EQAlarm.mp3",
       "IsNotificationTopmostEnabled": true,
       "IsSettingsEnabled": true,
       "IsActive": false
@@ -355,7 +342,7 @@
     }
   },
   "IsSystemSpeechSystemExist": false,
-  "IsNetworkConnect": true,
+  "IsNetworkConnect": false,
   "IsSpeechEnabled": true,
   "SpeechVolume": 1,
   "SpeechSource": 1,
@@ -367,7 +354,7 @@
   "IsNotificationTopmostEnabled": true,
   "NotificationEffectRenderingScale": 0.1,
   "IsNotificationEffectRenderingScaleAutoSet": true,
-  "AllowNotificationSpeech": false,
+  "AllowNotificationSpeech": true,
   "AllowNotificationEffect": true,
   "AllowNotificationSound": true,
   "AllowNotificationTopmost": true,
@@ -392,14 +379,29 @@
   "IsAutomationWarningVisible": false,
   "UpdateMode": 3,
   "SelectedChannel": "https://install.appcenter.ms/api/v0.1/apps/hellowrc/classisland/distribution_groups/public",
-  "LastCheckUpdateTime": "2025-08-18T17:30:47.8274432+08:00",
+  "LastCheckUpdateTime": "2025-08-27T21:16:24.2035365+08:00",
   "LastUpdateStatus": 0,
   "AutoInstallUpdateNextStartup": true,
   "SpeedTestResults": {
-
+    "main": {
+      "Delay": 0,
+      "CanConnect": false,
+      "IsTested": false,
+      "IsTesting": false,
+      "IsDelayUnclear": false,
+      "IsActive": false
+    },
+    "github-origin": {
+      "Delay": 0,
+      "CanConnect": false,
+      "IsTested": false,
+      "IsTesting": false,
+      "IsDelayUnclear": false,
+      "IsActive": false
+    }
   },
   "IsAutoSelectUpgradeMirror": true,
-  "LastSpeedTest": "2025-08-18T17:23:55.30584+08:00",
+  "LastSpeedTest": "2025-08-27T20:41:44.7635196+08:00",
   "LastUpdateSourceKind": 2,
   "UpdateReleaseInfo": "",
   "UpdateDownloadUrl": "",
@@ -422,52 +424,81 @@
   "LastWeatherInfo": {
     "current": {
       "feelsLike": {
-        "value": "36",
+        "value": "29",
         "unit": "℃"
       },
       "humidity": {
-        "value": "65",
+        "value": "91",
         "unit": "%"
       },
       "pressure": {
-        "value": "946",
+        "value": "949",
         "unit": "hPa"
       },
       "temperature": {
-        "value": "31",
+        "value": "24",
         "unit": "℃"
       },
       "visibility": {
         "value": "",
         "unit": "km"
       },
-      "weather": "1",
-      "pubTime": "2025-08-18T17:28:22+08:00",
+      "weather": "2",
+      "pubTime": "2025-08-27T21:32:31+08:00",
       "wind": {
         "direction": {
-          "value": "186.0",
+          "value": "351.0",
           "unit": "°"
         },
         "speed": {
-          "value": "4.0",
+          "value": "8.0",
           "unit": "km/h"
         }
       }
     },
-    "alerts": [],
-    "updateTime": 1755509403959,
+    "alerts": [
+      {
+        "locationKey": "weathercn:101272007",
+        "alertId": "weathercn:101272007-1756281780000-暴雨黄色",
+        "pubTime": "2025-08-27T16:03:00+08:00",
+        "title": "旌阳发布暴雨黄色预警",
+        "type": "暴雨",
+        "level": "黄色",
+        "detail": "德阳市气象台2025年08月27日16时03分发布暴雨黄色预警：预计27日20时到28日20时绵竹、什邡2市有暴雨，山区部分地方有大暴雨。累计雨量50到90毫米，山区部分地方可达150毫米以上，最大小时雨强40到80毫米。降雨时伴有短时强降雨、雷电、阵性大风等强对流天气。由于强降水落区与前期降水落区重叠，请继续加强山洪、地质灾害、中小河流洪水和城镇积涝等次生灾害防御。",
+        "images": {
+          "icon": "http://f7.market.xiaomi.com/download/Weather/01478a847433f4df9ad256694887cf5d27f1bf612/a.webp",
+          "notice": "http://f4.market.mi-img.com/download/Weather/070db1f97616c4a4f956bb046b67703a76425dabb/a.webp"
+        },
+        "IsDefaultIcon": 0
+      },
+      {
+        "locationKey": "weathercn:101272007",
+        "alertId": "weathercn:101272007-1756280700000-暴雨蓝色",
+        "pubTime": "2025-08-27T15:45:00+08:00",
+        "title": "旌阳发布暴雨蓝色预警",
+        "type": "暴雨",
+        "level": "蓝色",
+        "detail": "四川省气象台2025年08月27日15时45分发布暴雨蓝色预警：8月27日20时到28日20时，雅安市北部，成都、广元、绵阳、德阳、眉山5市西部，乐山市西北部有暴雨到大暴雨（雨量70～150毫米），个别特大暴雨（雨量250～280毫米），最大小时雨强70～90毫米，并伴有短时雷雨大风。另外，阿坝州东部北部和甘孜州东部北部有暴雨到大暴雨（雨量25～70毫米）。相关区域请注意强降雨引发的小流域山洪、地质灾害、中小河流洪水等风险的发生，注意预防。",
+        "images": {
+          "icon": "http://f8.market.mi-img.com/download/Weather/0c5c0d1caa64f44aaa9fdb24679c605ff503748be/a.webp",
+          "notice": "http://f5.market.mi-img.com/download/Weather/0cd9e375d10fb46889048bc5a5ddd5a3ce39f85de/a.webp"
+        },
+        "IsDefaultIcon": 0
+      }
+    ],
+    "updateTime": 1756301705849,
     "forecastDaily": {
       "precipitationProbability": {
         "value": [
           "0",
-          "2",
+          "3",
           "0",
           "0",
           "0",
           "0",
           "0",
           "0",
-          "1",
+          "0",
           "0",
           "0",
           "0",
@@ -480,55 +511,35 @@
         "value": [
           {
             "from": "32",
-            "to": "23"
-          },
-          {
-            "from": "33",
-            "to": "23"
-          },
-          {
-            "from": "34",
-            "to": "23"
-          },
-          {
-            "from": "30",
-            "to": "23"
-          },
-          {
-            "from": "30",
             "to": "22"
-          },
-          {
-            "from": "29",
-            "to": "22"
-          },
-          {
-            "from": "27",
-            "to": "22"
-          },
-          {
-            "from": "31",
-            "to": "23"
-          },
-          {
-            "from": "31",
-            "to": "22"
-          },
-          {
-            "from": "31",
-            "to": "22"
-          },
-          {
-            "from": "33",
-            "to": "22"
-          },
-          {
-            "from": "29",
-            "to": "21"
           },
           {
             "from": "28",
+            "to": "19"
+          },
+          {
+            "from": "27",
+            "to": "19"
+          },
+          {
+            "from": "27",
+            "to": "19"
+          },
+          {
+            "from": "31",
             "to": "21"
+          },
+          {
+            "from": "31",
+            "to": "22"
+          },
+          {
+            "from": "28",
+            "to": "23"
+          },
+          {
+            "from": "29",
+            "to": "22"
           },
           {
             "from": "30",
@@ -536,112 +547,96 @@
           },
           {
             "from": "32",
+            "to": "23"
+          },
+          {
+            "from": "33",
             "to": "24"
+          },
+          {
+            "from": "33",
+            "to": "25"
+          },
+          {
+            "from": "33",
+            "to": "25"
+          },
+          {
+            "from": "33",
+            "to": "26"
+          },
+          {
+            "from": "33",
+            "to": "26"
           }
         ]
       },
       "weather": {
         "value": [
           {
+            "from": "2",
+            "to": "3"
+          },
+          {
+            "from": "2",
+            "to": "9"
+          },
+          {
+            "from": "3",
+            "to": "2"
+          },
+          {
+            "from": "2",
+            "to": "1"
+          },
+          {
             "from": "1",
-            "to": "3"
+            "to": "1"
           },
           {
-            "from": "4",
-            "to": "3"
-          },
-          {
-            "from": "3",
-            "to": "3"
-          },
-          {
-            "from": "3",
-            "to": "7"
-          },
-          {
-            "from": "3",
-            "to": "8"
-          },
-          {
-            "from": "3",
-            "to": "8"
-          },
-          {
-            "from": "3",
-            "to": "8"
-          },
-          {
-            "from": "7",
-            "to": "7"
-          },
-          {
-            "from": "7",
-            "to": "7"
-          },
-          {
-            "from": "7",
-            "to": "7"
-          },
-          {
-            "from": "7",
-            "to": "7"
-          },
-          {
-            "from": "7",
-            "to": "7"
-          },
-          {
-            "from": "2",
+            "from": "1",
             "to": "2"
           },
           {
-            "from": "2",
+            "from": "1",
+            "to": "7"
+          },
+          {
+            "from": "7",
             "to": "2"
           },
           {
-            "from": "2",
+            "from": "1",
             "to": "2"
+          },
+          {
+            "from": "7",
+            "to": "7"
+          },
+          {
+            "from": "7",
+            "to": "7"
+          },
+          {
+            "from": "7",
+            "to": "7"
+          },
+          {
+            "from": "7",
+            "to": "7"
+          },
+          {
+            "from": "7",
+            "to": "7"
+          },
+          {
+            "from": "7",
+            "to": "7"
           }
         ]
       },
       "sunRiseSet": {
         "value": [
-          {
-            "from": "2025-08-18T06:29:00+08:00",
-            "to": "2025-08-18T19:43:00+08:00"
-          },
-          {
-            "from": "2025-08-19T06:30:00+08:00",
-            "to": "2025-08-19T19:42:00+08:00"
-          },
-          {
-            "from": "2025-08-20T06:30:00+08:00",
-            "to": "2025-08-20T19:41:00+08:00"
-          },
-          {
-            "from": "2025-08-21T06:31:00+08:00",
-            "to": "2025-08-21T19:40:00+08:00"
-          },
-          {
-            "from": "2025-08-22T06:31:00+08:00",
-            "to": "2025-08-22T19:38:00+08:00"
-          },
-          {
-            "from": "2025-08-23T06:32:00+08:00",
-            "to": "2025-08-23T19:37:00+08:00"
-          },
-          {
-            "from": "2025-08-24T06:33:00+08:00",
-            "to": "2025-08-24T19:36:00+08:00"
-          },
-          {
-            "from": "2025-08-25T06:33:00+08:00",
-            "to": "2025-08-25T19:35:00+08:00"
-          },
-          {
-            "from": "2025-08-26T06:34:00+08:00",
-            "to": "2025-08-26T19:34:00+08:00"
-          },
           {
             "from": "2025-08-27T06:34:00+08:00",
             "to": "2025-08-27T19:33:00+08:00"
@@ -665,16 +660,52 @@
           {
             "from": "2025-09-01T06:37:00+08:00",
             "to": "2025-09-01T19:27:00+08:00"
+          },
+          {
+            "from": "2025-09-02T06:38:00+08:00",
+            "to": "2025-09-02T19:25:00+08:00"
+          },
+          {
+            "from": "2025-09-03T06:39:00+08:00",
+            "to": "2025-09-03T19:24:00+08:00"
+          },
+          {
+            "from": "2025-09-04T06:39:00+08:00",
+            "to": "2025-09-04T19:23:00+08:00"
+          },
+          {
+            "from": "2025-09-05T06:40:00+08:00",
+            "to": "2025-09-05T19:22:00+08:00"
+          },
+          {
+            "from": "2025-09-06T06:40:00+08:00",
+            "to": "2025-09-06T19:21:00+08:00"
+          },
+          {
+            "from": "2025-09-07T06:41:00+08:00",
+            "to": "2025-09-07T19:19:00+08:00"
+          },
+          {
+            "from": "2025-09-08T06:41:00+08:00",
+            "to": "2025-09-08T19:18:00+08:00"
+          },
+          {
+            "from": "2025-09-09T06:42:00+08:00",
+            "to": "2025-09-09T19:17:00+08:00"
+          },
+          {
+            "from": "2025-09-10T06:43:00+08:00",
+            "to": "2025-09-10T19:15:00+08:00"
           }
         ]
       }
     },
     "forecastHourly": {
       "temperature": {
-        "value": [31, 29, 28, 27, 27, 26, 26, 26, 25, 25, 25, 24, 24, 25, 25, 27, 29, 31, 32, 33, 33, 33, 33]
+        "value": [26, 26, 26, 26, 26, 24, 24, 24, 24, 24, 23, 25, 27, 28, 28, 27, 27, 25, 24, 23, 23, 23, 23]
       },
       "weather": {
-        "value": [0, 1, 1, 2, 2, 2, 2, 2, 3, 3, 3, 3, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2]
+        "value": [1, 1, 2, 2, 2, 2, 3, 3, 3, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 2, 2, 2]
       }
     },
     "minutely": {
@@ -692,14 +723,14 @@
   "WeatherIconId": "classisland.weatherIcons.materialDesign",
   "ExpIsExcelImportEnabled": false,
   "ExpAllowEditingActivatedTimeLayout": false,
-  "DiagnosticFirstLaunchTime": "2025-08-18T17:23:39.8940581+08:00",
-  "DiagnosticStartupCount": 3,
+  "DiagnosticFirstLaunchTime": "2025-08-27T20:41:43.9221902+08:00",
+  "DiagnosticStartupCount": 6,
   "DiagnosticCrashCount": 0,
   "DiagnosticLastCrashTime": "0001-01-01T00:00:00",
   "DiagnosticMemoryKillCount": 0,
-  "DiagnosticLastMemoryKillTime": "2025-08-18T17:23:39.8940582+08:00",
+  "DiagnosticLastMemoryKillTime": "2025-08-27T20:41:43.9221909+08:00",
   "IsAutoBackupEnabled": true,
-  "LastAutoBackupTime": "2025-08-18T17:23:39.8940699+08:00",
+  "LastAutoBackupTime": "2025-08-27T20:41:43.9222957+08:00",
   "AutoBackupLimit": 16,
   "AutoBackupIntervalDays": 7,
   "OfficialIndexMirrors": {
@@ -709,7 +740,7 @@
   },
   "OfficialSelectedMirror": "github",
   "PluginIndexes": [],
-  "LastRefreshPluginSourceTime": "2025-08-18T17:29:28.7319672+08:00",
+  "LastRefreshPluginSourceTime": "2025-08-27T20:48:12.3600212+08:00",
   "IsPluginMarketWarningVisible": false,
   "IsRollingComponentWarningVisible": true,
   "IsThemeWarningVisible": true,
