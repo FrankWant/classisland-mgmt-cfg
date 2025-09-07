@@ -1,9 +1,12 @@
 {
-  "SelectedProfile": "Default.json",
+  "SelectedProfile": "_management-profile.json",
   "IsMainWindowVisible": true,
   "IsWelcomeWindowShowed": true,
   "SettingsOverlay": {
-
+    "CurrentComponentConfig": {
+      "@": "Tiny",
+      "5470ca30-6f5b-4f30-bd72-f4887f6a86ca": "Default"
+    }
   },
   "WeatherLongitude": 0,
   "WeatherLatitude": 0,
@@ -68,7 +71,7 @@
   "TimeOffsetSeconds": 0,
   "IsTimeAutoAdjustEnabled": false,
   "TimeAutoAdjustSeconds": 0,
-  "LastTimeAdjustDateTime": "2025-08-27T00:00:00+08:00",
+  "LastTimeAdjustDateTime": "2025-09-07T00:00:00+08:00",
   "IsTransientDisabled": false,
   "IsWaitForTransientDisabled": false,
   "IsCriticalSafeMode": true,
@@ -99,62 +102,62 @@
     "ScG": 1,
     "ScB": 0.65837485
   },
-  "ColorSource": 1,
+  "ColorSource": 2,
   "WallpaperColorPlatte": [
     {
       "ColorContext": null,
       "A": 255,
-      "R": 218,
-      "G": 168,
-      "B": 115,
+      "R": 5,
+      "G": 43,
+      "B": 159,
       "ScA": 1,
-      "ScR": 0.7011019,
-      "ScG": 0.3915725,
-      "ScB": 0.17144111
+      "ScR": 0.001517635,
+      "ScG": 0.024157634,
+      "ScB": 0.3467041
     },
     {
       "ColorContext": null,
       "A": 255,
-      "R": 212,
-      "G": 178,
-      "B": 144,
+      "R": 3,
+      "G": 52,
+      "B": 210,
       "ScA": 1,
-      "ScR": 0.65837485,
-      "ScG": 0.44520122,
-      "ScB": 0.2788943
+      "ScR": 0.000910581,
+      "ScG": 0.034339808,
+      "ScB": 0.6444797
     },
     {
       "ColorContext": null,
       "A": 255,
-      "R": 162,
-      "G": 137,
-      "B": 114,
+      "R": 11,
+      "G": 75,
+      "B": 208,
       "ScA": 1,
-      "ScR": 0.36130682,
-      "ScG": 0.2501583,
-      "ScB": 0.1682694
+      "ScR": 0.0033465358,
+      "ScG": 0.0703601,
+      "ScB": 0.63075715
     },
     {
       "ColorContext": null,
       "A": 255,
-      "R": 141,
-      "G": 116,
-      "B": 96,
+      "R": 6,
+      "G": 82,
+      "B": 240,
       "ScA": 1,
-      "ScR": 0.26635563,
-      "ScG": 0.1746474,
-      "ScB": 0.11697067
+      "ScR": 0.001821162,
+      "ScG": 0.084376216,
+      "ScB": 0.8713671
     },
     {
       "ColorContext": null,
       "A": 255,
-      "R": 243,
-      "G": 210,
-      "B": 162,
+      "R": 16,
+      "G": 73,
+      "B": 178,
       "ScA": 1,
-      "ScR": 0.8962694,
-      "ScG": 0.6444797,
-      "ScB": 0.36130682
+      "ScR": 0.005181517,
+      "ScG": 0.066625945,
+      "ScB": 0.44520122
     }
   ],
   "SelectedPlatteIndex": 0,
@@ -206,14 +209,16 @@
     "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": true,
     "7625de96-38aa-4b71-b478-3f156dd9458d": true,
     "4b12f124-8585-43c7-afc5-7bbb7cbe60d6": true,
-    "b27c0af3-c917-44de-a61d-8010c3f3fb92": true
+    "b27c0af3-c917-44de-a61d-8010c3f3fb92": true,
+    "0117fb4f-5374-434a-97fb-4f5374634a07": true
   },
   "NotificationProvidersPriority": [
     "b27c0af3-c917-44de-a61d-8010c3f3fb92",
     "7625de96-38aa-4b71-b478-3f156dd9458d",
     "08f0d9c3-c770-4093-a3d0-02f3d90c24bc",
     "8fbc3a26-6d20-44dd-b895-b9411e3ddc51",
-    "4b12f124-8585-43c7-afc5-7bbb7cbe60d6"
+    "4b12f124-8585-43c7-afc5-7bbb7cbe60d6",
+    "0117fb4f-5374-434a-97fb-4f5374634a07"
   ],
   "NotificationProvidersSettings": {
     "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
@@ -253,9 +258,10 @@
       "Latitude": 31.14,
       "Longitude": 104.42,
       "Threshold": 2,
-      "Info": "",
+      "Info": "在2025-09-06 22:57:10时，四川省阿坝藏族羌族自治州汶川县(31 103.4)发生8.8级地震，震源深度14km。本地距离98km，本地烈度8.0。",
       "IsActive": false
-    }
+    },
+    "0117fb4f-5374-434a-97fb-4f5374634a07": null
   },
   "NotificationProvidersNotifySettings": {
     "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
@@ -307,6 +313,16 @@
       "IsNotificationTopmostEnabled": true,
       "IsSettingsEnabled": true,
       "IsActive": false
+    },
+    "0117fb4f-5374-434a-97fb-4f5374634a07": {
+      "IsNotificationEnabled": true,
+      "IsSpeechEnabled": false,
+      "IsNotificationEffectEnabled": true,
+      "IsNotificationSoundEnabled": false,
+      "NotificationSoundPath": "",
+      "IsNotificationTopmostEnabled": false,
+      "IsSettingsEnabled": false,
+      "IsActive": false
     }
   },
   "NotificationChannelsNotifySettings": {
@@ -342,7 +358,7 @@
     }
   },
   "IsSystemSpeechSystemExist": false,
-  "IsNetworkConnect": false,
+  "IsNetworkConnect": true,
   "IsSpeechEnabled": true,
   "SpeechVolume": 1,
   "SpeechSource": 1,
@@ -379,29 +395,29 @@
   "IsAutomationWarningVisible": false,
   "UpdateMode": 3,
   "SelectedChannel": "https://install.appcenter.ms/api/v0.1/apps/hellowrc/classisland/distribution_groups/public",
-  "LastCheckUpdateTime": "2025-08-27T21:16:24.2035365+08:00",
+  "LastCheckUpdateTime": "2025-09-07T10:15:12.7136707+08:00",
   "LastUpdateStatus": 0,
   "AutoInstallUpdateNextStartup": true,
   "SpeedTestResults": {
     "main": {
-      "Delay": 0,
-      "CanConnect": false,
-      "IsTested": false,
+      "Delay": 46,
+      "CanConnect": true,
+      "IsTested": true,
       "IsTesting": false,
       "IsDelayUnclear": false,
       "IsActive": false
     },
     "github-origin": {
-      "Delay": 0,
-      "CanConnect": false,
-      "IsTested": false,
+      "Delay": 77,
+      "CanConnect": true,
+      "IsTested": true,
       "IsTesting": false,
-      "IsDelayUnclear": false,
+      "IsDelayUnclear": true,
       "IsActive": false
     }
   },
   "IsAutoSelectUpgradeMirror": true,
-  "LastSpeedTest": "2025-08-27T20:41:44.7635196+08:00",
+  "LastSpeedTest": "2025-09-06T22:54:54.8939074+08:00",
   "LastUpdateSourceKind": 2,
   "UpdateReleaseInfo": "",
   "UpdateDownloadUrl": "",
@@ -424,19 +440,19 @@
   "LastWeatherInfo": {
     "current": {
       "feelsLike": {
-        "value": "29",
+        "value": "26",
         "unit": "℃"
       },
       "humidity": {
-        "value": "91",
+        "value": "75",
         "unit": "%"
       },
       "pressure": {
-        "value": "949",
+        "value": "951",
         "unit": "hPa"
       },
       "temperature": {
-        "value": "24",
+        "value": "25",
         "unit": "℃"
       },
       "visibility": {
@@ -444,54 +460,25 @@
         "unit": "km"
       },
       "weather": "2",
-      "pubTime": "2025-08-27T21:32:31+08:00",
+      "pubTime": "2025-09-07T10:38:08+08:00",
       "wind": {
         "direction": {
-          "value": "351.0",
+          "value": "245.0",
           "unit": "°"
         },
         "speed": {
-          "value": "8.0",
+          "value": "3.0",
           "unit": "km/h"
         }
       }
     },
-    "alerts": [
-      {
-        "locationKey": "weathercn:101272007",
-        "alertId": "weathercn:101272007-1756281780000-暴雨黄色",
-        "pubTime": "2025-08-27T16:03:00+08:00",
-        "title": "旌阳发布暴雨黄色预警",
-        "type": "暴雨",
-        "level": "黄色",
-        "detail": "德阳市气象台2025年08月27日16时03分发布暴雨黄色预警：预计27日20时到28日20时绵竹、什邡2市有暴雨，山区部分地方有大暴雨。累计雨量50到90毫米，山区部分地方可达150毫米以上，最大小时雨强40到80毫米。降雨时伴有短时强降雨、雷电、阵性大风等强对流天气。由于强降水落区与前期降水落区重叠，请继续加强山洪、地质灾害、中小河流洪水和城镇积涝等次生灾害防御。",
-        "images": {
-          "icon": "http://f7.market.xiaomi.com/download/Weather/01478a847433f4df9ad256694887cf5d27f1bf612/a.webp",
-          "notice": "http://f4.market.mi-img.com/download/Weather/070db1f97616c4a4f956bb046b67703a76425dabb/a.webp"
-        },
-        "IsDefaultIcon": 0
-      },
-      {
-        "locationKey": "weathercn:101272007",
-        "alertId": "weathercn:101272007-1756280700000-暴雨蓝色",
-        "pubTime": "2025-08-27T15:45:00+08:00",
-        "title": "旌阳发布暴雨蓝色预警",
-        "type": "暴雨",
-        "level": "蓝色",
-        "detail": "四川省气象台2025年08月27日15时45分发布暴雨蓝色预警：8月27日20时到28日20时，雅安市北部，成都、广元、绵阳、德阳、眉山5市西部，乐山市西北部有暴雨到大暴雨（雨量70～150毫米），个别特大暴雨（雨量250～280毫米），最大小时雨强70～90毫米，并伴有短时雷雨大风。另外，阿坝州东部北部和甘孜州东部北部有暴雨到大暴雨（雨量25～70毫米）。相关区域请注意强降雨引发的小流域山洪、地质灾害、中小河流洪水等风险的发生，注意预防。",
-        "images": {
-          "icon": "http://f8.market.mi-img.com/download/Weather/0c5c0d1caa64f44aaa9fdb24679c605ff503748be/a.webp",
-          "notice": "http://f5.market.mi-img.com/download/Weather/0cd9e375d10fb46889048bc5a5ddd5a3ce39f85de/a.webp"
-        },
-        "IsDefaultIcon": 0
-      }
-    ],
-    "updateTime": 1756301705849,
+    "alerts": [],
+    "updateTime": 1757212801036,
     "forecastDaily": {
       "precipitationProbability": {
         "value": [
           "0",
-          "3",
+          "0",
           "0",
           "0",
           "0",
@@ -510,35 +497,31 @@
       "temperature": {
         "value": [
           {
-            "from": "32",
-            "to": "22"
-          },
-          {
             "from": "28",
-            "to": "19"
+            "to": "20"
           },
           {
-            "from": "27",
-            "to": "19"
-          },
-          {
-            "from": "27",
-            "to": "19"
-          },
-          {
-            "from": "31",
+            "from": "30",
             "to": "21"
           },
           {
-            "from": "31",
+            "from": "29",
             "to": "22"
           },
           {
             "from": "28",
-            "to": "23"
+            "to": "22"
           },
           {
-            "from": "29",
+            "from": "27",
+            "to": "22"
+          },
+          {
+            "from": "27",
+            "to": "20"
+          },
+          {
+            "from": "30",
             "to": "22"
           },
           {
@@ -546,28 +529,32 @@
             "to": "22"
           },
           {
-            "from": "32",
-            "to": "23"
+            "from": "26",
+            "to": "19"
           },
           {
-            "from": "33",
-            "to": "24"
+            "from": "23",
+            "to": "17"
           },
           {
-            "from": "33",
-            "to": "25"
+            "from": "19",
+            "to": "14"
           },
           {
-            "from": "33",
-            "to": "25"
+            "from": "18",
+            "to": "14"
           },
           {
-            "from": "33",
-            "to": "26"
+            "from": "21",
+            "to": "15"
           },
           {
-            "from": "33",
-            "to": "26"
+            "from": "17",
+            "to": "15"
+          },
+          {
+            "from": "18",
+            "to": "15"
           }
         ]
       },
@@ -578,16 +565,20 @@
             "to": "3"
           },
           {
-            "from": "2",
-            "to": "9"
+            "from": "0",
+            "to": "1"
           },
           {
             "from": "3",
-            "to": "2"
+            "to": "3"
           },
           {
-            "from": "2",
-            "to": "1"
+            "from": "7",
+            "to": "8"
+          },
+          {
+            "from": "7",
+            "to": "8"
           },
           {
             "from": "1",
@@ -595,18 +586,26 @@
           },
           {
             "from": "1",
+            "to": "7"
+          },
+          {
+            "from": "7",
+            "to": "7"
+          },
+          {
+            "from": "7",
+            "to": "7"
+          },
+          {
+            "from": "7",
             "to": "2"
           },
           {
-            "from": "1",
+            "from": "7",
             "to": "7"
           },
           {
             "from": "7",
-            "to": "2"
-          },
-          {
-            "from": "1",
             "to": "2"
           },
           {
@@ -615,72 +614,16 @@
           },
           {
             "from": "7",
-            "to": "7"
+            "to": "2"
           },
           {
             "from": "7",
-            "to": "7"
-          },
-          {
-            "from": "7",
-            "to": "7"
-          },
-          {
-            "from": "7",
-            "to": "7"
-          },
-          {
-            "from": "7",
-            "to": "7"
+            "to": "2"
           }
         ]
       },
       "sunRiseSet": {
         "value": [
-          {
-            "from": "2025-08-27T06:34:00+08:00",
-            "to": "2025-08-27T19:33:00+08:00"
-          },
-          {
-            "from": "2025-08-28T06:35:00+08:00",
-            "to": "2025-08-28T19:32:00+08:00"
-          },
-          {
-            "from": "2025-08-29T06:36:00+08:00",
-            "to": "2025-08-29T19:30:00+08:00"
-          },
-          {
-            "from": "2025-08-30T06:36:00+08:00",
-            "to": "2025-08-30T19:29:00+08:00"
-          },
-          {
-            "from": "2025-08-31T06:37:00+08:00",
-            "to": "2025-08-31T19:28:00+08:00"
-          },
-          {
-            "from": "2025-09-01T06:37:00+08:00",
-            "to": "2025-09-01T19:27:00+08:00"
-          },
-          {
-            "from": "2025-09-02T06:38:00+08:00",
-            "to": "2025-09-02T19:25:00+08:00"
-          },
-          {
-            "from": "2025-09-03T06:39:00+08:00",
-            "to": "2025-09-03T19:24:00+08:00"
-          },
-          {
-            "from": "2025-09-04T06:39:00+08:00",
-            "to": "2025-09-04T19:23:00+08:00"
-          },
-          {
-            "from": "2025-09-05T06:40:00+08:00",
-            "to": "2025-09-05T19:22:00+08:00"
-          },
-          {
-            "from": "2025-09-06T06:40:00+08:00",
-            "to": "2025-09-06T19:21:00+08:00"
-          },
           {
             "from": "2025-09-07T06:41:00+08:00",
             "to": "2025-09-07T19:19:00+08:00"
@@ -696,16 +639,60 @@
           {
             "from": "2025-09-10T06:43:00+08:00",
             "to": "2025-09-10T19:15:00+08:00"
+          },
+          {
+            "from": "2025-09-11T06:43:00+08:00",
+            "to": "2025-09-11T19:14:00+08:00"
+          },
+          {
+            "from": "2025-09-12T06:44:00+08:00",
+            "to": "2025-09-12T19:13:00+08:00"
+          },
+          {
+            "from": "2025-09-13T06:44:00+08:00",
+            "to": "2025-09-13T19:12:00+08:00"
+          },
+          {
+            "from": "2025-09-14T06:45:00+08:00",
+            "to": "2025-09-14T19:10:00+08:00"
+          },
+          {
+            "from": "2025-09-15T06:45:00+08:00",
+            "to": "2025-09-15T19:09:00+08:00"
+          },
+          {
+            "from": "2025-09-16T06:46:00+08:00",
+            "to": "2025-09-16T19:08:00+08:00"
+          },
+          {
+            "from": "2025-09-17T06:47:00+08:00",
+            "to": "2025-09-17T19:06:00+08:00"
+          },
+          {
+            "from": "2025-09-18T06:47:00+08:00",
+            "to": "2025-09-18T19:05:00+08:00"
+          },
+          {
+            "from": "2025-09-19T06:48:00+08:00",
+            "to": "2025-09-19T19:04:00+08:00"
+          },
+          {
+            "from": "2025-09-20T06:48:00+08:00",
+            "to": "2025-09-20T19:03:00+08:00"
+          },
+          {
+            "from": "2025-09-21T06:49:00+08:00",
+            "to": "2025-09-21T19:01:00+08:00"
           }
         ]
       }
     },
     "forecastHourly": {
       "temperature": {
-        "value": [26, 26, 26, 26, 26, 24, 24, 24, 24, 24, 23, 25, 27, 28, 28, 27, 27, 25, 24, 23, 23, 23, 23]
+        "value": [25, 26, 27, 28, 28, 27, 26, 26, 26, 25, 25, 25, 25, 24, 23, 22, 22, 22, 21, 22, 22, 23, 24]
       },
       "weather": {
-        "value": [1, 1, 2, 2, 2, 2, 3, 3, 3, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 2, 2, 2]
+        "value": [1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 2, 2, 1, 1, 1, 1]
       }
     },
     "minutely": {
@@ -714,7 +701,7 @@
       }
     },
     "aqi": {
-      "aqi": "44"
+      "aqi": "53"
     }
   },
   "CityId": "weathercn:101272007",
@@ -724,13 +711,13 @@
   "ExpIsExcelImportEnabled": false,
   "ExpAllowEditingActivatedTimeLayout": false,
   "DiagnosticFirstLaunchTime": "2025-08-27T20:41:43.9221902+08:00",
-  "DiagnosticStartupCount": 6,
+  "DiagnosticStartupCount": 43,
   "DiagnosticCrashCount": 0,
   "DiagnosticLastCrashTime": "0001-01-01T00:00:00",
   "DiagnosticMemoryKillCount": 0,
   "DiagnosticLastMemoryKillTime": "2025-08-27T20:41:43.9221909+08:00",
   "IsAutoBackupEnabled": true,
-  "LastAutoBackupTime": "2025-08-27T20:41:43.9222957+08:00",
+  "LastAutoBackupTime": "2025-09-06T22:55:42.4945475+08:00",
   "AutoBackupLimit": 16,
   "AutoBackupIntervalDays": 7,
   "OfficialIndexMirrors": {
@@ -740,7 +727,7 @@
   },
   "OfficialSelectedMirror": "github",
   "PluginIndexes": [],
-  "LastRefreshPluginSourceTime": "2025-08-27T20:48:12.3600212+08:00",
+  "LastRefreshPluginSourceTime": "2025-09-06T22:56:38.291715+08:00",
   "IsPluginMarketWarningVisible": false,
   "IsRollingComponentWarningVisible": true,
   "IsThemeWarningVisible": true,
@@ -762,6 +749,8 @@
   "IsSwapMode": true,
   "ShowEchoCaveWhenSettingsPageLoading": false,
   "SettingsPagesCachePolicy": 0,
-  "TrustedProfileIds": [],
+  "TrustedProfileIds": [
+    "68855577-4b58-490f-ae44-9ff016989f58"
+  ],
   "IsActive": false
 }
