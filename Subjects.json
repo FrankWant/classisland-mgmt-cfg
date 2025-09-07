@@ -2,8 +2,8 @@
     "Name": "",
     "TimeLayouts": {},
     "ClassPlans": {},
-    "Subjects": {
-   "8fb79487-2b34-40fb-9e57-378c0238cf37": {
+     "Subjects": {
+    "8fb79487-2b34-40fb-9e57-378c0238cf37": {
       "Name": "选修",
       "Initial": "选",
       "TeacherName": "",
@@ -83,7 +83,9 @@
           "IsClassOffNotificationEnabled": false,
           "ClassPreparingDeltaTime": 60,
           "ClassOnPreparingText": "请同学们有序前往操场进行升旗。",
+          "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
           "ClassOnPreparingMaskText": "升旗提醒",
+          "OutdoorClassOnPreparingMaskText": "即将上课",
           "ClassOnMaskText": "上课",
           "ClassOffMaskText": "课间休息",
           "ClassOffOverlayText": "",
@@ -335,7 +337,9 @@
           "IsClassOffNotificationEnabled": true,
           "ClassPreparingDeltaTime": 420,
           "ClassOnPreparingText": "请同学们尽快前往音乐教室。",
+          "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
           "ClassOnPreparingMaskText": "课程提醒",
+          "OutdoorClassOnPreparingMaskText": "即将上课",
           "ClassOnMaskText": "上课",
           "ClassOffMaskText": "课间休息",
           "ClassOffOverlayText": "",
@@ -380,7 +384,7 @@
     "0ed2307b-4d9b-48fa-97ed-94bd2213c84e": {
       "Name": "体育",
       "Initial": "体",
-      "TeacherName": "解宏伟",
+      "TeacherName": "陈启强",
       "IsOutDoor": true,
       "AttachedObjects": {
         "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
@@ -389,7 +393,9 @@
           "IsClassOffNotificationEnabled": false,
           "ClassPreparingDeltaTime": 420,
           "ClassOnPreparingText": "请同学们尽快前往操场集合。",
+          "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
           "ClassOnPreparingMaskText": "课程提醒",
+          "OutdoorClassOnPreparingMaskText": "即将上课",
           "ClassOnMaskText": "上课",
           "ClassOffMaskText": "课间休息",
           "ClassOffOverlayText": "",
@@ -720,12 +726,84 @@
         }
       },
       "IsActive": false
+    },
+    "b1fe4d52-c5be-4ffc-9eda-e392a52835c6": {
+      "Name": "通用技术",
+      "Initial": "通",
+      "TeacherName": "王路",
+      "IsOutDoor": true,
+      "AttachedObjects": {
+        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+          "IsClassOnNotificationEnabled": true,
+          "IsClassOnPreparingNotificationEnabled": true,
+          "IsClassOffNotificationEnabled": true,
+          "ClassPreparingDeltaTime": 60,
+          "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+          "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+          "ClassOnPreparingMaskText": "即将上课",
+          "OutdoorClassOnPreparingMaskText": "即将上课",
+          "ClassOnMaskText": "上课",
+          "ClassOffMaskText": "课间休息",
+          "ClassOffOverlayText": "",
+          "IsAttachSettingsEnabled": false,
+          "IsActive": false
+        },
+        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+          "IsAttachSettingsEnabled": false,
+          "ShowExtraInfoOnTimePoint": true,
+          "ExtraInfoType": 0,
+          "IsCountdownEnabled": true,
+          "CountdownSeconds": 60,
+          "ExtraInfo4ShowSecondsSeconds": 0,
+          "ScheduleSpacing": 1,
+          "ShowCurrentLessonOnlyOnClass": false,
+          "IsNonExactCountdownEnabled": false,
+          "IsActive": false
+        }
+      },
+      "IsActive": false
+    },
+    "220f1399-d40e-4b2a-9253-5555a4e92b23": {
+      "Name": "信息技术",
+      "Initial": "信",
+      "TeacherName": "易华",
+      "IsOutDoor": true,
+      "AttachedObjects": {
+        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+          "IsClassOnNotificationEnabled": true,
+          "IsClassOnPreparingNotificationEnabled": true,
+          "IsClassOffNotificationEnabled": true,
+          "ClassPreparingDeltaTime": 420,
+          "ClassOnPreparingText": "请同学们尽快前往机房。",
+          "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+          "ClassOnPreparingMaskText": "课程提醒",
+          "OutdoorClassOnPreparingMaskText": "即将上课",
+          "ClassOnMaskText": "上课",
+          "ClassOffMaskText": "课间休息",
+          "ClassOffOverlayText": "",
+          "IsAttachSettingsEnabled": true,
+          "IsActive": false
+        },
+        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+          "IsAttachSettingsEnabled": false,
+          "ShowExtraInfoOnTimePoint": true,
+          "ExtraInfoType": 0,
+          "IsCountdownEnabled": true,
+          "CountdownSeconds": 60,
+          "ExtraInfo4ShowSecondsSeconds": 0,
+          "ScheduleSpacing": 1,
+          "ShowCurrentLessonOnlyOnClass": false,
+          "IsNonExactCountdownEnabled": false,
+          "IsActive": false
+        }
+      },
+      "IsActive": false
     }
   },
   "IsOverlayClassPlanEnabled": false,
   "OverlayClassPlanId": null,
   "TempClassPlanId": null,
-  "TempClassPlanSetupTime": "2025-08-27T20:25:52.692754+08:00",
+  "TempClassPlanSetupTime": "2025-08-31T10:47:20.9339796+08:00",
   "ClassPlanGroups": {
     "acaf4ef0-e261-4262-b941-34ea93cb4369": {
       "Name": "默认",
@@ -740,10 +818,10 @@
   },
   "SelectedClassPlanGroupId": "acaf4ef0-e261-4262-b941-34ea93cb4369",
   "TempClassPlanGroupId": null,
-  "TempClassPlanGroupExpireTime": "2025-08-17T23:58:27.9661712+08:00",
+  "TempClassPlanGroupExpireTime": "2025-08-27T21:45:38.2998007+08:00",
   "IsTempClassPlanGroupEnabled": false,
   "TempClassPlanGroupType": 1,
-  "Id": "b31fdc4b-aacb-4d8c-83a7-ab15e0d94c7f",
+  "Id": "68855577-4b58-490f-ae44-9ff016989f58",
   "OrderedSchedules": {
 
   },

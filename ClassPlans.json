@@ -2,7 +2,7 @@
     "Name": "",
     "TimeLayouts": {},
     "ClassPlans": {
-      "ClassPlans": {
+    "ClassPlans": {
     "c13c4ea5-831a-49ba-975f-132290d63b67": {
       "TimeLayoutId": "291543be-cc22-47de-8882-e24d73ebef8b",
       "TimeRule": {
@@ -58,7 +58,7 @@
           "IsActive": false
         },
         {
-          "SubjectId": "1b9fbafc-80ef-481d-9e0a-bdb45929e3d0",
+          "SubjectId": "b1fe4d52-c5be-4ffc-9eda-e392a52835c6",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -121,34 +121,34 @@
           "IsActive": false
         },
         {
-          "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
           "SubjectId": "923f4a8b-51eb-468b-971d-bb02e7db0163",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -237,7 +237,7 @@
           "IsActive": false
         },
         {
-          "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
+          "SubjectId": "0ed2307b-4d9b-48fa-97ed-94bd2213c84e",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -246,7 +246,7 @@
           "IsActive": false
         },
         {
-          "SubjectId": "0ed2307b-4d9b-48fa-97ed-94bd2213c84e",
+          "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -291,7 +291,7 @@
           "IsActive": false
         },
         {
-          "SubjectId": "9875b24c-470d-4195-8a6a-73925ea4808b",
+          "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -336,7 +336,7 @@
           "IsActive": false
         },
         {
-          "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
+          "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -345,7 +345,7 @@
           "IsActive": false
         },
         {
-          "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
+          "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -354,7 +354,7 @@
           "IsActive": false
         },
         {
-          "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
+          "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -461,16 +461,7 @@
           "IsActive": false
         },
         {
-          "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
+          "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -480,6 +471,15 @@
         },
         {
           "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -497,7 +497,7 @@
           "IsActive": false
         },
         {
-          "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
+          "SubjectId": "0ed2307b-4d9b-48fa-97ed-94bd2213c84e",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -542,7 +542,7 @@
           "IsActive": false
         },
         {
-          "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
+          "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -551,7 +551,7 @@
           "IsActive": false
         },
         {
-          "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
+          "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -560,7 +560,7 @@
           "IsActive": false
         },
         {
-          "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
+          "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -649,7 +649,7 @@
           "IsActive": false
         },
         {
-          "SubjectId": "7b7aea95-30ad-4490-8d98-0c9179c47a10",
+          "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -685,7 +685,7 @@
           "IsActive": false
         },
         {
-          "SubjectId": "fd9f7e13-7060-46e0-9131-c5b6984a30f5",
+          "SubjectId": "220f1399-d40e-4b2a-9253-5555a4e92b23",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -703,7 +703,7 @@
           "IsActive": false
         },
         {
-          "SubjectId": "0ed2307b-4d9b-48fa-97ed-94bd2213c84e",
+          "SubjectId": "7b7aea95-30ad-4490-8d98-0c9179c47a10",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -730,7 +730,7 @@
           "IsActive": false
         },
         {
-          "SubjectId": "923f4a8b-51eb-468b-971d-bb02e7db0163",
+          "SubjectId": "8fb79487-2b34-40fb-9e57-378c0238cf37",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -891,7 +891,7 @@
           "IsActive": false
         },
         {
-          "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
+          "SubjectId": "7b7aea95-30ad-4490-8d98-0c9179c47a10",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -909,7 +909,7 @@
           "IsActive": false
         },
         {
-          "SubjectId": "7b7aea95-30ad-4490-8d98-0c9179c47a10",
+          "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -954,7 +954,7 @@
           "IsActive": false
         },
         {
-          "SubjectId": "7b7aea95-30ad-4490-8d98-0c9179c47a10",
+          "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -963,7 +963,7 @@
           "IsActive": false
         },
         {
-          "SubjectId": "7b7aea95-30ad-4490-8d98-0c9179c47a10",
+          "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -972,7 +972,7 @@
           "IsActive": false
         },
         {
-          "SubjectId": "7b7aea95-30ad-4490-8d98-0c9179c47a10",
+          "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -1034,16 +1034,16 @@
       "IsActive": false
     },
     "0f3f273a-39bb-4f38-92ac-55c7573263e8": {
-      "TimeLayoutId": "897c4aa8-86a0-4532-a363-32ab95ae1ea7",
+      "TimeLayoutId": "610075c6-2de2-40e3-9307-017b57466cbe",
       "TimeRule": {
         "WeekDay": 6,
-        "WeekCountDiv": 0,
+        "WeekCountDiv": 1,
         "WeekCountDivTotal": 3,
         "IsActive": false
       },
       "Classes": [
         {
-          "SubjectId": "9875b24c-470d-4195-8a6a-73925ea4808b",
+          "SubjectId": "f1fdf967-dd2b-41da-8aaa-2eacb76a02c5",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -1098,6 +1098,15 @@
         },
         {
           "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "134d836e-4b64-4909-bddd-55298e17ebfa",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -1660,7 +1669,7 @@
       "IsActive": false
     },
     "5db9f4d2-16e7-48a1-b85b-dd5aabfa8b66": {
-      "TimeLayoutId": "897c4aa8-86a0-4532-a363-32ab95ae1ea7",
+      "TimeLayoutId": "610075c6-2de2-40e3-9307-017b57466cbe",
       "TimeRule": {
         "WeekDay": 6,
         "WeekCountDiv": 2,
@@ -1732,6 +1741,15 @@
           "IsActive": false
         },
         {
+          "SubjectId": "134d836e-4b64-4909-bddd-55298e17ebfa",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
           "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
           "IsChangedClass": false,
           "IsEnabled": true,
@@ -1745,7 +1763,7 @@
       "IsOverlay": false,
       "OverlaySourceId": null,
       "OverlaySetupTime": "2025-01-13T13:50:27.5158103+08:00",
-      "IsEnabled": false,
+      "IsEnabled": true,
       "AssociatedGroup": "acaf4ef0-e261-4262-b941-34ea93cb4369",
       "AttachedObjects": {
         "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
@@ -1785,7 +1803,7 @@
       "IsActive": false
     },
     "ab185581-82f5-4d21-a81b-4a81a6f175d6": {
-      "TimeLayoutId": "897c4aa8-86a0-4532-a363-32ab95ae1ea7",
+      "TimeLayoutId": "610075c6-2de2-40e3-9307-017b57466cbe",
       "TimeRule": {
         "WeekDay": 6,
         "WeekCountDiv": 3,
@@ -1794,7 +1812,7 @@
       },
       "Classes": [
         {
-          "SubjectId": "9875b24c-470d-4195-8a6a-73925ea4808b",
+          "SubjectId": "f1fdf967-dd2b-41da-8aaa-2eacb76a02c5",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -1857,6 +1875,15 @@
           "IsActive": false
         },
         {
+          "SubjectId": "134d836e-4b64-4909-bddd-55298e17ebfa",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
           "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
           "IsChangedClass": false,
           "IsEnabled": true,
@@ -1870,7 +1897,7 @@
       "IsOverlay": false,
       "OverlaySourceId": null,
       "OverlaySetupTime": "2025-01-13T13:50:27.5158103+08:00",
-      "IsEnabled": false,
+      "IsEnabled": true,
       "AssociatedGroup": "acaf4ef0-e261-4262-b941-34ea93cb4369",
       "AttachedObjects": {
         "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
@@ -1928,7 +1955,7 @@
           "IsActive": false
         },
         {
-          "SubjectId": "7b7aea95-30ad-4490-8d98-0c9179c47a10",
+          "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -1937,7 +1964,7 @@
           "IsActive": false
         },
         {
-          "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
+          "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -1964,7 +1991,7 @@
           "IsActive": false
         },
         {
-          "SubjectId": "a41cc849-b4bc-4dfd-a464-7f4fa3e317ca",
+          "SubjectId": "7b7aea95-30ad-4490-8d98-0c9179c47a10",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -1973,7 +2000,7 @@
           "IsActive": false
         },
         {
-          "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
+          "SubjectId": "0ed2307b-4d9b-48fa-97ed-94bd2213c84e",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -1991,7 +2018,7 @@
           "IsActive": false
         },
         {
-          "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
+          "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
